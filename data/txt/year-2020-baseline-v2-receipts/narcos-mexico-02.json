@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt8714904",
+    "imdb_id": "tt8714904",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q55657276",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Narcos:_Mexico"
+  },
+  "coverage_sha256": "210895e0526d6ad1d0b54758d4a25389c63488382bb5cf7f533903427f382bb5",
+  "generated_at": "2026-09-04T08:06:04.614903+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/narcos-mexico-02.cache/cache.20200422.tar.xz",
+      "sha256": "2a03bf285e7b2a3615c5e5bc68e407c4f6cee2409b9f51b1c590b22a93c18e87",
+      "size": 675450400
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/narcos-mexico-02.md",
+      "sha256": "6b6516de2246257f5565aaca77995ac5479a839f495878873ef0eea862d5489e",
+      "size": 552
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/narcos-mexico-02.json",
+      "sha256": "1d64a2bbf06ca4217a6d9c847ae1dbc909cf423fb74813ddf1df596479dde0cd",
+      "size": 2452
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/narcos-mexico-02.json",
+      "sha256": "bf77c3568d62dc2a0fcb75d92d667bd3179555fb6f8e383a0a47d047c0dd33d2",
+      "size": 368
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "f36c01f56e765f625dd9a73b0a1dc6b98eabd9a73af72749e456fec22b9cdb8c",
+      "size": 59173
+    }
+  },
+  "media_object": "narcos-mexico-02",
+  "published_files": {
+    "data/csv/bytes/narcos-mexico-02-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "d69e0d77da099a44bb67cdf03bc8f1a38f36b5a92f5054f0c8fd9c4cd0402f2c",
+    "docs/itemized/figures/narcos-mexico-02-carto-4k.webp": "116420f567c9d98e5c722338e762060b5b22a99a18b968ff20a1cd7c136a163b",
+    "docs/itemized/figures/narcos-mexico-02-carto.png": "2b879f8e4cea7052157a3dbe21599fa42fa48816d458c4de83fe3808e675d00b",
+    "docs/itemized/figures/narcos-mexico-02-cumulative-detail-btiha-itemized-by-bytes.svg": "63cbb8049d4bf2c861ca8336fa5fa2211586844c17e0596ad0e702e95723edae",
+    "docs/itemized/figures/narcos-mexico-02-data-ge-1080p-4k.webp": "ea552a69b959dfc08eaf97d827e8a27f6f5ae989abb8edd13bd22d3780d44127",
+    "docs/itemized/figures/narcos-mexico-02-data-ge-1080p.webp": "655cb6119a817421e49541cb633b766190777e1e6325ab845144f1dc2c641d21",
+    "docs/itemized/figures/narcos-mexico-02-data-lt-1080p-4k.webp": "5bb32254ad0f52fbbaa68edafb758b1cce5c44f8903360df2b22442e6c0a2b1b",
+    "docs/itemized/figures/narcos-mexico-02-data-lt-1080p.webp": "4c55c9eb74877a3452f6335f39b66525306eec74a9a833427c5d21326672730e",
+    "docs/itemized/figures/narcos-mexico-02-downloads-by-day-day.svg": "78969e9e90ae1271eb8d56cce4eb9c4f29a97e8313ce684b5a94045409717e30",
+    "docs/itemized/figures/narcos-mexico-02-downloads-by-week-narcos-mexico-02-week.svg": "dec2a0ea567aef3cef890722a35638a43e4b57af92731a091f63ec242a53d1bf",
+    "docs/itemized/narcos-mexico-02-sample-cache-audit.md": "14ed5ae175b0818dc6a41695b5e94a87b3863750490f106dc31062cc2c303f16",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/narcos-mexico-02/tmp/narcos-mexico-02-cumulative-btiha.geojson",
+        "sha256": "923608d5d40d6f9c671b532f560daa939a84ff446c7e881c809ca09a9ad4a73b",
+        "size": 70724290
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/narcos-mexico-02/tmp/narcos-mexico-02-cumulative-btiha-media-objects.json",
+        "sha256": "982bcbdf27067bb6276cb39aed268f4390ff7d1e2923f96f9d31f55eba003309",
+        "size": 844388
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "narcos-mexico-02",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          47.0,
+          43.0,
+          39.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Seoul",
+          "Ashburn",
+          "London",
+          "Saint Petersburg",
+          "Mumbai",
+          "Lelystad",
+          "Shanghai",
+          "Sofia",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          71.0,
+          49.0,
+          49.0,
+          47.0,
+          33.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "London",
+          "Seoul",
+          "Shanghai",
+          "Mumbai",
+          "Saint Petersburg",
+          "Shenzhen",
+          "Paris",
+          "Nairobi"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 19,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}

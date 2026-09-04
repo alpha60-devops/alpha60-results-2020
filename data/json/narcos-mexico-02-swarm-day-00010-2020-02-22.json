@@ -1,0 +1,17 @@
+{
+    "datestamp": "2020-02-22",
+    "collection_name": "Narcos Mexico",
+    "collection_id": "2",
+    "collection_key": "narcos-mexico-02",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "summary_type": "day",
+    "summary_index": 10,
+    "btiha_size": 222,
+    "upeers_total": 124541,
+    "useeds_total": 41800,
+    "upeers_new": 0,
+    "useeds_new": 0
+}
