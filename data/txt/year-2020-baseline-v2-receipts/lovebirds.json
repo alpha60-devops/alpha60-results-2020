@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt8851668",
+    "imdb_id": "tt8851668",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q61782227",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lovebirds_(2020_film)"
+  },
+  "coverage_sha256": "971548e3c85395c0ead8cb81ccece90c48198f6c863d8e7b6549243ab0df81e9",
+  "generated_at": "2026-09-04T07:37:48.081611+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/lovebirds.cache/cache.20200730.tar.xz",
+      "sha256": "2a7e7c6135db97a390554fb543f49d5d9bedb1d1a73e3744050df47f41bc3aad",
+      "size": 512689676
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/lovebirds.md",
+      "sha256": "bb28fd0fc83697aa2e6ade4f074ccae0202a43279521bc4dfbf21d95f8ba7050",
+      "size": 545
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/lovebirds.json",
+      "sha256": "56a1db7d3c8bfcef6e2673aa9c640f1cad4a1e493d4fb024ba63ee9ab2708b41",
+      "size": 2426
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/lovebirds.json",
+      "sha256": "dc1de47f53a87d0b5d8cc504e29d1b2b6c20d7f5e5dfbfed0943919e45c84c80",
+      "size": 361
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "5d0b61cc4231b0cdd58668c76104a99388723e08e63c257d958a72bf01786df5",
+      "size": 56781
+    }
+  },
+  "media_object": "lovebirds",
+  "published_files": {
+    "data/csv/bytes/lovebirds-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "fc32756aad1d2f28461bbcc25d40fe14c725a71b02d15f7b95d1fc705c691115",
+    "docs/itemized/figures/lovebirds-carto-4k.webp": "24bc79b71539409129173c7685ae5bc9a5d3ce1bff564c9f40be8d71b3292f70",
+    "docs/itemized/figures/lovebirds-carto.png": "94d270ab2222a0351d86bb336c382dde19249a6a77989d32ea8abb7befdc9f46",
+    "docs/itemized/figures/lovebirds-cumulative-detail-btiha-itemized-by-bytes.svg": "297036e0d2a55c6aeae29652b6a31cf6e76ed56f070d04c20bcc31544ae86489",
+    "docs/itemized/figures/lovebirds-data-ge-1080p-4k.webp": "ea4638ca5e64bac7aeb0357c89954a3933711c3f89ae8d0ca2d27041ac4aac7e",
+    "docs/itemized/figures/lovebirds-data-ge-1080p.webp": "ace6f5ff94f0cf2736716cfec1a957e2c5984a196b2397452b9651948e4e515c",
+    "docs/itemized/figures/lovebirds-data-lt-1080p-4k.webp": "e6a74982a49ce98e85c2633dd0626b05912af5122c43ff019e7bfe168e9f6a35",
+    "docs/itemized/figures/lovebirds-data-lt-1080p.webp": "145ec143cf0b1795f0d3c4cb16eef66e5de314a05ac6ebfded20f6d954273aca",
+    "docs/itemized/figures/lovebirds-downloads-by-day-day.svg": "6f5c313bb3a45f2de66a2e0fc0ca54d32e89fdd5c72ea4f41dfb8e649ea37dae",
+    "docs/itemized/figures/lovebirds-downloads-by-week-lovebirds-week.svg": "cacf70c17ccfe0b678f1ee0fe37cf04a3bdf4f9e1a8d24505cd783a2ce65a1aa",
+    "docs/itemized/lovebirds-sample-cache-audit.md": "a334a00ea3e04b146b02da8fe0a7d94ca45be1eb7694e791955b0eecf8df9bf6",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/lovebirds/tmp/lovebirds-cumulative-btiha.geojson",
+        "sha256": "6ce53a9b5878e758f83122164e44b23f956c318df1ff328b76eea5d6b98c2125",
+        "size": 27659310
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/lovebirds/tmp/lovebirds-cumulative-btiha-media-objects.json",
+        "sha256": "fcdfbb1a164873a6bfb86c3438949bd8a8971a358845a4d10d5f4177e121e700",
+        "size": 166860
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "lovebirds",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          68.0,
+          66.0,
+          60.0,
+          58.0,
+          54.0,
+          45.0,
+          45.0,
+          44.0,
+          43.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Pretoria",
+          "Johannesburg",
+          "Nairobi",
+          "Cape Town",
+          "Accra",
+          "Mumbai",
+          "Caracas",
+          "Randburg",
+          "London",
+          "Lagos"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          65.0,
+          35.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Saint Petersburg",
+          "London",
+          "Council Bluffs",
+          "Krasnodar",
+          "Paris",
+          "New York City",
+          "Nizhniy Novgorod",
+          "Montr\u00e9al"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 28,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
