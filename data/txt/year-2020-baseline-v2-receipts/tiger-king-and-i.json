@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt11823076",
+    "imdb_id": "tt11823076",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q88306935",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tiger_King"
+  },
+  "coverage_sha256": "a3e48d9f13153914c943586c7d868e03031cf724b25f428996900fbdfa8a3491",
+  "generated_at": "2026-09-04T08:28:03.533697+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/tiger-king-and-i.cache/cache.20200627.tar.xz",
+      "sha256": "a12ded33dbe7a7fbf4a844485c046ec3b28103fd77449423766344f259849601",
+      "size": 180111192
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/tiger-king-and-i.md",
+      "sha256": "e4d12ca208036db07600a2542215ea4118751438dc6c830868906ffb1733b6a9",
+      "size": 648
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/tiger-king-and-i.json",
+      "sha256": "e1f91f1a28df2d358d3a1fdc7d3d2b5aba6aaf1a456e3d37565a604003c7bf3a",
+      "size": 2504
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/tiger-king-and-i.json",
+      "sha256": "6ffdf8621869226fbde043eee67dc7b6d5c2fef9485b16e957966d507118757a",
+      "size": 367
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "f36c01f56e765f625dd9a73b0a1dc6b98eabd9a73af72749e456fec22b9cdb8c",
+      "size": 59173
+    }
+  },
+  "media_object": "tiger-king-and-i",
+  "published_files": {
+    "data/csv/bytes/tiger-king-and-i-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "43fa1fe30964c2f12c79859a829a806b1316370eb207b23350754caa4573a169",
+    "docs/itemized/figures/tiger-king-and-i-carto-4k.webp": "7bda4dd32593202e565a59e7fe5816efe5cb2499afb17a25afa6e5eed71402db",
+    "docs/itemized/figures/tiger-king-and-i-carto.png": "64edb0a9be6b64864c5a6c40ea0a8f2457e2abccac25834da543f0ecffcbe23c",
+    "docs/itemized/figures/tiger-king-and-i-cumulative-detail-btiha-itemized-by-bytes.svg": "026ebd6b277ba8518ea9ef2d9997672f6497a4274c9aec1eb1d76a96cb7050d5",
+    "docs/itemized/figures/tiger-king-and-i-data-ge-1080p-4k.webp": "0b47aad79a7fb58096a8809c9490bbae340825690f20918f1b74cdb011183359",
+    "docs/itemized/figures/tiger-king-and-i-data-ge-1080p.webp": "f52b13d88c991c073156e534b330ae58f1c0523a8262b1d89fa7568c71f5cdad",
+    "docs/itemized/figures/tiger-king-and-i-data-lt-1080p-4k.webp": "ea828d4667dc08c3d468fe4e0f9384b0d03fedc2c6c77692e94dfe7450247a26",
+    "docs/itemized/figures/tiger-king-and-i-data-lt-1080p.webp": "9c1b66cec62beea915a166d397b814dec556fbfce25009eedf33076cee3db01a",
+    "docs/itemized/figures/tiger-king-and-i-downloads-by-day-day.svg": "762b0263240c3ebabee60e567abf9ccdebcdc09bad76a4b0ee5a1eaa5b37c3ce",
+    "docs/itemized/figures/tiger-king-and-i-downloads-by-week-tiger-king-and-i-week.svg": "0c92ddad772f0d799ae3faf0c6ebda31969e0ca80ea6501bd27736c2064304e4",
+    "docs/itemized/tiger-king-and-i-sample-cache-audit.md": "f9a3b125a8091c84a4c49c9e951af650611cf2c86a410cf298bfb81fd18d9f9d",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/tiger-king-and-i/tmp/tiger-king-and-i-cumulative-btiha.geojson",
+        "sha256": "f5db73fe40382e3751904ba6e482e7eb093c74100779e3d32c4bab353675a056",
+        "size": 14539876
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/tiger-king-and-i/tmp/tiger-king-and-i-cumulative-btiha-media-objects.json",
+        "sha256": "eb3d4bf98c217b1a77ad845d10f5260462e4d43427e02a4264d7fa7c38a2c268",
+        "size": 87707
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "tiger-king-and-i",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          47.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Pretoria",
+          "Moscow",
+          "New York City",
+          "Cape Town",
+          "Sydney",
+          "Toronto",
+          "Montr\u00e9al",
+          "Johannesburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          52.0,
+          49.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Moscow",
+          "Saint Petersburg",
+          "New York City",
+          "Montr\u00e9al",
+          "Toronto",
+          "Amsterdam",
+          "Sydney",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 25,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 15,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 11,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}

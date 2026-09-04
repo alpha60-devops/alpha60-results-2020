@@ -1,0 +1,1859 @@
+{
+    "collection_name": "The Tiger King and I & Extras",
+    "collection_id": "1",
+    "collection_key": "tiger-king-and-i",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "0861052aabc84ce9dc3425290bc618ebf1e2b7a8",
+            "duplicate_0_0": "Tiger-King-Murder-Mayhem-and-Madness-S00E01-The-Tiger-King-and-I-NF-WEB-DL-DD5-1-x264",
+            "duplicate_0_1": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG[TGx].0861052aabc84ce9"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "404a5efa42c431d71913159c6b9d91877efb28b0",
+            "duplicate_1_0": "Tiger-King-Murder-Mayhem-and-Madness-S01E08-720p-WEB-X264-AMRAP[eztv]",
+            "duplicate_1_1": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP[eztv].mkv.404a5efa42c431d7",
+            "duplicate_1_2": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP[eztv].mkv"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "9602d1459975ff070980aa8da76b272a30aa0183",
+            "duplicate_2_0": "Tiger-King-S01-iTALiAN-MULTi-1080p-WEB-x264",
+            "duplicate_2_1": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM.9602d1459975ff07"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "45c72e853280c3e8e0902eb45c9432e972113f79",
+            "duplicate_3_0": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.1080p.NF.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "duplicate_3_1": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.1080p.NF.WEBRip.DDP5.1.x264-NTG[rartv].45c72e853280c3e8"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "235b99135e6174b7efea65f7d4307bf65ec0ef94",
+            "duplicate_4_0": "[limetorrents.info]Tiger.King.-.Murder..Mayhem.and.Madness..2020..S01..1080p.NF.Webrip.REPACK.x265.10bit.EAC3.5.1.-.HxD.",
+            "duplicate_4_1": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].235b99135e6174b7"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "c53b2df69b3dbdedbfabe7468b77c4539db2a50d",
+            "duplicate_5_0": "[limetorrents.info]Tiger.King.Murder.Mayhem.And.Madness.S00E01.720p.NF.WEBRip.DDP5.1.x264-NTG[rartv]",
+            "duplicate_5_1": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.720p.NF.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "348369bee663a69b0fe5f593fb020e828d5f6793",
+            "duplicate_6_0": "[limetorrents.info]Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD[eztv]",
+            "duplicate_6_1": "Tiger-King-Murder-Mayhem-and-Madness-S01E08-480p-x264-mSD[eztv]",
+            "duplicate_6_2": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD[eztv].mkv.348369bee663a69b",
+            "duplicate_6_3": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD[eztv].mkv"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[limetorrents.info]Tiger.King.-.Murder..Mayhem.and.Madness..2020..S01..1080p.NF.Webrip.REPACK.x265.10bit.EAC3.5.1.-.HxD.",
+            "size_total": 12.129396582,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.866046445,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E01 Not Your Average Joe (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.615677323,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E02 Cult of Personality (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.388596751,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E03 The Secret (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.473439751,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E04 Playing with Fire (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.611836486,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E05 Make America Exotic Again (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.212113061,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E06 The Noble Thing to Do (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.161671617,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E07 Dethroned (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.800015148,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E08 The Tiger King and I (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[limetorrents.info]Tiger.King.Murder.Mayhem.And.Madness.S00E01.720p.NF.WEBRip.DDP5.1.x264-NTG[rartv]",
+            "size_total": 1.041754662,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.720p.NF.WEBRip.DDP5.1.x264-NTG[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.041754631,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.720p.NF.WEBRip.DDP5.1.x264-NTG[rartv]/Tiger.King.Murder.Mayhem.And.Madness.S00E01.720p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[limetorrents.info]Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD[eztv]",
+            "size_total": 0.255509864,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.255509864,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Korol_tigrov_-_Ubijstvo_haos_i_bezumie",
+            "size_total": 14.080800413,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.519790565,
+                    "path": "Король тигров - Убийство, хаос и безумие/Tiger.King.Murder.Mayhem.and.Madness.S01E07.WEBRip.720p.rus.2.0.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.605561219,
+                    "path": "Король тигров - Убийство, хаос и безумие/Tiger.King.Murder.Mayhem.and.Madness.S01E06.WEBRip.720p.rus.2.0.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.869198195,
+                    "path": "Король тигров - Убийство, хаос и безумие/Tiger.King.Murder.Mayhem.and.Madness.S01E03.WEBRip.720p.rus.2.0.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.995376631,
+                    "path": "Король тигров - Убийство, хаос и безумие/Tiger.King.Murder.Mayhem.and.Madness.S01E04.WEBRip.720p.rus.2.0.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.205136343,
+                    "path": "Король тигров - Убийство, хаос и безумие/Tiger.King.Murder.Mayhem.and.Madness.S01E02.WEBRip.720p.rus.2.0.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.222631777,
+                    "path": "Король тигров - Убийство, хаос и безумие/Tiger.King.Murder.Mayhem.and.Madness.S01E05.WEBRip.720p.rus.2.0.HDREZKA.STUDIO.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.663105683,
+                    "path": "Король тигров - Убийство, хаос и безумие/Tiger.King.Murder.Mayhem.and.Madness.S01E01.WEBRip.720p.rus.2.0.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Tiger.King.Murder.Mayhem.and.Madness.S01.1080p.",
+            "size_total": 18.314369313,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.948939939,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.1080p.NF.WEB-DL.DDP5.1.x264-NTG/Tiger.King.Murder.Mayhem.and.Madness.S01E01.Not.Your.Average.Joe.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.832759972,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.1080p.NF.WEB-DL.DDP5.1.x264-NTG/Tiger.King.Murder.Mayhem.and.Madness.S01E02.Cult.of.Personality.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.590432091,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.1080p.NF.WEB-DL.DDP5.1.x264-NTG/Tiger.King.Murder.Mayhem.and.Madness.S01E03.The.Secret.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.761699567,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.1080p.NF.WEB-DL.DDP5.1.x264-NTG/Tiger.King.Murder.Mayhem.and.Madness.S01E04.Playing.with.Fire.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.638712667,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.1080p.NF.WEB-DL.DDP5.1.x264-NTG/Tiger.King.Murder.Mayhem.and.Madness.S01E05.Make.America.Exotic.Again.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.334990382,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.1080p.NF.WEB-DL.DDP5.1.x264-NTG/Tiger.King.Murder.Mayhem.and.Madness.S01E06.The.Noble.Thing.to.Do.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.206834695,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.1080p.NF.WEB-DL.DDP5.1.x264-NTG/Tiger.King.Murder.Mayhem.and.Madness.S01E07.Dethroned.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Tiger King (2020) S01 (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE].857d036657fcc2ce",
+            "size_total": 10.329381191,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.86604641,
+                    "path": "Tiger King (2020) S01 (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King (2020) S01E01 Not Your Average Joe (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.615677288,
+                    "path": "Tiger King (2020) S01 (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King (2020) S01E02 Cult of Personality (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.388596717,
+                    "path": "Tiger King (2020) S01 (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King (2020) S01E03 The Secret (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.473439716,
+                    "path": "Tiger King (2020) S01 (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King (2020) S01E04 Playing with Fire (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.611836451,
+                    "path": "Tiger King (2020) S01 (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King (2020) S01E05 Make America Exotic Again (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.212113026,
+                    "path": "Tiger King (2020) S01 (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King (2020) S01E06 The Noble Thing to Do (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.161671583,
+                    "path": "Tiger King (2020) S01 (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King (2020) S01E07 Dethroned (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].235b99135e6174b7",
+            "size_total": 12.129396582,
+            "files_total": 8,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.866046445,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E01 Not Your Average Joe (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.615677323,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E02 Cult of Personality (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.388596751,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E03 The Secret (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.473439751,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E04 Playing with Fire (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.611836486,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E05 Make America Exotic Again (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.212113061,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E06 The Noble Thing to Do (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.161671617,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E07 Dethroned (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 1.800015148,
+                    "path": "Tiger King - Murder, Mayhem and Madness (2020) S01 (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE]/Tiger King - Murder, Mayhem and Madness (2020) S01E08 The Tiger King and I (1080p NF Webrip REPACK x265 10bit EAC3 5.1 - HxD) [TAoE].mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Tiger-King-Murder-Mayhem-and-Madness-S00E01-The-Tiger-King-and-I-NF-WEB-DL-DD5-1-x264",
+            "size_total": 0.644197364,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.644195147,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG[TGx]/Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001528,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG[TGx]/Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 6.89e-7,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Tiger-King-Murder-Mayhem-and-Madness-S01E08-480p-x264-mSD[eztv]",
+            "size_total": 0.255509864,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.255509864,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Tiger-King-Murder-Mayhem-and-Madness-S01E08-720p-WEB-X264-AMRAP[eztv]",
+            "size_total": 1.041722882,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.041722882,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Tiger-King-S01-iTALiAN-MULTi-1080p-WEB-x264(1)",
+            "size_total": 19.760428119,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.180997068,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E01.Non.Un.Joe.Qualunque.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.057714829,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E02.Culto.Della.Personalità.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.745914744,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E03.Il.Segreto.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.979578896,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E04.Non.Si.Gioca.Con.Il.Fuoco.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.846046529,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E05.Facciamo.Tornare.Esotica.L.America.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.545981017,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E06.La.Cosa.Più.Nobile.Da.Fare.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.404195036,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E07.Detronizzato.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Tiger-King-S01-iTALiAN-MULTi-1080p-WEB-x264",
+            "size_total": 19.760428119,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.180997068,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E01.Non.Un.Joe.Qualunque.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.057714829,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E02.Culto.Della.Personalità.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.745914744,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E03.Il.Segreto.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.979578896,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E04.Non.Si.Gioca.Con.Il.Fuoco.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.846046529,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E05.Facciamo.Tornare.Esotica.L.America.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.545981017,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E06.La.Cosa.Più.Nobile.Da.Fare.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.404195036,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E07.Detronizzato.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Tiger.King.1x01.lati.mp4.cda9d38b127ece04",
+            "size_total": 0.489790749,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.489790749,
+                    "path": "Tiger.King.1x01.lati.mp4"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.1080p.NF.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "size_total": 2.364674621,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.1080p.NF.WEBRip.DDP5.1.x264-NTG[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.36467459,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.1080p.NF.WEBRip.DDP5.1.x264-NTG[rartv]/Tiger.King.Murder.Mayhem.And.Madness.S00E01.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.1080p.NF.WEBRip.DDP5.1.x264-NTG[rartv].45c72e853280c3e8",
+            "size_total": 2.364674621,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.1080p.NF.WEBRip.DDP5.1.x264-NTG[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 2.36467459,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.1080p.NF.WEBRip.DDP5.1.x264-NTG[rartv]/Tiger.King.Murder.Mayhem.And.Madness.S00E01.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.720p.NF.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "size_total": 1.041754662,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.720p.NF.WEBRip.DDP5.1.x264-NTG[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.041754631,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.720p.NF.WEBRip.DDP5.1.x264-NTG[rartv]/Tiger.King.Murder.Mayhem.And.Madness.S00E01.720p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.1080p.NF.WEB-DL.DDP5.1.x264-NTG [IPT]",
+            "size_total": 2.379526392,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00316464,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.1080p.NF.WEB-DL.DDP5.1.x264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.003724947,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.1080p.NF.WEB-DL.DDP5.1.x264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.004050712,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.1080p.NF.WEB-DL.DDP5.1.x264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00391012,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.1080p.NF.WEB-DL.DDP5.1.x264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 2.36467459,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.1080p.NF.WEB-DL.DDP5.1.x264-NTG/Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001383,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.1080p.NF.WEB-DL.DDP5.1.x264-NTG/Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.720p.NF.WEB-DL.DDP5.1.x264-NTG [IPT]",
+            "size_total": 1.048354398,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.001404824,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.720p.NF.WEB-DL.DDP5.1.x264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001683142,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.720p.NF.WEB-DL.DDP5.1.x264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001760998,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.720p.NF.WEB-DL.DDP5.1.x264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001749257,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.720p.NF.WEB-DL.DDP5.1.x264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 1.041754631,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.720p.NF.WEB-DL.DDP5.1.x264-NTG/Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.720p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001546,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.720p.NF.WEB-DL.DDP5.1.x264-NTG/Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.720p.NF.WEB-DL.DDP5.1.x264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG [IPT]",
+            "size_total": 0.647022283,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000617714,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000717606,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000746026,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000744262,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG/Screens/screen0004.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.644195147,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG/Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000001528,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG/Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG[TGx].0861052aabc84ce9",
+            "size_total": 0.644197364,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.644195147,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG[TGx]/Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001528,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG[TGx]/Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 6.89e-7,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.409337353,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000067408,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000068184,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.WEBRip.x264-ION10/Subs/3_English.srt"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00006259,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.WEBRip.x264-ION10/Subs/4_French.srt"
+                },
+                {
+                    "number": 6,
+                    "size": 0.000059927,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.WEBRip.x264-ION10/Subs/5_Dutch.srt"
+                },
+                {
+                    "number": 7,
+                    "size": 0.00006105,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.WEBRip.x264-ION10/Subs/6_Swedish.srt"
+                },
+                {
+                    "number": 8,
+                    "size": 0.000071918,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.WEBRip.x264-ION10/Subs/7_Vietnamese.srt"
+                },
+                {
+                    "number": 9,
+                    "size": 0.408946147,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.WEBRip.x264-ION10/Tiger.King.Murder.Mayhem.And.Madness.S00E01.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Tiger.King.Murder.Mayhem.And.Madness.S01.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG [IPT]",
+            "size_total": 18.314369313,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.948939939,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S01.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG/Tiger.King.Murder.Mayhem.And.Madness.S01E01.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.832759972,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S01.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG/Tiger.King.Murder.Mayhem.And.Madness.S01E02.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.590432091,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S01.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG/Tiger.King.Murder.Mayhem.And.Madness.S01E03.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.761699567,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S01.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG/Tiger.King.Murder.Mayhem.And.Madness.S01E04.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.638712667,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S01.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG/Tiger.King.Murder.Mayhem.And.Madness.S01E05.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.334990382,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S01.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG/Tiger.King.Murder.Mayhem.And.Madness.S01E06.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.206834695,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S01.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG/Tiger.King.Murder.Mayhem.And.Madness.S01E07.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Tiger.King.Murder.Mayhem.And.Madness.S01.720p.NF.WEBRip.DDP5.1.Atmos.x264-NTG [IPT]",
+            "size_total": 10.91810067,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.866833188,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S01.720p.NF.WEBRip.DDP5.1.Atmos.x264-NTG/Tiger.King.Murder.Mayhem.And.Madness.S01E01.720p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.772397512,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S01.720p.NF.WEBRip.DDP5.1.Atmos.x264-NTG/Tiger.King.Murder.Mayhem.And.Madness.S01E02.720p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.393567609,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S01.720p.NF.WEBRip.DDP5.1.Atmos.x264-NTG/Tiger.King.Murder.Mayhem.And.Madness.S01E03.720p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.58856717,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S01.720p.NF.WEBRip.DDP5.1.Atmos.x264-NTG/Tiger.King.Murder.Mayhem.And.Madness.S01E04.720p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 1.646307277,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S01.720p.NF.WEBRip.DDP5.1.Atmos.x264-NTG/Tiger.King.Murder.Mayhem.And.Madness.S01E05.720p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.36109503,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S01.720p.NF.WEBRip.DDP5.1.Atmos.x264-NTG/Tiger.King.Murder.Mayhem.And.Madness.S01E06.720p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.289332884,
+                    "path": "Tiger.King.Murder.Mayhem.And.Madness.S01.720p.NF.WEBRip.DDP5.1.Atmos.x264-NTG/Tiger.King.Murder.Mayhem.And.Madness.S01E07.720p.NF.WEB-DL.DDP5.1.x264-NTG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx].87d25d89a64cb29e",
+            "size_total": 2.940665658,
+            "files_total": 9,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.55850176,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]/Tiger.King.Murder.Mayhem.and.Madness.S01E01.720p.NF.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.465879915,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]/Tiger.King.Murder.Mayhem.and.Madness.S01E02.720p.NF.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.362212369,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]/Tiger.King.Murder.Mayhem.and.Madness.S01E03.720p.NF.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.417840444,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]/Tiger.King.Murder.Mayhem.and.Madness.S01E04.720p.NF.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.462910547,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]/Tiger.King.Murder.Mayhem.and.Madness.S01E05.720p.NF.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.338288699,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]/Tiger.King.Murder.Mayhem.and.Madness.S01E06.720p.NF.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.335030476,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]/Tiger.King.Murder.Mayhem.and.Madness.S01E07.720p.NF.WEBRip.x264-GalaxyTV.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 7.59e-7,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]/Win real money.txt"
+                },
+                {
+                    "number": 9,
+                    "size": 6.89e-7,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E07.WEBRip.1080p.rus.2.0.HDREZKA.STUDIO.mkv.b67d4609caf191fc",
+            "size_total": 2.724599418,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.724599418,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E07.WEBRip.1080p.rus.2.0.HDREZKA.STUDIO.mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.788196283,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00887,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.009851337,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.010736183,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.758737708,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.HEVC.x265-MeGusta/Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001055,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.HEVC.x265-MeGusta/Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP [IPT]",
+            "size_total": 2.364647012,
+            "files_total": 18,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.62e-7,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.114645286,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.15,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.rar"
+                },
+                {
+                    "number": 18,
+                    "size": 0.000001264,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.1080p.web.x264-amrap.sfv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD [IPT]",
+            "size_total": 0.256610063,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000325389,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000386603,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.0003872,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.255509864,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD/Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001007,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD/Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD[eztv].mkv.348369bee663a69b",
+            "size_total": 0.255509864,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.255509864,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD[eztv].mkv",
+            "size_total": 0.255509864,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.255509864,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.504542468,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.004157509,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00463212,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00489905,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.490852738,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.HEVC.x265-MeGusta/Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001051,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.HEVC.x265-MeGusta/Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP [IPT]",
+            "size_total": 1.041725783,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 4.59e-7,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.720p.web.x264-amrap.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.720p.web.x264-amrap.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.720p.web.x264-amrap.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.720p.web.x264-amrap.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.720p.web.x264-amrap.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.720p.web.x264-amrap.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.720p.web.x264-amrap.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.720p.web.x264-amrap.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.720p.web.x264-amrap.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.720p.web.x264-amrap.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.041724466,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.720p.web.x264-amrap.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.720p.web.x264-amrap.rar"
+                },
+                {
+                    "number": 13,
+                    "size": 8.58e-7,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP/tiger.king.murder.mayhem.and.madness.s01e08.720p.web.x264-amrap.sfv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP[eztv].mkv.404a5efa42c431d7",
+            "size_total": 1.041722882,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.041722882,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP[eztv].mkv",
+            "size_total": 1.041722882,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.041722882,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.175527022,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000375079,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000438675,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000441067,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.174270927,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.AAC.MP4-Mobile/Tiger.King.Murder.Mayhem.and.Madness.S01E08.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001274,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.AAC.MP4-Mobile/Tiger.King.Murder.Mayhem.and.Madness.S01E08.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.XviD-AFG [IPT]",
+            "size_total": 0.709124033,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00035204,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000458601,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000428542,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.707883698,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.XviD-AFG/Tiger.King.Murder.Mayhem.and.Madness.S01E08.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001152,
+                    "path": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.XviD-AFG/Tiger.King.Murder.Mayhem.and.Madness.S01E08.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM.9602d1459975ff07",
+            "size_total": 19.760428119,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.180997068,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E01.Non.Un.Joe.Qualunque.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.057714829,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E02.Culto.Della.Personalità.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 2.745914744,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E03.Il.Segreto.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 2.979578896,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E04.Non.Si.Gioca.Con.Il.Fuoco.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.846046529,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E05.Facciamo.Tornare.Esotica.L.America.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 2.545981017,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E06.La.Cosa.Più.Nobile.Da.Fare.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 2.404195036,
+                    "path": "Tiger.King.S01.iTALiAN.MULTi.1080p.WEB.x264-MeM/Tiger.King.S01E07.Detronizzato.iTALiAN.MULTi.1080p.WEB.x264-MeM.mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "TMZ.Investigates.Tiger.King.What.Really.Went.Down.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.977796388,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "TMZ.Investigates.Tiger.King.What.Really.Went.Down.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.977796357,
+                    "path": "TMZ.Investigates.Tiger.King.What.Really.Went.Down.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]/TMZ.Investigates.Tiger.King.What.Really.Went.Down.1080p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "TMZ.Investigates.Tiger.King.What.Really.Went.Down.720p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.048974259,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "TMZ.Investigates.Tiger.King.What.Really.Went.Down.720p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 1.048974228,
+                    "path": "TMZ.Investigates.Tiger.King.What.Really.Went.Down.720p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]/TMZ.Investigates.Tiger.King.What.Really.Went.Down.720p.HULU.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "TMZ.Investigates.Tiger.King.What.Really.Went.Down.HULU.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.441908391,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "TMZ.Investigates.Tiger.King.What.Really.Went.Down.HULU.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000062248,
+                    "path": "TMZ.Investigates.Tiger.King.What.Really.Went.Down.HULU.WEBRip.x264-ION10/Subs/TMZ.Investigates.Tiger.King.What.Really.Went.Down.HULU.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000062248,
+                    "path": "TMZ.Investigates.Tiger.King.What.Really.Went.Down.HULU.WEBRip.x264-ION10/Subs/TMZ.Investigates.Tiger.King.What.Really.Went.Down.WEBRip.x264-ION10/2_English.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.441783864,
+                    "path": "TMZ.Investigates.Tiger.King.What.Really.Went.Down.HULU.WEBRip.x264-ION10/TMZ.Investigates.Tiger.King.What.Really.Went.Down.HULU.WEBRip.x264-ION10.mp4"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Король тигров Убийство, хаос и безумие Tiger King Murder, Mayhem and Madness (1 сезон 1-7 серии из 7) [2020, США, WEBRip, 720 [rutracker-5881366]",
+            "size_total": 14.080800413,
+            "files_total": 7,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.663105683,
+                    "path": "Tiger King/01. Not Your Average Joe.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 2.205136343,
+                    "path": "Tiger King/02. Cult of Personality.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 1.869198195,
+                    "path": "Tiger King/03. The Secret.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.995376631,
+                    "path": "Tiger King/04. Playing with Fire.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 2.222631777,
+                    "path": "Tiger King/05. Make America Exotic Again.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 1.605561219,
+                    "path": "Tiger King/06. The Noble Thing to Do.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.519790565,
+                    "path": "Tiger King/07. Dethroned.mkv"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "养虎为患.Tiger.King.Murder.Mayhem.and.Madness.S01E05.中文字幕.WEBrip.720p.mp4.bdcf94398131c958",
+            "size_total": 0.53320544,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.53320544,
+                    "path": "养虎为患.Tiger.King.Murder.Mayhem.and.Madness.S01E05.中文字幕.WEBrip.720p.mp4"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 22,
+            "name": "Tiger.King.Murder.Mayhem.And.Madness.S01.1080p.NF.WEBRip.DDP5.1.Atmos.x264-NTG [IPT]",
+            "btih": "c5158e45269de5940fea3093230d2ed7e919138b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 18.314369313,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 136946,
+            "uuploaders": 75895
+        },
+        {
+            "id": 6,
+            "name": "Tiger King (2020) S01 (1080p AMZN Webrip x265 10bit EAC3 5.1 - HxD) [TAoE].857d036657fcc2ce",
+            "btih": "857d036657fcc2ce27093ae39c6b83b2472c0a1b",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 10.329381191,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 54954,
+            "uuploaders": 29851
+        },
+        {
+            "id": 21,
+            "name": "Tiger.King.Murder.Mayhem.And.Madness.S00E01.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "371805c5f22433ff46a7f35b19b2907ccdc937fe",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.409337353,
+            "creation": "2020-04-19T09:42:02.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53935,
+            "uuploaders": 26457
+        },
+        {
+            "id": 43,
+            "name": "multi-btih-0-2-x-Tiger-King-Murder-Mayhem-and-Madness-S00E01-The-Tiger-King-and-I-NF-WEB-DL-DD5-1-x264",
+            "btih": "0861052aabc84ce9dc3425290bc618ebf1e2b7a8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.644197364,
+            "creation": "2020-04-12T08:14:37.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41216,
+            "uuploaders": 21337
+        },
+        {
+            "id": 32,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.WEB.X264-AMRAP [IPT]",
+            "btih": "ec91a30e51d4713a56dbc1dbfd54d793c6257ba0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.041725783,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 38706,
+            "uuploaders": 16969
+        },
+        {
+            "id": 47,
+            "name": "multi-btih-4-2-x-[limetorrents.info]Tiger.King.-.Murder..Mayhem.and.Madness..2020..S01..1080p.NF.Webrip.REPACK.x265.10bit.EAC3.5.1.-.HxD.",
+            "btih": "235b99135e6174b7efea65f7d4307bf65ec0ef94",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 12.129396582,
+            "creation": "2020-04-17T22:01:31.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 36252,
+            "uuploaders": 13783
+        },
+        {
+            "id": 46,
+            "name": "multi-btih-3-2-x-Tiger.King.Murder.Mayhem.And.Madness.S00E01.1080p.NF.WEBRip.DDP5.1.x264-NTG[rartv]-[rarbg.to]",
+            "btih": "45c72e853280c3e8e0902eb45c9432e972113f79",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.364674621,
+            "creation": "2020-04-19T09:14:09.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 28194,
+            "uuploaders": 5324
+        },
+        {
+            "id": 31,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "1fb9d5c1d7644d228f8f2679e283098003268aa6",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.504542468,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 26391,
+            "uuploaders": 10850
+        },
+        {
+            "id": 28,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD [IPT]",
+            "btih": "06d300d4bfaf22e735d39842727329582686d698",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.256610063,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 26243,
+            "uuploaders": 9381
+        },
+        {
+            "id": 41,
+            "name": "Король тигров Убийство, хаос и безумие Tiger King Murder, Mayhem and Madness (1 сезон 1-7 серии из 7) [2020, США, WEBRip, 720 [rutracker-5881366]",
+            "btih": "30c4459889a346b0e3d0208fce6b741be1e17d59",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 14.080800413,
+            "creation": "2020-04-15T15:39:15.000000000Z,Transmission/2.94 (d8e60ee44f),https://rutracker.org/forum/viewtopic.php?t=5881366",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25053,
+            "uuploaders": 6591
+        },
+        {
+            "id": 39,
+            "name": "TMZ.Investigates.Tiger.King.What.Really.Went.Down.720p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "59208cc46a3ab6edde1528e52147bae7d2f8b632",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.048974259,
+            "creation": "2020-04-19T09:15:00.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22975,
+            "uuploaders": 7255
+        },
+        {
+            "id": 49,
+            "name": "multi-btih-6-4-x-[limetorrents.info]Tiger.King.Murder.Mayhem.and.Madness.S01E08.480p.x264-mSD[eztv]",
+            "btih": "348369bee663a69b0fe5f593fb020e828d5f6793",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.255509864,
+            "creation": "2020-04-13T05:15:10.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22657,
+            "uuploaders": 3451
+        },
+        {
+            "id": 45,
+            "name": "multi-btih-2-2-x-Tiger-King-S01-iTALiAN-MULTi-1080p-WEB-x264",
+            "btih": "9602d1459975ff070980aa8da76b272a30aa0183",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 19.760428119,
+            "creation": "2020-04-06T17:22:16.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 22320,
+            "uuploaders": 5931
+        },
+        {
+            "id": 44,
+            "name": "multi-btih-1-3-x-Tiger-King-Murder-Mayhem-and-Madness-S01E08-720p-WEB-X264-AMRAP[eztv]",
+            "btih": "404a5efa42c431d71913159c6b9d91877efb28b0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.041722882,
+            "creation": "2020-04-13T05:15:04.000000000Z,go.torrent,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21292,
+            "uuploaders": 4229
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Korol_tigrov_-_Ubijstvo_haos_i_bezumie",
+            "btih": "f2cb683ef119194ca1f1db8404f57793baf6a4fc",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 14.080800413,
+            "creation": "2020-04-12T19:12:40.000000000Z,uTorrent/3.5.5,http://rutor.is/torrent/752551",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21030,
+            "uuploaders": 10091
+        },
+        {
+            "id": 27,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.WEB.X264-AMRAP [IPT]",
+            "btih": "b6f6c581e46e20a160de6bba001c6299d1d6b6a7",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.364647012,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 20123,
+            "uuploaders": 6761
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Tiger.King.Murder.Mayhem.and.Madness.S01.1080p.",
+            "btih": "de96e2b487ae694b2d04d875f402f9277717493b",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 18.314369313,
+            "creation": "2020-04-02T10:04:37.000000000Z,http://rutor.is/torrent/750776",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 19978,
+            "uuploaders": 9330
+        },
+        {
+            "id": 36,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.XviD-AFG [IPT]",
+            "btih": "944094532f4562ce8197d20496b1d6ec75acee03",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.709124033,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 19332,
+            "uuploaders": 7046
+        },
+        {
+            "id": 35,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.AAC.MP4-Mobile [IPT]",
+            "btih": "f1870e1068a4a542df33239a5efeca33b32b6368",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.175527022,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 18958,
+            "uuploaders": 2333
+        },
+        {
+            "id": 38,
+            "name": "TMZ.Investigates.Tiger.King.What.Really.Went.Down.1080p.HULU.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "b826d9863a87c95bcbeb56cf8805de681b4bc798",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.977796388,
+            "creation": "2020-04-19T09:14:56.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 18716,
+            "uuploaders": 5739
+        },
+        {
+            "id": 40,
+            "name": "TMZ.Investigates.Tiger.King.What.Really.Went.Down.HULU.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "9d8b80d22621c567016f8b0f06d7eef982125f6a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.441908391,
+            "creation": "2020-04-19T10:00:31.000000000Z,mktorrent 1.0,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17680,
+            "uuploaders": 5231
+        },
+        {
+            "id": 48,
+            "name": "multi-btih-5-2-x-[limetorrents.info]Tiger.King.Murder.Mayhem.And.Madness.S00E01.720p.NF.WEBRip.DDP5.1.x264-NTG[rartv]",
+            "btih": "c53b2df69b3dbdedbfabe7468b77c4539db2a50d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.041754662,
+            "creation": "2020-04-19T12:01:50.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17268,
+            "uuploaders": 5310
+        },
+        {
+            "id": 13,
+            "name": "Tiger.King.1x01.lati.mp4.cda9d38b127ece04",
+            "btih": "cda9d38b127ece0493ec41237c8f0dba374b6175",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.489790749,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14423,
+            "uuploaders": 4376
+        },
+        {
+            "id": 23,
+            "name": "Tiger.King.Murder.Mayhem.And.Madness.S01.720p.NF.WEBRip.DDP5.1.Atmos.x264-NTG [IPT]",
+            "btih": "2f2615329e738ce76f3e2588d43cd12a13bd8e3f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 10.91810067,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 10837,
+            "uuploaders": 209
+        },
+        {
+            "id": 11,
+            "name": "Tiger-King-S01-iTALiAN-MULTi-1080p-WEB-x264(1)",
+            "btih": "9e11faf86d5a9ee1930dc4762f53a941dbf1aa14",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 19.760428119,
+            "creation": "2020-04-06T17:25:17.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9839,
+            "uuploaders": 821
+        },
+        {
+            "id": 42,
+            "name": "养虎为患.Tiger.King.Murder.Mayhem.and.Madness.S01E05.中文字幕.WEBrip.720p.mp4.bdcf94398131c958",
+            "btih": "bdcf94398131c958f7afbd241cedc9ded20340c1",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.53320544,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5762,
+            "uuploaders": 545
+        },
+        {
+            "id": 17,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.1080p.NF.WEB-DL.DDP5.1.x264-NTG [IPT]",
+            "btih": "a4139a793453280898a6437ee366b21173b64d5a",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.379526392,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3341,
+            "uuploaders": 1869
+        },
+        {
+            "id": 24,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV[TGx].87d25d89a64cb29e",
+            "btih": "87d25d89a64cb29ed0f12f8092e0d40d433af16c",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.940665658,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2442,
+            "uuploaders": 1503
+        },
+        {
+            "id": 25,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E07.WEBRip.1080p.rus.2.0.HDREZKA.STUDIO.mkv.b67d4609caf191fc",
+            "btih": "b67d4609caf191fce5763316ab0b398eee33318d",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.724599418,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1720,
+            "uuploaders": 971
+        },
+        {
+            "id": 18,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.720p.NF.WEB-DL.DDP5.1.x264-NTG [IPT]",
+            "btih": "9b172dcf8a305edc0b08a4125a503148aafa812a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.048354398,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1060,
+            "uuploaders": 588
+        },
+        {
+            "id": 26,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S01E08.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "a5720788d410acfdac895a1e26646475712075e3",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.788196283,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 762,
+            "uuploaders": 307
+        },
+        {
+            "id": 19,
+            "name": "Tiger.King.Murder.Mayhem.and.Madness.S00E01.The.Tiger.King.and.I.NF.WEB-DL.DD5.1.x264-NTG [IPT]",
+            "btih": "dedb2ba61ca57ccae2eed2ab0dc8ab6459b92fbe",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.647022283,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 551,
+            "uuploaders": 409
+        }
+    ]
+}
