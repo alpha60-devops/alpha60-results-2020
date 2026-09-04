@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt3230854",
+    "imdb_id": "tt3230854",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q18389644",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Expanse_(TV_series)"
+  },
+  "coverage_sha256": "85413562905847431718f603cb3212488350a68541ae6ab9abdf5dadd2926c3c",
+  "generated_at": "2026-09-04T07:30:47.390977+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/expanse-501.cache/cache.20210223.tar.xz",
+      "sha256": "485cd32f96fdb71954f7dc79f3492cb71fc287acbf98a173de4c4a973760bbfe",
+      "size": 957143568
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/expanse-501.md",
+      "sha256": "27a494112afbdaf0ff923f7e38787b618785b5d847f9321f71e814ccc787b683",
+      "size": 606
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/expanse-501.json",
+      "sha256": "3e5543e7425918d03ec11efdd8636ec594800a80e2044d89eb4c865cd543d2ba",
+      "size": 2368
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/expanse-501.json",
+      "sha256": "83bc8ca393a982e7f9288140bab83764d2d6dafd6b6c659081a9e229127aac87",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "5d0b61cc4231b0cdd58668c76104a99388723e08e63c257d958a72bf01786df5",
+      "size": 56781
+    }
+  },
+  "media_object": "expanse-501",
+  "published_files": {
+    "data/csv/bytes/expanse-501-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "f5d3e00a9b7d499d73ac3167cf72fdb6be724f7184bee6f49e8f8a070ebbba4c",
+    "docs/itemized/expanse-501-sample-cache-audit.md": "7e78b706768a19a05b7809c2f27d2f20b4df4c9fbc6ae0d4fb0f058bf91ff02b",
+    "docs/itemized/figures/expanse-501-carto-4k.webp": "e57fc8eab3640056c147d56eebab59b8d945517e1ab74fe5831ad854404d67cd",
+    "docs/itemized/figures/expanse-501-carto.png": "19fcf0e1280dceef6e15e33abfae6060d7bbeb9df054ccb2c0a73603d178ac3e",
+    "docs/itemized/figures/expanse-501-cumulative-detail-btiha-itemized-by-bytes.svg": "04115517a5cb4a7f7bbdd744acf9e19204f28ce51c8b67fafd340ca62a06f0da",
+    "docs/itemized/figures/expanse-501-data-ge-1080p-4k.webp": "3ce3aea70b0c7806c5c2f877f01a5b9aebee54730bb1e444a731bcbaf7e7e598",
+    "docs/itemized/figures/expanse-501-data-ge-1080p.webp": "75fe414f9213cd880607f68834f8bd5f9092008730db38a788f288f65e0e5dff",
+    "docs/itemized/figures/expanse-501-data-lt-1080p-4k.webp": "6a35298674183842769702ca7d24eb50ef55e033d3fb4f83b90eec1fa58ca407",
+    "docs/itemized/figures/expanse-501-data-lt-1080p.webp": "9bc1b30587888e018195d3073b7b40cefcf4ff9ffb8c78f2a4944859336fe81d",
+    "docs/itemized/figures/expanse-501-downloads-by-day-day.svg": "33875a7943761a6c2a36a7e9db4e69a24d2650d55cfbf1af3b68ffdabdade606",
+    "docs/itemized/figures/expanse-501-downloads-by-week-expanse-501-week.svg": "edfd778fbf6989405a8f0ddc8df5d294e82482acba97cc69d11355d58556d8c6",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/expanse-501/tmp/expanse-501-cumulative-btiha.geojson",
+        "sha256": "531da8a6a7ac48f1d7fc878a8774419aff92b999aad984472168c4a3aea2985d",
+        "size": 54678512
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/expanse-501/tmp/expanse-501-cumulative-btiha-media-objects.json",
+        "sha256": "8cb6d08bf4099485dd6b2908b097ab381747a35aeb29fa2cc3433af3c6b1de7c",
+        "size": 397270
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "expanse-501",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          42.0,
+          42.0,
+          36.0,
+          35.0,
+          35.0,
+          35.0,
+          28.0,
+          27.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Sydney",
+          "Frankfurt am Main",
+          "Moscow",
+          "Toronto",
+          "Council Bluffs",
+          "Amsterdam",
+          "Melbourne",
+          "New York City",
+          "Montr\u00e9al"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          48.0,
+          46.0,
+          46.0,
+          42.0,
+          39.0,
+          37.0,
+          32.0,
+          29.0,
+          28.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Frankfurt am Main",
+          "Council Bluffs",
+          "Sydney",
+          "Moscow",
+          "Toronto",
+          "Amsterdam",
+          "New York City",
+          "Montr\u00e9al",
+          "Melbourne"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 18,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 9,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
