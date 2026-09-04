@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt4566758",
+    "imdb_id": "tt4566758",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q24284283",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mulan_(2020_film)"
+  },
+  "coverage_sha256": "82e7dbaa186783ea681cb2aef768a566c9a8e91fe319eace6d02e297b3794686",
+  "generated_at": "2026-09-04T08:20:30.722722+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/mulan.cache/cache.20210304.tar.xz",
+      "sha256": "df454d1df3dc5acbaf2716accf531f4b5283c09187cb6ab42176f4fbdfbbe541",
+      "size": 7986680612
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/mulan.md",
+      "sha256": "b142515b7506e4178f6501248d71f0354ab3f24d708e62e741cf81b855d9579e",
+      "size": 604
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/mulan.json",
+      "sha256": "05893297a2571a0560e08bcff546a5ef02f25df44bd7499fdb49023bf4c22b09",
+      "size": 3404
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/mulan.json",
+      "sha256": "5c8e5717752fb4141c4c6fa41bcfbc950e37848fdd2ca74649393a615d68e55a",
+      "size": 358
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "5d0b61cc4231b0cdd58668c76104a99388723e08e63c257d958a72bf01786df5",
+      "size": 56781
+    }
+  },
+  "media_object": "mulan",
+  "published_files": {
+    "data/csv/bytes/mulan-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "8ec607599be2eba976f59d40f0139d1d30077ff3bbe8468fda15b0b1c8d40404",
+    "docs/itemized/figures/mulan-carto-4k.webp": "30f348cd06c027be35cdbc5beab9e1e43f32b2720d60eee48478543d910a7fc6",
+    "docs/itemized/figures/mulan-carto.png": "06a2222a29d6691a4df589e3c12d7012c49b84d9cc2849b5154d1b924fc3bdda",
+    "docs/itemized/figures/mulan-cumulative-detail-btiha-itemized-by-bytes.svg": "aee3a52551312482a6bf2acb60471e2acee1b665950831b677e7c2ba6ceaf568",
+    "docs/itemized/figures/mulan-data-ge-1080p-4k.webp": "939e7c5ee290e0a438f6cdffd530d13771327d307ece086bfa707609b2dc9921",
+    "docs/itemized/figures/mulan-data-ge-1080p.webp": "7ac507ecabb9672a34cd19b42ab2eccb318fcff70c2fb1eb7c6e08a757d7c0de",
+    "docs/itemized/figures/mulan-data-lt-1080p-4k.webp": "5a353fad1ddd152f2d412eaa87f8d6aaf858ab41b794267488a165bc247edff3",
+    "docs/itemized/figures/mulan-data-lt-1080p.webp": "4244b341abfd49c76fdce3fd30f75e15d65876068b9b4edc7342f34a2eacb75c",
+    "docs/itemized/figures/mulan-downloads-by-day-day.svg": "2011b1d4f3dd7b9733bb3ec8acf4f9b8254e1f71f50d9e230171eec411a8f983",
+    "docs/itemized/figures/mulan-downloads-by-week-mulan-week.svg": "8f0358f82f2930b1941c79bf0ad0af964203c55dffd3ea04c186d0d8974f9ede",
+    "docs/itemized/mulan-sample-cache-audit.md": "0b9a287f2a1dc4a57372a912b5d667dbfdd501c6f96f7dba49a81e8dee2496f1",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/mulan/tmp/mulan-cumulative-btiha.geojson",
+        "sha256": "2fc36b6e058a07bf0ed5fdb8bd23b4a97af514efbc9b61ba4db1db37055f7e10",
+        "size": 289658048
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/mulan/tmp/mulan-cumulative-btiha-media-objects.json",
+        "sha256": "fc30b665f0fc994f260e7409c6a4811454768afb9f97aa9d439454bc85b4ff79",
+        "size": 358825
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "mulan",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          72.0,
+          70.0,
+          68.0,
+          64.0,
+          62.0,
+          57.0,
+          46.0,
+          41.0,
+          40.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Caracas",
+          "London",
+          "Ashburn",
+          "Santiago",
+          "Moscow",
+          "Columbus",
+          "New York City",
+          "Mumbai",
+          "Seoul",
+          "Tokyo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          81.0,
+          68.0,
+          63.0,
+          61.0,
+          54.0,
+          50.0,
+          45.0,
+          43.0,
+          39.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Columbus",
+          "New York City",
+          "Ashburn",
+          "Seoul",
+          "Shanghai",
+          "Seattle",
+          "Quezon City",
+          "Mumbai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 20,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 48,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
