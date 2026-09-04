@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt0475784",
+    "imdb_id": "tt0475784",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q17572811",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Westworld_(TV_series)"
+  },
+  "coverage_sha256": "ae232cf7066ee83cf994b046a7caf2e04d1bd3d327844f06cf1492535eedc7d4",
+  "generated_at": "2026-09-04T08:33:53.330999+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/westworld-308.cache/cache.20200712.tar.xz",
+      "sha256": "f9155f55f889d1c9273e7054633275d304c2c3bd342746a7f0f2463dc906384f",
+      "size": 1446061708
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/westworld-308.md",
+      "sha256": "7433a7e9bb0a0bff6b42b12d0af319efe9fd5d9cc1ebece130a08734cdc122c0",
+      "size": 549
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/westworld-308.json",
+      "sha256": "f0ff29af9592ad119a8a30d814e925930f508494f6e66d8f5589e1d2664d9eba",
+      "size": 2440
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/westworld-308.json",
+      "sha256": "3dc9a83f56c806ce3adb4eff5405a3fb8be5c3826ea9c566fa9b89cf6c9a7228",
+      "size": 365
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "f36c01f56e765f625dd9a73b0a1dc6b98eabd9a73af72749e456fec22b9cdb8c",
+      "size": 59173
+    }
+  },
+  "media_object": "westworld-308",
+  "published_files": {
+    "data/csv/bytes/westworld-308-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "605c44d50a5009435515f92b432be866707d0f411401f5d7fd5ce17cc16d2b90",
+    "docs/itemized/figures/westworld-308-carto-4k.webp": "610f2b564ab187a136616518ac30a386601744e1e001b3404d1d8d162d77579c",
+    "docs/itemized/figures/westworld-308-carto.png": "8e17659e7ef3dee42aa0f3b3f0fc2e2d9a314a22df236febde856d12838610d6",
+    "docs/itemized/figures/westworld-308-cumulative-detail-btiha-itemized-by-bytes.svg": "f844524b9678cdcbc69c246d5e941ec4d7703916f1c3fb5d0c36bfe9fa1ce9bd",
+    "docs/itemized/figures/westworld-308-data-ge-1080p-4k.webp": "610fa37bf72b1f9e265f2e4f91d29c05719daa8b98723188cc0f203d658e59d8",
+    "docs/itemized/figures/westworld-308-data-ge-1080p.webp": "9cc2b8f67991d2a20be8cf642742981f8b419cfcfe0fa05a08e8f07ac1b1d024",
+    "docs/itemized/figures/westworld-308-data-lt-1080p-4k.webp": "56246b913bc008dd48a4a421092e246ba6373cf6ee16e6b01f3bd77de2de9883",
+    "docs/itemized/figures/westworld-308-data-lt-1080p.webp": "1711bf3a1e7531f9d9e52cf27c602418225b772f0c0d6d3aa83a923bea528d37",
+    "docs/itemized/figures/westworld-308-downloads-by-day-day.svg": "1afb31e18aa4ca9cfe089cbb3832ae536d9b87385ef3de2e1c66ceb1fbab03a3",
+    "docs/itemized/figures/westworld-308-downloads-by-week-westworld-308-week.svg": "5b1cf13293f1e96214c921d68027d96f27dd1d9c7b3a3fa8dea817cb2477881b",
+    "docs/itemized/westworld-308-sample-cache-audit.md": "4ff2bb32eeef15e9603f319cfa26ff6973259e2e9a370663509ff2e2f61441fe",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/westworld-308/tmp/westworld-308-cumulative-btiha.geojson",
+        "sha256": "08c7e651232c107cd5940e25fbc357eb5acc876c69ca1a03cb0865ed57392120",
+        "size": 87336197
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/westworld-308/tmp/westworld-308-cumulative-btiha-media-objects.json",
+        "sha256": "664a3c658ba98ed2073ea355fa52ecb55cba25008fc396c840b80c8cb035774b",
+        "size": 414485
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "westworld-308",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          47.0,
+          42.0,
+          39.0,
+          36.0,
+          33.0,
+          31.0,
+          31.0,
+          31.0,
+          30.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "New York City",
+          "Ashburn",
+          "Columbus",
+          "Sydney",
+          "S\u00e3o Paulo",
+          "Moscow",
+          "Shanghai",
+          "Seattle",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          47.0,
+          46.0,
+          38.0,
+          30.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "London",
+          "Ashburn",
+          "Saint Petersburg",
+          "New York City",
+          "Shanghai",
+          "Columbus",
+          "S\u00e3o Paulo",
+          "Seattle",
+          "Seoul"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 45,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
