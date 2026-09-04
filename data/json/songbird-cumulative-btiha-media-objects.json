@@ -1,0 +1,1675 @@
+{
+    "collection_name": "Songbird",
+    "collection_id": "",
+    "collection_key": "songbird",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "cb9c69318727afb9791807110b46f8b67dcfdf74",
+            "duplicate_0_0": "Songbird-2020-1080p-AMZN-WEB-DL-DDP5-1-H264",
+            "duplicate_0_1": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO[TGx]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "f35c813deb0a002e989bf157cc0fc7d2e1066207",
+            "duplicate_1_0": "Songbird-2020-1080p-AMZN-WEBRip-DDP5-1-x264",
+            "duplicate_1_1": "Songbird.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NOGRP-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "b46ccdd593ddb54113ad4c8f2d59f1cd3facf762",
+            "duplicate_2_0": "Songbird-2020-1080p-WEBRip-x264-RARBG",
+            "duplicate_2_1": "Songbird.2020.1080p.WEBRip.x264-RARBG-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "a4b7c08220d91b50150bba1ff77c86fb6ea290fa",
+            "duplicate_3_0": "Songbird-2020-1080p-WEBRip-x265-RARBG",
+            "duplicate_3_1": "Songbird.2020.1080p.WEBRip.x265-RARBG-[rarbg.to]",
+            "duplicate_3_2": "Songbird.2020.1080p.WEBRip.x265-RARBG"
+        },
+        {
+            "duplicate_id": 4,
+            "duplicate_btih": "0d9df510f99503e85e1ca23f12c985c9810d55a8",
+            "duplicate_4_0": "Songbird-2020-720p-AMZN-WEBRip-AAC2-0-X-264-EVO",
+            "duplicate_4_1": "Torrenting.org   -   Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO"
+        },
+        {
+            "duplicate_id": 5,
+            "duplicate_btih": "5021ebd1c38bf6aa7f0cbe07f600313cc7fe65a2",
+            "duplicate_5_0": "Songbird-2020-720p-WEBRip-Hindi-Dub-Dual-Audio-x264-1XBET",
+            "duplicate_5_1": "Songbird.2020.720p.WEBRip.Hindi.Dub.Dual-Audio.x264-1XBET.mkv"
+        },
+        {
+            "duplicate_id": 6,
+            "duplicate_btih": "935d5ea9666f8b31b4ad614024d02203670de287",
+            "duplicate_6_0": "Songbird-2020-720p-WEBRip-Hindi-Sub-x264-1XBET",
+            "duplicate_6_1": "Songbird.2020.720p.WEBRip.Hindi.Sub.x264-1XBET.mkv"
+        },
+        {
+            "duplicate_id": 7,
+            "duplicate_btih": "114b862ad4dbaa19f157d4264c1db196a6d37a4f",
+            "duplicate_7_0": "Songbird-2020-WEBRip-XviD-MP3-XVID",
+            "duplicate_7_1": "Songbird.2020.WEBRip.XviD.MP3-XVID-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 8,
+            "duplicate_btih": "379347714a3375c099ed8e0b4d4eeac8d03b01d3",
+            "duplicate_8_0": "Songbird-2020-WEBRip-x264",
+            "duplicate_8_1": "Songbird.2020.WEBRip.x264-ION10-[rarbg.to]",
+            "duplicate_8_2": "Songbird.2020.WEBRip.x264-ION10"
+        },
+        {
+            "duplicate_id": 9,
+            "duplicate_btih": "21d1caf9afea72766c9768d41e2cbd0ef562eaac",
+            "duplicate_9_0": "[ OxTorrent.cc ] Songbird FRENCH WEBRIP 1080p 2020",
+            "duplicate_9_1": "[ OxTorrent.cc ] Songbird.2020.MULTI.1080p.WEB.H264-FRATERNiTY.mkv",
+            "duplicate_9_2": "[-]-Songbird-2020-MULTI-1080p-WEB-H264-FRATERNiTY"
+        },
+        {
+            "duplicate_id": 10,
+            "duplicate_btih": "0f773e5e9178c738dbf88591e568135a10ac1acf",
+            "duplicate_10_0": "[ OxTorrent.cc ] Songbird FRENCH WEBRIP 2020",
+            "duplicate_10_1": "[ OxTorrent.cc ] Songbird.2020.FRENCH.HDRip.XviD-EXTREME.avi",
+            "duplicate_10_2": "[-]-Songbird-2020-FRENCH-HDRip-XviD-EXTREME",
+            "duplicate_10_3": "Songbird-2020-FRENCH-HDRip-XviD-EXTREME"
+        },
+        {
+            "duplicate_id": 11,
+            "duplicate_btih": "da9983892b84ce830e91e05f812b5ce8e065ea8f",
+            "duplicate_11_0": "[ OxTorrent.cc ] Songbird FRENCH WEBRIP 720p 2020",
+            "duplicate_11_1": "[ OxTorrent.cc ] Songbird.2020.FRENCH.720p.WEB.H264-FRATERNiTY.mkv",
+            "duplicate_11_2": "[-]-Songbird-2020-FRENCH-720p-WEB-H264-FRATERNiTY(1)",
+            "duplicate_11_3": "[-]-Songbird-2020-FRENCH-720p-WEB-H264-FRATERNiTY"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[ OxTorrent.cc ] Songbird FRENCH WEBRIP 1080p 2020",
+            "size_total": 3.409039494,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.409039494,
+                    "path": "[ OxTorrent.cc ] Songbird.2020.MULTI.1080p.WEB.H264-FRATERNiTY.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[ OxTorrent.cc ] Songbird FRENCH WEBRIP 2020",
+            "size_total": 0.814143512,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.814143512,
+                    "path": "[ OxTorrent.cc ] Songbird.2020.FRENCH.HDRip.XviD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[ OxTorrent.cc ] Songbird FRENCH WEBRIP 720p 2020",
+            "size_total": 2.834768225,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.834768225,
+                    "path": "[ OxTorrent.cc ] Songbird.2020.FRENCH.720p.WEB.H264-FRATERNiTY.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[ OxTorrent.cc ] Songbird.2020.FRENCH.720p.WEB.H264-FRATERNiTY.mkv",
+            "size_total": 2.834768225,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.834768225,
+                    "path": "[ OxTorrent.cc ] Songbird.2020.FRENCH.720p.WEB.H264-FRATERNiTY.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[ OxTorrent.cc ] Songbird.2020.FRENCH.HDRip.XviD-EXTREME.avi",
+            "size_total": 0.814143512,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.814143512,
+                    "path": "[ OxTorrent.cc ] Songbird.2020.FRENCH.HDRip.XviD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[ OxTorrent.cc ] Songbird.2020.MULTI.1080p.WEB.H264-FRATERNiTY.mkv",
+            "size_total": 3.409039494,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.409039494,
+                    "path": "[ OxTorrent.cc ] Songbird.2020.MULTI.1080p.WEB.H264-FRATERNiTY.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[-]-Songbird-2020-FRENCH-720p-WEB-H264-FRATERNiTY(1)",
+            "size_total": 2.834768225,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.834768225,
+                    "path": "[ OxTorrent.cc ] Songbird.2020.FRENCH.720p.WEB.H264-FRATERNiTY.mkv"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "[-]-Songbird-2020-FRENCH-720p-WEB-H264-FRATERNiTY",
+            "size_total": 2.834768225,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.834768225,
+                    "path": "[ OxTorrent.cc ] Songbird.2020.FRENCH.720p.WEB.H264-FRATERNiTY.mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "[-]-Songbird-2020-FRENCH-HDRip-XviD-EXTREME",
+            "size_total": 0.814143512,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.814143512,
+                    "path": "[ OxTorrent.cc ] Songbird.2020.FRENCH.HDRip.XviD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "[-]-Songbird-2020-MULTI-1080p-WEB-H264-FRATERNiTY",
+            "size_total": 3.409039494,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.409039494,
+                    "path": "[ OxTorrent.cc ] Songbird.2020.MULTI.1080p.WEB.H264-FRATERNiTY.mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Songbird (2020) [BluRay 720p X264 MKV][AC3 5.1 Latino][www.PctMix.Com]",
+            "size_total": 1.697065174,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.11e-7,
+                    "path": "Songbird (2020) [BluRay 720p X264 MKV][AC3 5.1 Latino][www.PctMix.Com]/PCTFENIX COM.url"
+                },
+                {
+                    "number": 2,
+                    "size": 1.11e-7,
+                    "path": "Songbird (2020) [BluRay 720p X264 MKV][AC3 5.1 Latino][www.PctMix.Com]/PCTMIX COM.url"
+                },
+                {
+                    "number": 3,
+                    "size": 1.12e-7,
+                    "path": "Songbird (2020) [BluRay 720p X264 MKV][AC3 5.1 Latino][www.PctMix.Com]/PCTRELOAD COM.url"
+                },
+                {
+                    "number": 4,
+                    "size": 1.69706484,
+                    "path": "Songbird (2020) [BluRay 720p X264 MKV][AC3 5.1 Latino][www.PctMix.Com]/Songbird (2020) [BluRay 720p X264 MKV][AC3 5.1 Latino][www.PctMix.Com].mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Songbird (2020) WEBDL 1080p LAT - ZeiZ",
+            "size_total": 1.676697134,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000054353,
+                    "path": "Songbird (2020) WEBDL 1080p LAT - ZeiZ/Songbird (2020) WEBDL 1080p LAT - ZeiZ.jpg"
+                },
+                {
+                    "number": 2,
+                    "size": 1.676642781,
+                    "path": "Songbird (2020) WEBDL 1080p LAT - ZeiZ/Songbird (2020) WEBDL 1080p LAT - ZeiZ.mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Songbird (2020) โควิด 23 ไวรัสล้างโลก [1080p].mkv",
+            "size_total": 1.733397274,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.733397274,
+                    "path": "Songbird (2020) โควิด 23 ไวรัสล้างโลก [1080p].mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Songbird-(2020)-(1080p)-[WEBRip]-[5 1]-[YTS-MX]",
+            "size_total": 1.678719627,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.678580626,
+                    "path": "Songbird (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Songbird.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000085775,
+                    "path": "Songbird (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/Songbird.2020.1080p.WEBRip.x264.AAC5.1-[YTS.MX].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000053226,
+                    "path": "Songbird (2020) [1080p] [WEBRip] [5.1] [YTS.MX]/www.YTS.MX.jpg"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Songbird-(2020)-720p-English-HDRip-x264-AAC-ESub-By-Full4Movies",
+            "size_total": 0.834065162,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.834065162,
+                    "path": "Songbird (2020) 720p English HDRip x264 AAC ESub By Full4Movies.mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Songbird-(2020)-[720p]-[WEBRip]-[YTS-MX]",
+            "size_total": 0.816525565,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.816386564,
+                    "path": "Songbird (2020) [720p] [WEBRip] [YTS.MX]/Songbird.2020.720p.WEBRip.x264.AAC-[YTS.MX].mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000085775,
+                    "path": "Songbird (2020) [720p] [WEBRip] [YTS.MX]/Songbird.2020.720p.WEBRip.x264.AAC-[YTS.MX].srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000053226,
+                    "path": "Songbird (2020) [720p] [WEBRip] [YTS.MX]/www.YTS.MX.jpg"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Songbird-2020-1080p-AMZN-WEB-DL-DDP5-1-H264-EVO",
+            "size_total": 6.230289929,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.230289219,
+                    "path": "Torrenting.org   -   Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO/Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.24e-7,
+                    "path": "Torrenting.org   -   Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO/Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO.NFO"
+                },
+                {
+                    "number": 3,
+                    "size": 8.6e-8,
+                    "path": "Torrenting.org   -   Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO/Torrent Downloaded From  Torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Songbird-2020-1080p-AMZN-WEB-DL-DDP5-1-H264",
+            "size_total": 6.230290521,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.24e-7,
+                    "path": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO[TGx]/Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO.NFO"
+                },
+                {
+                    "number": 2,
+                    "size": 6.230289219,
+                    "path": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO[TGx]/Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.78e-7,
+                    "path": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Songbird-2020-1080p-AMZN-WEBRip-DD5-1-X-264-EVO",
+            "size_total": 1.64416681,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.64416613,
+                    "path": "Torrenting.org   -   Songbird.2020.1080p.AMZN.WEBRip.DD5.1.X.264-EVO/Songbird.2020.1080p.AMZN.WEBRip.DD5.1.X.264-EVO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.94e-7,
+                    "path": "Torrenting.org   -   Songbird.2020.1080p.AMZN.WEBRip.DD5.1.X.264-EVO/Songbird.2020.1080p.AMZN.WEBRip.DD5.1.X.264-EVO.NFO"
+                },
+                {
+                    "number": 3,
+                    "size": 8.6e-8,
+                    "path": "Torrenting.org   -   Songbird.2020.1080p.AMZN.WEBRip.DD5.1.X.264-EVO/Torrent Downloaded From  Torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Songbird-2020-1080p-AMZN-WEBRip-DDP5-1-x264",
+            "size_total": 6.23028925,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Songbird.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NOGRP/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.230289219,
+                    "path": "Songbird.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NOGRP/Songbird.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NOGRP.mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Songbird-2020-1080p-WEBRip-x264-RARBG",
+            "size_total": 1.735150423,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Songbird.2020.1080p.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Songbird.2020.1080p.WEBRip.x264-RARBG/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.735064034,
+                    "path": "Songbird.2020.1080p.WEBRip.x264-RARBG/Songbird.2020.1080p.WEBRip.x264-RARBG.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00008626,
+                    "path": "Songbird.2020.1080p.WEBRip.x264-RARBG/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Songbird-2020-1080p-WEBRip-x265-RARBG",
+            "size_total": 1.418062889,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Songbird.2020.1080p.WEBRip.x265-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Songbird.2020.1080p.WEBRip.x265-RARBG/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.4179765,
+                    "path": "Songbird.2020.1080p.WEBRip.x265-RARBG/Songbird.2020.1080p.WEBRip.x265-RARBG.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00008626,
+                    "path": "Songbird.2020.1080p.WEBRip.x265-RARBG/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Songbird-2020-720p-AMZN-WEBRip-AAC2-0-X-264-EVO",
+            "size_total": 0.782417793,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.782417114,
+                    "path": "Torrenting.org   -   Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO/Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.93e-7,
+                    "path": "Torrenting.org   -   Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO/Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO.NFO"
+                },
+                {
+                    "number": 3,
+                    "size": 8.6e-8,
+                    "path": "Torrenting.org   -   Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO/Torrent Downloaded From  Torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Songbird-2020-720p-WEBRip-800MB-x264-GalaxyRG-⭐",
+            "size_total": 0.835270567,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.835269741,
+                    "path": "Songbird.2020.720p.WEBRip.800MB.x264-GalaxyRG[TGx]/Songbird.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.48e-7,
+                    "path": "Songbird.2020.720p.WEBRip.800MB.x264-GalaxyRG[TGx]/Songbird.2020.720p.WEBRip.800MB.x264-GalaxyRG.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 6.78e-7,
+                    "path": "Songbird.2020.720p.WEBRip.800MB.x264-GalaxyRG[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Songbird-2020-720p-WEBRip-Hindi-Dub-Dual-Audio-x264-1XBET",
+            "size_total": 0.766534737,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.766534737,
+                    "path": "Songbird.2020.720p.WEBRip.Hindi.Dub.Dual-Audio.x264-1XBET.mkv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Songbird-2020-720p-WEBRip-Hindi-Sub-x264-1XBET",
+            "size_total": 0.708752467,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.708752467,
+                    "path": "Songbird.2020.720p.WEBRip.Hindi.Sub.x264-1XBET.mkv"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Songbird-2020-FRENCH-HDRip-XviD-EXTREME",
+            "size_total": 0.814143512,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.814143512,
+                    "path": "[ OxTorrent.cc ] Songbird.2020.FRENCH.HDRip.XviD-EXTREME.avi"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Songbird-2020-HDR-2160p-WEB-HEVC-DDP5-1-DDR",
+            "size_total": 6.744315072,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.744315072,
+                    "path": "Songbird.2020.HDR.2160p.WEB.HEVC.DDP5.1-DDR.mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Songbird-2020-HDRip-XviD-AC3-EVO",
+            "size_total": 1.455283137,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.455282446,
+                    "path": "Torrenting.org   -   Songbird.2020.HDRip.XviD.AC3-EVO/Songbird.2020.HDRip.XviD.AC3-EVO.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 6.05e-7,
+                    "path": "Torrenting.org   -   Songbird.2020.HDRip.XviD.AC3-EVO/Songbird.2020.HDRip.XviD.AC3-EVO.NFO"
+                },
+                {
+                    "number": 3,
+                    "size": 8.6e-8,
+                    "path": "Torrenting.org   -   Songbird.2020.HDRip.XviD.AC3-EVO/Torrent Downloaded From  Torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Songbird-2020-HDRip-XviD",
+            "size_total": 1.455283729,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.05e-7,
+                    "path": "Songbird.2020.HDRip.XviD.AC3-EVO[TGx]/Songbird.2020.HDRip.XviD.AC3-EVO.NFO"
+                },
+                {
+                    "number": 2,
+                    "size": 1.455282446,
+                    "path": "Songbird.2020.HDRip.XviD.AC3-EVO[TGx]/Songbird.2020.HDRip.XviD.AC3-EVO.avi"
+                },
+                {
+                    "number": 3,
+                    "size": 6.78e-7,
+                    "path": "Songbird.2020.HDRip.XviD.AC3-EVO[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Songbird-2020-WEBRip-x264",
+            "size_total": 0.86612515,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Songbird.2020.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Songbird.2020.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.866038761,
+                    "path": "Songbird.2020.WEBRip.x264-ION10/Songbird.2020.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00008626,
+                    "path": "Songbird.2020.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Songbird-2020-WEBRip-XviD-MP3-XVID",
+            "size_total": 1.061312189,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Songbird.2020.WEBRip.XviD.MP3-XVID/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Songbird.2020.WEBRip.XviD.MP3-XVID/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.0612258,
+                    "path": "Songbird.2020.WEBRip.XviD.MP3-XVID/Songbird.2020.WEBRip.XviD.MP3-XVID.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00008626,
+                    "path": "Songbird.2020.WEBRip.XviD.MP3-XVID/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO [IPT]",
+            "size_total": 6.230289843,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.230289219,
+                    "path": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO/Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.24e-7,
+                    "path": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO/Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO.NFO"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO",
+            "size_total": 6.23036996,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.230289219,
+                    "path": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO/Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.24e-7,
+                    "path": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO/Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO.NFO"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000080117,
+                    "path": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO/Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO.srt"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO[TGx]",
+            "size_total": 6.230290521,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.24e-7,
+                    "path": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO[TGx]/Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO.NFO"
+                },
+                {
+                    "number": 2,
+                    "size": 6.230289219,
+                    "path": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO[TGx]/Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.78e-7,
+                    "path": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO[TGx]/[TGx]Downloaded from torrentgalaxy.to .txt"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Songbird.2020.1080p.AMZN.WEBRip.DD5.1.X.264-EVO [IPT]",
+            "size_total": 1.644166724,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.64416613,
+                    "path": "Songbird.2020.1080p.AMZN.WEBRip.DD5.1.X.264-EVO/Songbird.2020.1080p.AMZN.WEBRip.DD5.1.X.264-EVO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.94e-7,
+                    "path": "Songbird.2020.1080p.AMZN.WEBRip.DD5.1.X.264-EVO/Songbird.2020.1080p.AMZN.WEBRip.DD5.1.X.264-EVO.NFO"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Songbird.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NOGRP-[rarbg.to]",
+            "size_total": 6.23028925,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.1e-8,
+                    "path": "Songbird.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NOGRP/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 6.230289219,
+                    "path": "Songbird.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NOGRP/Songbird.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NOGRP.mkv"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Songbird.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NOGRP",
+            "size_total": 6.230289219,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.230289219,
+                    "path": "Songbird.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NOGRP/Songbird.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NOGRP.mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Songbird.2020.1080p.mkv",
+            "size_total": 2.032766516,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.032766516,
+                    "path": "Songbird.2020.1080p.mkv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Songbird.2020.1080p.WEBRip.Legendado.mkv",
+            "size_total": 1.719763189,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.719763189,
+                    "path": "Songbird.2020.1080p.WEBRip.Legendado.mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Songbird.2020.1080p.WEBRip.x264-RARBG-[rarbg.to]",
+            "size_total": 1.735150423,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Songbird.2020.1080p.WEBRip.x264-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Songbird.2020.1080p.WEBRip.x264-RARBG/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.735064034,
+                    "path": "Songbird.2020.1080p.WEBRip.x264-RARBG/Songbird.2020.1080p.WEBRip.x264-RARBG.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00008626,
+                    "path": "Songbird.2020.1080p.WEBRip.x264-RARBG/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Songbird.2020.1080p.WEBRip.x265-RARBG-[rarbg.to]",
+            "size_total": 1.418062889,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Songbird.2020.1080p.WEBRip.x265-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Songbird.2020.1080p.WEBRip.x265-RARBG/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.4179765,
+                    "path": "Songbird.2020.1080p.WEBRip.x265-RARBG/Songbird.2020.1080p.WEBRip.x265-RARBG.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00008626,
+                    "path": "Songbird.2020.1080p.WEBRip.x265-RARBG/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Songbird.2020.1080p.WEBRip.x265-RARBG",
+            "size_total": 1.418062889,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Songbird.2020.1080p.WEBRip.x265-RARBG/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Songbird.2020.1080p.WEBRip.x265-RARBG/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.4179765,
+                    "path": "Songbird.2020.1080p.WEBRip.x265-RARBG/Songbird.2020.1080p.WEBRip.x265-RARBG.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00008626,
+                    "path": "Songbird.2020.1080p.WEBRip.x265-RARBG/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO [IPT]",
+            "size_total": 0.782417707,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.782417114,
+                    "path": "Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO/Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.93e-7,
+                    "path": "Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO/Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO.NFO"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Songbird.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+            "size_total": 0.835269741,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.835269741,
+                    "path": "Songbird.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Songbird.2020.720p.WEBRip.Hindi.Dub.Dual-Audio.x264-1XBET.mkv",
+            "size_total": 0.766534737,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.766534737,
+                    "path": "Songbird.2020.720p.WEBRip.Hindi.Dub.Dual-Audio.x264-1XBET.mkv"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Songbird.2020.720p.WEBRip.Hindi.Sub.x264-1XBET.mkv",
+            "size_total": 0.708752467,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.708752467,
+                    "path": "Songbird.2020.720p.WEBRip.Hindi.Sub.x264-1XBET.mkv"
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Songbird.2020.AMZN.HDR.2160p.WEB-DL.HEVC.DDP5.1-EVO [IPT]",
+            "size_total": 11.182648061,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 9.98245413,
+                    "path": "Songbird.2020.AMZN.HDR.2160p.WEB-DL.HEVC.DDP5.1-EVO/Songbird.2020.AMZN.HDR.2160p.WEB-DL.HEVC.DDP5.1-EVO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.200193251,
+                    "path": "Songbird.2020.AMZN.HDR.2160p.WEB-DL.HEVC.DDP5.1-EVO/sample.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 6.8e-7,
+                    "path": "Songbird.2020.AMZN.HDR.2160p.WEB-DL.HEVC.DDP5.1-EVO/Songbird.2020.AMZN.HDR.2160p.WEB-DL.HEVC.DDP5.1-EVO.nfo"
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Songbird.2020.HDRip.XviD.AC3-EVO [IPT]",
+            "size_total": 1.455283051,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.455282446,
+                    "path": "Songbird.2020.HDRip.XviD.AC3-EVO/Songbird.2020.HDRip.XviD.AC3-EVO.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 6.05e-7,
+                    "path": "Songbird.2020.HDRip.XviD.AC3-EVO/Songbird.2020.HDRip.XviD.AC3-EVO.NFO"
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Songbird.2020.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.86612515,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Songbird.2020.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Songbird.2020.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.866038761,
+                    "path": "Songbird.2020.WEBRip.x264-ION10/Songbird.2020.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00008626,
+                    "path": "Songbird.2020.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Songbird.2020.WEBRip.x264-ION10",
+            "size_total": 0.86612515,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Songbird.2020.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Songbird.2020.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.866038761,
+                    "path": "Songbird.2020.WEBRip.x264-ION10/Songbird.2020.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00008626,
+                    "path": "Songbird.2020.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Songbird.2020.WEBRip.XviD.MP3-XVID-[rarbg.to]",
+            "size_total": 1.061312189,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Songbird.2020.WEBRip.XviD.MP3-XVID/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Songbird.2020.WEBRip.XviD.MP3-XVID/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.0612258,
+                    "path": "Songbird.2020.WEBRip.XviD.MP3-XVID/Songbird.2020.WEBRip.XviD.MP3-XVID.avi"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00008626,
+                    "path": "Songbird.2020.WEBRip.XviD.MP3-XVID/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Songbird.鸣鸟.2020.中英字幕.WEBrip.1080P-同好会.mp4",
+            "size_total": 1.270112446,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.270112446,
+                    "path": "Songbird.鸣鸟.2020.中英字幕.WEBrip.1080P-同好会.mp4"
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Torrenting.org   -   Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO",
+            "size_total": 0.782417793,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.782417114,
+                    "path": "Torrenting.org   -   Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO/Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.93e-7,
+                    "path": "Torrenting.org   -   Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO/Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO.NFO"
+                },
+                {
+                    "number": 3,
+                    "size": 8.6e-8,
+                    "path": "Torrenting.org   -   Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO/Torrent Downloaded From  Torrenting.org.txt"
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "name": "鸣鸟(中英双字幕)-Songbird-2020-BD-1080p-X264-AAC-CHS-ENG-UUMp4",
+            "size_total": 1.75520821,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001121,
+                    "path": "鸣鸟(中英双字幕).Songbird.2020.BD-1080p.X264.AAC.CHS.ENG-UUMp4/悠悠MP4最新地址www.uump4.me.zip"
+                },
+                {
+                    "number": 2,
+                    "size": 9.61e-7,
+                    "path": "鸣鸟(中英双字幕).Songbird.2020.BD-1080p.X264.AAC.CHS.ENG-UUMp4/更多高清MP4请访问www.uump4.me.rtf"
+                },
+                {
+                    "number": 3,
+                    "size": 1.19e-7,
+                    "path": "鸣鸟(中英双字幕).Songbird.2020.BD-1080p.X264.AAC.CHS.ENG-UUMp4/点击进入悠悠MP4.me.URL"
+                },
+                {
+                    "number": 4,
+                    "size": 1.755206009,
+                    "path": "鸣鸟(中英双字幕).Songbird.2020.BD-1080p.X264.AAC.CHS.ENG-UUMp4/鸣鸟(中英双字幕).Songbird.2020.BD-1080p.X264.AAC.CHS.ENG-UUMp4.mp4"
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "name": "鸣鸟.Songbird.2020.HD1080P.X264.AAC.English.CHS-ENG.mp4",
+            "size_total": 1.463633656,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.463633656,
+                    "path": "鸣鸟.Songbird.2020.HD1080P.X264.AAC.English.CHS-ENG.mp4"
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "name": "송버드 Songbird 2020.1080p.KOR.FHDRip.H264.AAC-RTM",
+            "size_total": 3.64216679,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.9e-8,
+                    "path": "송버드 Songbird 2020.1080p.KOR.FHDRip.H264.AAC-RTM/www.btranking.com.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 3.642166761,
+                    "path": "송버드 Songbird 2020.1080p.KOR.FHDRip.H264.AAC-RTM/송버드 Songbird 2020.1080p.KOR.FHDRip.H264.AAC-RTM.mkv"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 66,
+            "name": "multi-btih-8-3-x-Songbird-2020-WEBRip-x264",
+            "btih": "379347714a3375c099ed8e0b4d4eeac8d03b01d3",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.86612515,
+            "creation": "2020-12-11T09:18:09.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 159493,
+            "uuploaders": 56965
+        },
+        {
+            "id": 68,
+            "name": "multi-btih-10-4-x-[ OxTorrent.cc ] Songbird FRENCH WEBRIP 2020",
+            "btih": "0f773e5e9178c738dbf88591e568135a10ac1acf",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.814143512,
+            "creation": "2020-12-17T16:04:29.000000000Z,Transmission/2.92 (14714)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 150741,
+            "uuploaders": 75081
+        },
+        {
+            "id": 24,
+            "name": "Songbird-2020-720p-WEBRip-800MB-x264-GalaxyRG-⭐",
+            "btih": "4c7621a019dd86399b0765a928e4f061150db069",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.835270567,
+            "creation": "2020-12-11T03:59:56.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 137554,
+            "uuploaders": 63874
+        },
+        {
+            "id": 16,
+            "name": "Songbird-(2020)-[720p]-[WEBRip]-[YTS-MX]",
+            "btih": "4243968751ca3d233d2c6615b46b1a4bd64273d4",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.816525565,
+            "creation": "2020-12-11T13:42:28.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 127388,
+            "uuploaders": 42016
+        },
+        {
+            "id": 14,
+            "name": "Songbird-(2020)-(1080p)-[WEBRip]-[5 1]-[YTS-MX]",
+            "btih": "6a87b51ac60f4c1fc1b146420e1825a39fc1cd2f",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.678719627,
+            "creation": "2020-12-11T16:15:07.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 99925,
+            "uuploaders": 39613
+        },
+        {
+            "id": 59,
+            "name": "multi-btih-1-2-x-Songbird-2020-1080p-AMZN-WEBRip-DDP5-1-x264",
+            "btih": "f35c813deb0a002e989bf157cc0fc7d2e1066207",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.23028925,
+            "creation": "2020-12-11T06:25:53.000000000Z,mktorrent 1.0,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 86748,
+            "uuploaders": 34473
+        },
+        {
+            "id": 60,
+            "name": "multi-btih-2-2-x-Songbird-2020-1080p-WEBRip-x264-RARBG",
+            "btih": "b46ccdd593ddb54113ad4c8f2d59f1cd3facf762",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.735150423,
+            "creation": "2020-12-11T07:25:50.000000000Z,RARBG,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 84110,
+            "uuploaders": 30518
+        },
+        {
+            "id": 61,
+            "name": "multi-btih-3-3-x-Songbird-2020-1080p-WEBRip-x265-RARBG",
+            "btih": "a4b7c08220d91b50150bba1ff77c86fb6ea290fa",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 1.418062889,
+            "creation": "2020-12-12T06:31:58.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 74925,
+            "uuploaders": 15699
+        },
+        {
+            "id": 67,
+            "name": "multi-btih-9-3-x-[ OxTorrent.cc ] Songbird FRENCH WEBRIP 1080p 2020",
+            "btih": "21d1caf9afea72766c9768d41e2cbd0ef562eaac",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 3.409039494,
+            "creation": "2020-12-17T16:04:44.000000000Z,Transmission/2.92 (14714)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 71961,
+            "uuploaders": 14893
+        },
+        {
+            "id": 62,
+            "name": "multi-btih-4-2-x-Songbird-2020-720p-AMZN-WEBRip-AAC2-0-X-264-EVO",
+            "btih": "0d9df510f99503e85e1ca23f12c985c9810d55a8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.782417793,
+            "creation": "2020-12-12T06:52:35.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 69632,
+            "uuploaders": 1282
+        },
+        {
+            "id": 65,
+            "name": "multi-btih-7-2-x-Songbird-2020-WEBRip-XviD-MP3-XVID",
+            "btih": "114b862ad4dbaa19f157d4264c1db196a6d37a4f",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 1.061312189,
+            "creation": "2020-12-11T15:46:13.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 66391,
+            "uuploaders": 4182
+        },
+        {
+            "id": 58,
+            "name": "multi-btih-0-2-x-Songbird-2020-1080p-AMZN-WEB-DL-DDP5-1-H264",
+            "btih": "cb9c69318727afb9791807110b46f8b67dcfdf74",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.230290521,
+            "creation": "2020-12-11T04:16:01.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 50729,
+            "uuploaders": 8561
+        },
+        {
+            "id": 15,
+            "name": "Songbird-(2020)-720p-English-HDRip-x264-AAC-ESub-By-Full4Movies",
+            "btih": "2e7929b8af24a966aaac77ba76a5fe26bf731f58",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.834065162,
+            "creation": "2020-12-11T08:25:29.000000000Z,BitTorrent/7.10.5,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 50022,
+            "uuploaders": 1172
+        },
+        {
+            "id": 28,
+            "name": "Songbird-2020-HDR-2160p-WEB-HEVC-DDP5-1-DDR",
+            "btih": "25f7edffe4d771c5f643c63a7f8c614376106a03",
+            "resolution": "2160",
+            "encoding": "none",
+            "gigabytes": 6.744315072,
+            "creation": "2020-12-13T07:40:07.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49742,
+            "uuploaders": 646
+        },
+        {
+            "id": 64,
+            "name": "multi-btih-6-2-x-Songbird-2020-720p-WEBRip-Hindi-Sub-x264-1XBET",
+            "btih": "935d5ea9666f8b31b4ad614024d02203670de287",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.708752467,
+            "creation": "2020-12-25T12:55:15.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49673,
+            "uuploaders": 329
+        },
+        {
+            "id": 69,
+            "name": "multi-btih-11-4-x-[ OxTorrent.cc ] Songbird FRENCH WEBRIP 720p 2020",
+            "btih": "da9983892b84ce830e91e05f812b5ce8e065ea8f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.834768225,
+            "creation": "2020-12-17T16:04:02.000000000Z,Transmission/2.92 (14714)",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 44452,
+            "uuploaders": 13293
+        },
+        {
+            "id": 55,
+            "name": "鸣鸟(中英双字幕)-Songbird-2020-BD-1080p-X264-AAC-CHS-ENG-UUMp4",
+            "btih": "b091f45df8f0a808897e494751026ed63d267c53",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.75520821,
+            "creation": "2020-12-20T12:15:29.000000000Z,BitSpirit/3.6.0.550,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41116,
+            "uuploaders": 870
+        },
+        {
+            "id": 40,
+            "name": "Songbird.2020.1080p.WEBRip.Legendado.mkv",
+            "btih": "1a381baf3f896b3ff3b11a9ae3332fc58b3ae271",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.719763189,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 35836,
+            "uuploaders": 1948
+        },
+        {
+            "id": 19,
+            "name": "Songbird-2020-1080p-AMZN-WEBRip-DD5-1-X-264-EVO",
+            "btih": "9f172d6d89b177d2e1e5e9d8cb1835f258390b92",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.64416681,
+            "creation": "2020-12-11T21:29:28.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33296,
+            "uuploaders": 1814
+        },
+        {
+            "id": 17,
+            "name": "Songbird-2020-1080p-AMZN-WEB-DL-DDP5-1-H264-EVO",
+            "btih": "d3a6348ef54f118a19719ed794d6945ad2f97aae",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.230289929,
+            "creation": "2020-12-12T08:11:41.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 32679,
+            "uuploaders": 330
+        },
+        {
+            "id": 30,
+            "name": "Songbird-2020-HDRip-XviD",
+            "btih": "d569c67c494a452ac0ed90a56d7fe7b63bb61400",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 1.455283729,
+            "creation": "2020-12-11T03:15:47.000000000Z,mktorrent 1.1,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29570,
+            "uuploaders": 5078
+        },
+        {
+            "id": 38,
+            "name": "Songbird.2020.1080p.AMZN.WEBRip.DDP5.1.x264-NOGRP",
+            "btih": "ad818d683db56c66ac733855860b26ad963bcbfb",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.230289219,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29351,
+            "uuploaders": 677
+        },
+        {
+            "id": 57,
+            "name": "송버드 Songbird 2020.1080p.KOR.FHDRip.H264.AAC-RTM",
+            "btih": "5e58cea072b31278f7ce126dc2227b65e66cf52b",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 3.64216679,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 23094,
+            "uuploaders": 471
+        },
+        {
+            "id": 12,
+            "name": "Songbird (2020) WEBDL 1080p LAT - ZeiZ",
+            "btih": "ef78a42f1f9c2fe24c5476707d1182746f946e52",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.676697134,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 17017,
+            "uuploaders": 465
+        },
+        {
+            "id": 29,
+            "name": "Songbird-2020-HDRip-XviD-AC3-EVO",
+            "btih": "21763ad50648b33c25d0d807201eac6ad534fa5d",
+            "resolution": "720",
+            "encoding": "xvid",
+            "gigabytes": 1.455283137,
+            "creation": "2020-12-12T07:07:38.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 16695,
+            "uuploaders": 869
+        },
+        {
+            "id": 56,
+            "name": "鸣鸟.Songbird.2020.HD1080P.X264.AAC.English.CHS-ENG.mp4",
+            "btih": "997a9c404ea0f5a89dff4f36c64f8096e8a5f556",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.463633656,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 15036,
+            "uuploaders": 869
+        },
+        {
+            "id": 63,
+            "name": "multi-btih-5-2-x-Songbird-2020-720p-WEBRip-Hindi-Dub-Dual-Audio-x264-1XBET",
+            "btih": "5021ebd1c38bf6aa7f0cbe07f600313cc7fe65a2",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.766534737,
+            "creation": "2020-12-25T11:05:02.000000000Z,Torrent downloaded from torrent cache at http://itorrents.org",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 12691,
+            "uuploaders": 182
+        },
+        {
+            "id": 45,
+            "name": "Songbird.2020.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
+            "btih": "7818b07b1e041ea4349d7146feb75aae72af1314",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.835269741,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 11245,
+            "uuploaders": 57
+        },
+        {
+            "id": 34,
+            "name": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO",
+            "btih": "bf6c77c2ca109fc844be0001c2bcefaa55b42c4f",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.23036996,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 6760,
+            "uuploaders": 112
+        },
+        {
+            "id": 33,
+            "name": "Songbird.2020.1080p.AMZN.WEB-DL.DDP5.1.H264-EVO [IPT]",
+            "btih": "53a0500ddd057c4a0fecc5408fec744016c056d3",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 6.230289843,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 6031,
+            "uuploaders": 3103
+        },
+        {
+            "id": 11,
+            "name": "Songbird (2020) [BluRay 720p X264 MKV][AC3 5.1 Latino][www.PctMix.Com]",
+            "btih": "8deeb88ec96384408916825a468a5c5d877af38f",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.697065174,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 5536,
+            "uuploaders": 263
+        },
+        {
+            "id": 49,
+            "name": "Songbird.2020.HDRip.XviD.AC3-EVO [IPT]",
+            "btih": "698da6beac329d95598268e239dcf4b10ad027e3",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 1.455283051,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3316,
+            "uuploaders": 1556
+        },
+        {
+            "id": 36,
+            "name": "Songbird.2020.1080p.AMZN.WEBRip.DD5.1.X.264-EVO [IPT]",
+            "btih": "fe0ec3936472672220a27b08c0de27322d4da8cf",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.644166724,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 3276,
+            "uuploaders": 1607
+        },
+        {
+            "id": 48,
+            "name": "Songbird.2020.AMZN.HDR.2160p.WEB-DL.HEVC.DDP5.1-EVO [IPT]",
+            "btih": "4c47a98859bcb2c597d9a45b4248f6322d5354cb",
+            "resolution": "2160",
+            "encoding": "none",
+            "gigabytes": 11.182648061,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1941,
+            "uuploaders": 1114
+        },
+        {
+            "id": 44,
+            "name": "Songbird.2020.720p.AMZN.WEBRip.AAC2.0.X.264-EVO [IPT]",
+            "btih": "d1aeff6fa05b62f1a36d00b2ba138c791dd7af2e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.782417707,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 1580,
+            "uuploaders": 748
+        }
+    ]
+}

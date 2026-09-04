@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt12592252",
+    "imdb_id": "tt12592252",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q97189755",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Songbird_(2020_film)"
+  },
+  "coverage_sha256": "430108b1e4609b560313d026f3f786a0504abf7335738521dd40918cd2b9d116",
+  "generated_at": "2026-09-04T08:23:06.360391+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/songbird.cache/cache.20210218.tar.xz",
+      "sha256": "da5b67f25199ed2a39d2cba0d5c17ddf282e3596f02ef4446cc26792b137027d",
+      "size": 266804064
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/songbird.md",
+      "sha256": "e8d7caed1feaf9cc6e7808bbb097fd18f5f99e5396f853ce19a842ab9665ba76",
+      "size": 545
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/songbird.json",
+      "sha256": "6c42fa4b89f42d50626234de13f02eb3bc871afa22d4bbad37aef17699c7cbd5",
+      "size": 2313
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/songbird.json",
+      "sha256": "b1193b6aa94dfad927b44f5b654e8f3e84b8abd2924b58f5be20fb945b66f249",
+      "size": 360
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "5d0b61cc4231b0cdd58668c76104a99388723e08e63c257d958a72bf01786df5",
+      "size": 56781
+    }
+  },
+  "media_object": "songbird",
+  "published_files": {
+    "data/csv/bytes/songbird-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "3b26d1d19c1af1dccb27112b1d49c42c709c7cafb5fc911d1ea1e5f3d7130dfd",
+    "docs/itemized/figures/songbird-carto-4k.webp": "f03f781bf74d974602689249bfc095fab601ef691f826c837e26188ba72cf2e6",
+    "docs/itemized/figures/songbird-carto.png": "af877646e7f17f653952d1c1660a538d52d44d90ded5fa0fa3875a634ef01afe",
+    "docs/itemized/figures/songbird-cumulative-detail-btiha-itemized-by-bytes.svg": "47b20669ed1a77651e322bff2e83c9fabbc1c9b671c537fcc5e926aa327c0a75",
+    "docs/itemized/figures/songbird-data-ge-1080p-4k.webp": "edb9f7acbe7df05acdeb497b337c3c738816409cd62b568259257de9c9e3eaaf",
+    "docs/itemized/figures/songbird-data-ge-1080p.webp": "e6166f9f12a9fb127b7fe8debc90b264b1c3b7686c7c10d6a6a4d441a413b685",
+    "docs/itemized/figures/songbird-data-lt-1080p-4k.webp": "930169f6fcc2b3b8672685fe081bfbe3a7288623269a9cf15527c7d02f35ef7f",
+    "docs/itemized/figures/songbird-data-lt-1080p.webp": "afd3308d90cecc3a17a82ebd22fab951d2f6384dd672b5fa7ff9fd31662ad2c3",
+    "docs/itemized/figures/songbird-downloads-by-day-day.svg": "0956d1ae303b7c873edb6b224e367a19e84e7ee70df28d3b2e3381e4b3924d69",
+    "docs/itemized/figures/songbird-downloads-by-week-songbird-week.svg": "2e83734004077cd47fb64c00273607439a3d834d43b49db245aea266024c5fd0",
+    "docs/itemized/songbird-sample-cache-audit.md": "4a231c96cfeb935e85f9d5aeb2ba4ccd598a0177e0d599e14502c329034a0029",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/songbird/tmp/songbird-cumulative-btiha.geojson",
+        "sha256": "20da9842462c8697a97e769b2b0441146c9c25a35dc4b2c4376c777d813f91d1",
+        "size": 24627943
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/songbird/tmp/songbird-cumulative-btiha-media-objects.json",
+        "sha256": "aa093bdd3587988e26126f78905392589e499a6c25b4e5cb1e96136e99741a9f",
+        "size": 62914
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "songbird",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          77.0,
+          64.0,
+          51.0,
+          42.0,
+          39.0,
+          35.0,
+          35.0,
+          33.0,
+          32.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Columbus",
+          "New York City",
+          "Seattle",
+          "Ashburn",
+          "Seoul",
+          "Shanghai",
+          "Independence",
+          "Tokyo",
+          "Dallas"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          77.0,
+          64.0,
+          62.0,
+          51.0,
+          51.0,
+          41.0,
+          36.0,
+          36.0,
+          36.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Columbus",
+          "Paris",
+          "New York City",
+          "Seattle",
+          "Quezon City",
+          "Ashburn",
+          "Johannesburg",
+          "Independence",
+          "Cape Town"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 28,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 13,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 8,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
