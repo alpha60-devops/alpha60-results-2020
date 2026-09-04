@@ -1,0 +1,17 @@
+{
+    "datestamp": "2020-03-16",
+    "collection_name": "Westworld",
+    "collection_id": "301",
+    "collection_key": "westworld-301",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "summary_type": "day",
+    "summary_index": 1,
+    "btiha_size": 33,
+    "upeers_total": 368689,
+    "useeds_total": 113212,
+    "upeers_new": 0,
+    "useeds_new": 0
+}
