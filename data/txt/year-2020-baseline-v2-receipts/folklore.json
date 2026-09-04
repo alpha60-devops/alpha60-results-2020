@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt13524234",
+    "imdb_id": "tt13524234",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q102302517",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Folklore:_The_Long_Pond_Studio_Sessions"
+  },
+  "coverage_sha256": "4b83db86b06a3e02db131712c11bb849ef9509756950a2de0343a459c882395b",
+  "generated_at": "2026-09-04T07:12:37.797635+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/folklore.cache/cache.20210121.tar.xz",
+      "sha256": "82610ec83b22d5407889ce9d2948fa35e61fd28371eb87d00e283df1857eded8",
+      "size": 470349004
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/folklore.md",
+      "sha256": "f7f4b16e1cf457d7402eb6d61320a6d87a47acf8e140c856ee090c2f9383cc5e",
+      "size": 546
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/folklore.json",
+      "sha256": "8f3ffbb9c3e63d12aaa09edfb0121c04b7beea05c48b1d01672a043e5a6be317",
+      "size": 3411
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/folklore.json",
+      "sha256": "c6765e8bb0feefe591c0a166683c0fc55a3da97b863cd03302495db39c4d8336",
+      "size": 362
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "f36c01f56e765f625dd9a73b0a1dc6b98eabd9a73af72749e456fec22b9cdb8c",
+      "size": 59173
+    }
+  },
+  "media_object": "folklore",
+  "published_files": {
+    "data/csv/bytes/folklore-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "5ccd9e3a0c83f4dc7d267a5566d0f5560270848275b372f3eefb98e8b1566d2b",
+    "docs/itemized/figures/folklore-carto-4k.webp": "81d2e496c32f0dee78ce75a3ff184e6a0bd397b85cffeeb31db3c2bb21872f1d",
+    "docs/itemized/figures/folklore-carto.png": "e976f53c175173f370838aec8b79cfc0c1782a5c431c045c696c650a4fe4fa75",
+    "docs/itemized/figures/folklore-cumulative-detail-btiha-itemized-by-bytes.svg": "e285eb636b1db435941df03a17982d1fe2c18e78059b5cfcd14f8735c6df28a7",
+    "docs/itemized/figures/folklore-data-ge-1080p-4k.webp": "ed2f23423685bb3c9eb254ac0f0bbdb0e4fe66d2eb756b9da87412c5409e48bb",
+    "docs/itemized/figures/folklore-data-ge-1080p.webp": "628da9bc4eb2c94fa4cbb548bd0e4f75b98d773143e3c9cc9373dc955a4c5e47",
+    "docs/itemized/figures/folklore-data-lt-1080p-4k.webp": "8359aee9131c891ae58776cf37c1923e37763e12320addad54d36dc9d31fcdfb",
+    "docs/itemized/figures/folklore-data-lt-1080p.webp": "67319911f434db9cb816dd288c3faebfed83d5bb7a600837e102c575db6792fa",
+    "docs/itemized/figures/folklore-downloads-by-day-day.svg": "b390229d82dcc17942e784c23be67fa041204ced7971cc1ab24790192995a687",
+    "docs/itemized/figures/folklore-downloads-by-week-folklore-week.svg": "f9eec4efd22f7903ccf6bdf2cf137bed6405f30a61fd9ed5fcc805bc76f2bd94",
+    "docs/itemized/folklore-sample-cache-audit.md": "9c04db5ed6f53dddd6e71110fbbdd09a74209d05a92f94a0e71dca2adda1318c",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/folklore/tmp/folklore-cumulative-btiha.geojson",
+        "sha256": "4e277d5b39b8b8f27cf8f45e4963cfb272d5e901b73dad93c67f74da493004b3",
+        "size": 45490271
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/folklore/tmp/folklore-cumulative-btiha-media-objects.json",
+        "sha256": "c0474dffe8429a8f93c62e4995a190fce7503ac968ef8719e929066dbbcfc6ae",
+        "size": 391832
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "folklore",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          69.0,
+          43.0,
+          36.0,
+          34.0,
+          31.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Moscow",
+          "New York City",
+          "Quezon City",
+          "Montr\u00e9al",
+          "Saint Petersburg",
+          "Toronto",
+          "Mumbai",
+          "Paris",
+          "Ashburn"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          89.0,
+          77.0,
+          55.0,
+          44.0,
+          31.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Quezon City",
+          "Moscow",
+          "New York City",
+          "Montr\u00e9al",
+          "Toronto",
+          "Saint Petersburg",
+          "Paris",
+          "Dallas"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 15,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
