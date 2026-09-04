@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt5753856",
+    "imdb_id": "tt5753856",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q28443710",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dark_(TV_series)"
+  },
+  "coverage_sha256": "88ea800ad4ea9bbdafe8ccafbe6db7bce365772804cb1955ca2725573a8154dd",
+  "generated_at": "2026-09-04T07:05:05.833487+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/dark-03.cache/cache.20200904.tar.xz",
+      "sha256": "6fd79cd8e992a7b040756c1e45c5a99c578b91dc975f4fc10ea0ec19d9eb9065",
+      "size": 627127932
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/dark-03.md",
+      "sha256": "6d90f0205e5abaff2356c88e3c8c9b7411a7e69c0ae0f56b6dfae326c17ebc52",
+      "size": 543
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/dark-03.json",
+      "sha256": "fa28ebb4fa3de9c221936410cd3af729b116647fc0c43d779db292113eeddc1c",
+      "size": 2370
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/dark-03.json",
+      "sha256": "0d0620400178ea559205fe42cdf3abdcb439faf17fef6f71952b67c7460fbe77",
+      "size": 359
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "f36c01f56e765f625dd9a73b0a1dc6b98eabd9a73af72749e456fec22b9cdb8c",
+      "size": 59173
+    }
+  },
+  "media_object": "dark-03",
+  "published_files": {
+    "data/csv/bytes/dark-03-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "3bc85ee4d57f2dedcf0650ced41c4d9fb11a7313d61e6ce8df3a2a35803022d2",
+    "docs/itemized/dark-03-sample-cache-audit.md": "87b82c5b6aea578daef85bcc48ae24fba25de99b81e4e104b8263313b8e69e60",
+    "docs/itemized/figures/dark-03-carto-4k.webp": "bc111a25af5405a5bdeb39949ee16d1582fe2aebbaaf70371355513760cb6cb0",
+    "docs/itemized/figures/dark-03-carto.png": "ef9606f336b01bc466de00687ae7c2c8acc0900616f0f84d8680221e9a71f06c",
+    "docs/itemized/figures/dark-03-cumulative-detail-btiha-itemized-by-bytes.svg": "8169a96df8347c4cce4ac6cda373314405f491725cd5ac9e65a74316a408e32d",
+    "docs/itemized/figures/dark-03-data-ge-1080p-4k.webp": "552c8910814756f0b011f7695b5ef9e7972983f81dd9651aedc14a16102771dd",
+    "docs/itemized/figures/dark-03-data-ge-1080p.webp": "e62fc185804b1b43d794c0c171b45b9c423995b8a20685ee87b0c75d71be1247",
+    "docs/itemized/figures/dark-03-data-lt-1080p-4k.webp": "8ba1c477724856af5181b3a165d190c0ffebc62559151bdedd75461335494717",
+    "docs/itemized/figures/dark-03-data-lt-1080p.webp": "c054985336e757f77a5560f8646306fab470ba247bf90057fdc15462b69f74d6",
+    "docs/itemized/figures/dark-03-downloads-by-day-day.svg": "7a819329c4e6f7c0978d9cdfa1861899056043e572f7a4f4f3b391f5f63472cf",
+    "docs/itemized/figures/dark-03-downloads-by-week-dark-03-week.svg": "387d72e4a23f369fad228d8df05d8e775bd795e3cbbab9c65253115a4ab2dd9a",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/dark-03/tmp/dark-03-cumulative-btiha.geojson",
+        "sha256": "7c8a04ee67928e6689bbfdeaa0a54b94f63c2a92bebfc7e02383b95e382a544f",
+        "size": 74807165
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/dark-03/tmp/dark-03-cumulative-btiha-media-objects.json",
+        "sha256": "7116c29c660911f8fd3db973318b77ed7deb91737f9732b2683d739c5bdade10",
+        "size": 355474
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "dark-03",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          42.0,
+          28.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "New York City",
+          "London",
+          "Seattle",
+          "Moscow",
+          "Tokyo",
+          "Mumbai",
+          "Seoul",
+          "Independence"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          36.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "New York City",
+          "Tokyo",
+          "Seattle",
+          "Moscow",
+          "Seoul",
+          "Independence",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 23,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 9,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
