@@ -1,0 +1,33 @@
+{
+  "overrides": {
+    "dark-03": {
+      "archive_date": "20200904",
+      "reason": "The only immutable archive ends 20200904; admit only the canonical 2020-06-27 through 2020-08-28 window after the full Day-member stream proves it is present, and exclude the later tail."
+    },
+    "expanse-501": {
+      "archive_date": "20210223",
+      "reason": "The only immutable archive ends 20210223; admit only the canonical 2020-12-16 through 2021-02-14 window after the full Day-member stream proves it is present, and exclude the later tail."
+    },
+    "good-fight-407": {
+      "archive_date": "20200722",
+      "reason": "The only immutable archive ends 20200722; admit only the canonical 2020-05-28 through 2020-07-08 window after the full Day-member stream proves it is present, and exclude the later tail."
+    },
+    "jamtara-sabka-number-ayega": {
+      "archive_date": "20200319",
+      "reason": "The only immutable archive ends 20200319; admit only the canonical 2020-01-10 through 2020-03-12 window after the full Day-member stream proves it is present, and exclude the later tail."
+    },
+    "lovecraft-country-110": {
+      "archive_date": "20201227",
+      "reason": "The only immutable archive ends 20201227; admit only the canonical 2020-10-19 through 2020-11-29 window after the full Day-member stream proves it is present, and exclude the later tail."
+    },
+    "songbird": {
+      "archive_date": "20210218",
+      "reason": "The only immutable archive ends 20210218; admit only the canonical 2020-12-11 through 2021-02-04 window after the full Day-member stream proves it is present, and exclude the later tail."
+    }
+  },
+  "reviewed_by": "bdekoz",
+  "reviewed_datestamp": "2026-09-04",
+  "schema": "alpha60-year-cache-archive-overrides/1",
+  "status": "reviewed-pending-map-validation",
+  "year": "2020"
+}
