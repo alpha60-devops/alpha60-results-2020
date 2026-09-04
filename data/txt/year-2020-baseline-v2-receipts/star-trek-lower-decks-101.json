@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9184820",
+    "imdb_id": "tt9184820",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q62573569",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek:_Lower_Decks"
+  },
+  "coverage_sha256": "fa87dcbcc2c12685b482960a65bac9aa4ad4e564724cfd4ec107909657de4839",
+  "generated_at": "2026-09-04T08:17:43.527294+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/star-trek-lower-decks-101.cache/cache.20201003.tar.xz",
+      "sha256": "d506810dfadd1acb1eed9018675a80bb5cef7b3e9317dfa15c3720ec1f6859ed",
+      "size": 197016340
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/star-trek-lower-decks-101.md",
+      "sha256": "0d71990e44751e4eb4038aa4900f611152a73b573d26f9465dbd6b2cd1eaa332",
+      "size": 561
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/star-trek-lower-decks-101.json",
+      "sha256": "c5d3e980390d15fa4cf528cc6b70d671a678072b7cff3a88ff84f8b9257518f3",
+      "size": 2386
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/star-trek-lower-decks-101.json",
+      "sha256": "1d6d4b53c812ac36905ee2a89869db718d68e52dd36d5b7f7210f950a1c88f7b",
+      "size": 377
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "f36c01f56e765f625dd9a73b0a1dc6b98eabd9a73af72749e456fec22b9cdb8c",
+      "size": 59173
+    }
+  },
+  "media_object": "star-trek-lower-decks-101",
+  "published_files": {
+    "data/csv/bytes/star-trek-lower-decks-101-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "f2bd307701e2ae91b8f5f497370fab5c11e060e4097cc4d7b30dab2ac383929d",
+    "docs/itemized/figures/star-trek-lower-decks-101-carto-4k.webp": "580a9f5d94827730eec9184cf1ce04a9518438a5b88402a3e0a7d02fc6f8052d",
+    "docs/itemized/figures/star-trek-lower-decks-101-carto.png": "2c172da3c4e5fbeaf2b82df04d4ac75b93b559579581eb9ac36ae4f3dda261b8",
+    "docs/itemized/figures/star-trek-lower-decks-101-cumulative-detail-btiha-itemized-by-bytes.svg": "6de35eb8ef5ed10a7238c22e0f4482dfabb625fab3afc197290978e30b45f8ad",
+    "docs/itemized/figures/star-trek-lower-decks-101-data-ge-1080p-4k.webp": "c3abbb26a20e5632b115185717d7331920e56828ea6c0637c8cf1cbfe9d4f21d",
+    "docs/itemized/figures/star-trek-lower-decks-101-data-ge-1080p.webp": "64e41696ee43ec7b150dd0f888418adf1331b0390aca421c860784bbddf1596d",
+    "docs/itemized/figures/star-trek-lower-decks-101-data-lt-1080p-4k.webp": "ccdfe505c9a18ce80eb54035ae63e93737116d47b4aa8eb357e52a95c91bea67",
+    "docs/itemized/figures/star-trek-lower-decks-101-data-lt-1080p.webp": "22e73518427782084bcfec4b50829a88ff83738d907d44098cce4149ff914740",
+    "docs/itemized/figures/star-trek-lower-decks-101-downloads-by-day-day.svg": "a738fc4220603f7778b5fb4fa8f7536ac4820b62a894f0229181c3c9ce9092ff",
+    "docs/itemized/figures/star-trek-lower-decks-101-downloads-by-week-star-trek-lower-decks-101-week.svg": "5c9ebd7718955fbec2b613fd2db8078017eb3f73aaabcc82fbd9e4ec51eee432",
+    "docs/itemized/star-trek-lower-decks-101-sample-cache-audit.md": "1a3694038c40e3ae31c279b58cd48bf04c8125e78697d9f10a28da58a15c644e",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/star-trek-lower-decks-101/tmp/star-trek-lower-decks-101-cumulative-btiha.geojson",
+        "sha256": "2d8ac1aa15f22292eaee32d742541de498c5bb9e9188c0b514b86c0c77d4e26e",
+        "size": 21328922
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/star-trek-lower-decks-101/tmp/star-trek-lower-decks-101-cumulative-btiha-media-objects.json",
+        "sha256": "9d1e262484a7b42044c97ea0f7c02991e97cfe37a19052b3e4c053b1a8837ab8",
+        "size": 135681
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "star-trek-lower-decks-101",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          70.0,
+          45.0,
+          42.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Ashburn",
+          "Toronto",
+          "New York City",
+          "Montr\u00e9al",
+          "Sydney",
+          "Moscow",
+          "Frankfurt am Main",
+          "Dallas",
+          "Amsterdam"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          86.0,
+          38.0,
+          32.0,
+          31.0,
+          31.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Ashburn",
+          "Toronto",
+          "Montr\u00e9al",
+          "New York City",
+          "Moscow",
+          "Frankfurt am Main",
+          "Dallas",
+          "Sydney",
+          "Melbourne"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 30,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 25,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 9,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
