@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt8522006",
+    "imdb_id": "tt8522006",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q60852007",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Happiest_Season"
+  },
+  "coverage_sha256": "abe078476ba5ce32daf19989c0c8dc068643d5644331781d09ee97c427d91b5f",
+  "generated_at": "2026-09-04T07:33:55.901564+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/happiest-season.cache/cache.20210202.tar.xz",
+      "sha256": "a0f654a39656041459a3548b836e79345f4b781407c7d1e883596d70919d8325",
+      "size": 557473160
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/happiest-season.md",
+      "sha256": "9259d0ad045f6a5d8f1911793cb990a41639d3e3620972f5c2992fe546c0a477",
+      "size": 551
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/happiest-season.json",
+      "sha256": "1d8d139b9ab98021f62ccd1985dcba151c274b2b481339c38c53b3758c5bed7b",
+      "size": 2445
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/happiest-season.json",
+      "sha256": "87691716b45c6c0ecdb74fbaf1712498ef36caac1b8874f378c8003d0af426d0",
+      "size": 367
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "5d0b61cc4231b0cdd58668c76104a99388723e08e63c257d958a72bf01786df5",
+      "size": 56781
+    }
+  },
+  "media_object": "happiest-season",
+  "published_files": {
+    "data/csv/bytes/happiest-season-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "1acc5df8a4e6b2f3517cfa75956836f4af4cb3b556b6aa2b315aa163572ef296",
+    "docs/itemized/figures/happiest-season-carto-4k.webp": "d5badf7f922dcec4cb2b2c797900d88dfd1518f072c4ac909d2c3f3260cec78c",
+    "docs/itemized/figures/happiest-season-carto.png": "38c0c3bd6931a1ac63155296cb18581515cd02d504010665a63e7fc975305d98",
+    "docs/itemized/figures/happiest-season-cumulative-detail-btiha-itemized-by-bytes.svg": "050df8ea30fd5f74019c233213b59dc1763e5a0c1fd5d163d4ff28b92f228e5d",
+    "docs/itemized/figures/happiest-season-data-ge-1080p-4k.webp": "66b2949dad8febba306a5c2c8e3eec81c1b87c08a7b1060bc7177b0a1e3971e3",
+    "docs/itemized/figures/happiest-season-data-ge-1080p.webp": "8ea3f9352a0952a7eb9c6a91c6b35800dd2c1fa01e22975c3fb39e415123531d",
+    "docs/itemized/figures/happiest-season-data-lt-1080p-4k.webp": "6d9a18a8f4106e2d00f14dc8682aacdb40c77ee120c7ac925641e593927b1342",
+    "docs/itemized/figures/happiest-season-data-lt-1080p.webp": "43ed269e195e0652add62259c0a91001475d04ea72bef794d965df95330d938d",
+    "docs/itemized/figures/happiest-season-downloads-by-day-day.svg": "b41d6e5a94fa27f5bc21f1e03314d424ff121c6deb426229f56a0fb7699d410e",
+    "docs/itemized/figures/happiest-season-downloads-by-week-happiest-season-week.svg": "6015612b4c1a28c79dea54b8b471b8dc32a294ae1ce4baa76f49bfc71f308e3b",
+    "docs/itemized/happiest-season-sample-cache-audit.md": "20f952c0c03ca57e37f2cc935b5aaac5ce6b2af2ccc3df03d5d6d4d8fcbbfb90",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/happiest-season/tmp/happiest-season-cumulative-btiha.geojson",
+        "sha256": "4a26dd35aaa5f1d604471adc78990152c4b073fee2cbe94100a6d95df628685b",
+        "size": 34523409
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/happiest-season/tmp/happiest-season-cumulative-btiha-media-objects.json",
+        "sha256": "1cfd609b849220bd7f932b1ede35971851684c5bd16d1fe5cec87dbf1dacbddd",
+        "size": 130212
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "happiest-season",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          48.0,
+          42.0,
+          37.0,
+          36.0,
+          36.0,
+          36.0,
+          34.0,
+          33.0,
+          33.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Quezon City",
+          "Mumbai",
+          "S\u00e3o Paulo",
+          "Johannesburg",
+          "Moscow",
+          "Cape Town",
+          "Paris",
+          "New York City",
+          "Sydney"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          89.0,
+          56.0,
+          53.0,
+          50.0,
+          49.0,
+          48.0,
+          37.0,
+          36.0,
+          36.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Quezon City",
+          "London",
+          "Johannesburg",
+          "Moscow",
+          "Cape Town",
+          "Pretoria",
+          "Mumbai",
+          "Sydney",
+          "New York City",
+          "Randburg"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 27,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
