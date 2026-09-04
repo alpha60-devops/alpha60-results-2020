@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9777644",
+    "imdb_id": "tt9777644",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q62277203",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Da_5_Bloods"
+  },
+  "coverage_sha256": "3ed5ba1c252cbb40849200da459f4451c340829b35b9c0d84745c2e853bdc2a7",
+  "generated_at": "2026-09-04T06:57:24.071490+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/da-5-bloods.cache/cache.20200820.tar.xz",
+      "sha256": "944451c1b8b82cfc891c469e399103b5231ce242fea507026774e7112d5d59ce",
+      "size": 676577552
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/da-5-bloods.md",
+      "sha256": "02ac38d565d7b002687db14a72e516b67e626ef10565300674647cd8884c0adb",
+      "size": 547
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/da-5-bloods.json",
+      "sha256": "1d637420b25a0db9d5ff28345cde84e967f47b5cee4078ae38886c282a260201",
+      "size": 2434
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/da-5-bloods.json",
+      "sha256": "ebabb81fd68cbe4a5a97e00606dcc7a113ffa73e8ad52fade44b4b95e1a62d52",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "5d0b61cc4231b0cdd58668c76104a99388723e08e63c257d958a72bf01786df5",
+      "size": 56781
+    }
+  },
+  "media_object": "da-5-bloods",
+  "published_files": {
+    "data/csv/bytes/da-5-bloods-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "9c0a5dcd8441f960a078b38ef06113d50e2a0e673952cf10b1e3e1b7dcbce17d",
+    "docs/itemized/da-5-bloods-sample-cache-audit.md": "ad586e170525ed0b25bb5935b505968b0e49c2354ef1b244a52dfb914d444584",
+    "docs/itemized/figures/da-5-bloods-carto-4k.webp": "5f39cbd57b13b048fe1f10a4fc15fc3e3e0908229b3ee463ed3fab14c8597626",
+    "docs/itemized/figures/da-5-bloods-carto.png": "2d76bdcb83bd169895bd977abc0af0de615e4bc9eb2c14c3db24ba2307b9345c",
+    "docs/itemized/figures/da-5-bloods-cumulative-detail-btiha-itemized-by-bytes.svg": "65cef9341d0274cd8e30017bb4622dab55d38e987217163efc2f997e9600d889",
+    "docs/itemized/figures/da-5-bloods-data-ge-1080p-4k.webp": "21e87ec3dc21c18594fcc8b2d484be6cd0a0cfd27ad22009b2aca3e8263ed7bc",
+    "docs/itemized/figures/da-5-bloods-data-ge-1080p.webp": "276935dc8e84294c9fc56522efdbe10724768c02c9d7c42b58d4b0e1d7fdd93f",
+    "docs/itemized/figures/da-5-bloods-data-lt-1080p-4k.webp": "6f21d362ba7e1f2bdc4c196d8960466aaee39f58ecf030059b19a1c6e227e312",
+    "docs/itemized/figures/da-5-bloods-data-lt-1080p.webp": "f5f98edf4d6dcf998485bb884c540c91745d7117c2156950ad56f7d702958cd7",
+    "docs/itemized/figures/da-5-bloods-downloads-by-day-day.svg": "a4ad490a2b0a9393f2c09967e8fb5b106fa4621b9958a3d7bb10ac19ea8a0dc0",
+    "docs/itemized/figures/da-5-bloods-downloads-by-week-da-5-bloods-week.svg": "902d6b5530a8cda748da9c223d98f5523d351cfba36b248ba177e8c1116323f7",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/da-5-bloods/tmp/da-5-bloods-cumulative-btiha.geojson",
+        "sha256": "aa52f7ea04df72754d2af5da0ce567a94f1b7d2738f4019fb9accdf173cc7b68",
+        "size": 63450996
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/da-5-bloods/tmp/da-5-bloods-cumulative-btiha-media-objects.json",
+        "sha256": "299f42d687dfb5d89f01501acd40c14d844cb0990e35e58804cbe521959d7e41",
+        "size": 234002
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "da-5-bloods",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          57.0,
+          41.0,
+          36.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Columbus",
+          "New York City",
+          "Seattle",
+          "Shanghai",
+          "Caracas",
+          "Quezon City",
+          "Mumbai",
+          "Seoul"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          54.0,
+          48.0,
+          38.0,
+          32.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "New York City",
+          "Seattle",
+          "Moscow",
+          "Tokyo",
+          "Seoul",
+          "Shanghai",
+          "Independence"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 27,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
