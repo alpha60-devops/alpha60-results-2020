@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt6905686",
+    "imdb_id": "tt6905686",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q31202701",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lovecraft_Country_(TV_series)"
+  },
+  "coverage_sha256": "1570502e173b84b5391efcf3768e1457a80d1c664d6cb96ef504ef54c7c68407",
+  "generated_at": "2026-09-04T07:42:31.590780+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/lovecraft-country-110.cache/cache.20201227.tar.xz",
+      "sha256": "40c0fc8a11670c9c4604455a59cec45c86f250f881ab56854d8649b46015b45f",
+      "size": 274300480
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/lovecraft-country-110.md",
+      "sha256": "7a5a45506cbfe14d026601539c93a8fbdef3d247f6551409cf3afec370f89e7b",
+      "size": 558
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/lovecraft-country-110.json",
+      "sha256": "8e436f33db88c4738519962c75cc5480fccbccbf8dc8420600cdff82475b3bf7",
+      "size": 2241
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/lovecraft-country-110.json",
+      "sha256": "57599965c1de85d9795501252de11aaff5c2f7b8460ed661a9bc9ddf4894b59a",
+      "size": 373
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "5d0b61cc4231b0cdd58668c76104a99388723e08e63c257d958a72bf01786df5",
+      "size": 56781
+    }
+  },
+  "media_object": "lovecraft-country-110",
+  "published_files": {
+    "data/csv/bytes/lovecraft-country-110-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "8827737181a4959b2054bfd59d4421e9c634971e0c82e0ca770fb4cd480c65cf",
+    "docs/itemized/figures/lovecraft-country-110-carto-4k.webp": "06b774c28eacc63784d0eac3023d4045e18106960fa502dcbfabfc870caa0686",
+    "docs/itemized/figures/lovecraft-country-110-carto.png": "71d4c0c10c59916087add31391b9dadaf5479d47df388cc18c6e7392f232a81f",
+    "docs/itemized/figures/lovecraft-country-110-cumulative-detail-btiha-itemized-by-bytes.svg": "7e1131a5f1a917371220c2c54afd4cbf108f8a6bd2dbb3b12f53f8af0594f195",
+    "docs/itemized/figures/lovecraft-country-110-data-ge-1080p-4k.webp": "a040028355c78a86d3caf31e18c3defae6d00195cd6e3e0c3feb43370ad64ce5",
+    "docs/itemized/figures/lovecraft-country-110-data-ge-1080p.webp": "3d11c2f32e8701e636df43d307cbfa03dae82be68edd855d9027383071e9e4c6",
+    "docs/itemized/figures/lovecraft-country-110-data-lt-1080p-4k.webp": "75152c299400e5dae6190422a2def073b8cbeaad43e5f058f6d98976051cb126",
+    "docs/itemized/figures/lovecraft-country-110-data-lt-1080p.webp": "125f0f2ac4b6f4757dd533db8677769b066910999e6e2bf03baf435932914d4f",
+    "docs/itemized/figures/lovecraft-country-110-downloads-by-day-day.svg": "4afc4000128acea9e37cc0fdc4dff90528a90a334ef2f2624a4187c7eb15e730",
+    "docs/itemized/figures/lovecraft-country-110-downloads-by-week-lovecraft-country-110-week.svg": "66c4373c4a210352fe3543047200b65c6d7c41cfaa0a7a694b808ad1c6dcce70",
+    "docs/itemized/lovecraft-country-110-sample-cache-audit.md": "2512e1e3c5001ecaea15c5bfa878d9ac698d67b105ed8bac4f09f5ebe5c1fa70",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/lovecraft-country-110/tmp/lovecraft-country-110-cumulative-btiha.geojson",
+        "sha256": "8140a8b22c751fcd9e082d1d4d9b94512f17ad31adbddb5eb3393b38f448337a",
+        "size": 19074556
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/lovecraft-country-110/tmp/lovecraft-country-110-cumulative-btiha-media-objects.json",
+        "sha256": "7aebaca4aca96d6c76dcacdadd5f35ffd08ea7caf9e74c0fa01669dade370010",
+        "size": 198186
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "lovecraft-country-110",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          62.0,
+          46.0,
+          39.0,
+          34.0,
+          33.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Moscow",
+          "S\u00e3o Paulo",
+          "New York City",
+          "Toronto",
+          "Ashburn",
+          "Amsterdam",
+          "Los Angeles",
+          "Dallas",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          65.0,
+          54.0,
+          41.0,
+          32.0,
+          30.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Moscow",
+          "Ashburn",
+          "S\u00e3o Paulo",
+          "New York City",
+          "Toronto",
+          "Saint Petersburg",
+          "Dallas",
+          "Paris",
+          "Montr\u00e9al"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 21,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 6,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
