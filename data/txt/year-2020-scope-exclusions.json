@@ -1,0 +1,8 @@
+{
+  "cohort_policy": "canonical sample_year_start equals the target year, exact canonical cache directory and member key, and terminal discovery disposition",
+  "excluded_collection_keys": [],
+  "exclusions": [],
+  "schema": "alpha60-year-media-object-campaign-scope/1",
+  "status": "pass",
+  "year": "2020"
+}
