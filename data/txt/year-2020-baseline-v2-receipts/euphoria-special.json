@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt8772296",
+    "imdb_id": "tt8772296",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q56275505",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Euphoria_(American_TV_series)"
+  },
+  "coverage_sha256": "d52f0c8a6de766b911a77b4ac59ddda671cc060ceec0b2352ff62da9926f31cd",
+  "generated_at": "2026-09-04T07:09:18.860206+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/euphoria-special.cache/cache.20210319.tar.xz",
+      "sha256": "2d93499cbb3115fea5ff99c5fcc4dd8fcff1797a343c2da40f862444031d3191",
+      "size": 404872624
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/euphoria-special.md",
+      "sha256": "35231147043c2bbf3a4d9c40173734235730b89f56ec9434426b6ef6df720f39",
+      "size": 554
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/euphoria-special.json",
+      "sha256": "25ab18c6cdc63ae8c93773d80647d09a334c5270ed200565c433fd0c8f8e1c05",
+      "size": 2740
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/euphoria-special.json",
+      "sha256": "cdb6a9684f4e7983efd87caa93bc7da773bd76d63fd2bd33e39831a46d836e1e",
+      "size": 370
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "f36c01f56e765f625dd9a73b0a1dc6b98eabd9a73af72749e456fec22b9cdb8c",
+      "size": 59173
+    }
+  },
+  "media_object": "euphoria-special",
+  "published_files": {
+    "data/csv/bytes/euphoria-special-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "3d7e80b82e995b6b15f6f3f14d9594afe379c41dd741e330c8bbfc5f924f19c4",
+    "docs/itemized/euphoria-special-sample-cache-audit.md": "815838b86e7f5d8c4c1784dcb6bafa64f324ba4f412ffa48d7d8014c7b0cdf03",
+    "docs/itemized/figures/euphoria-special-carto-4k.webp": "ffa4157810581d1e3f64df1d421dbd39bf0893fa0091af73f6022722d758a72b",
+    "docs/itemized/figures/euphoria-special-carto.png": "5fca92cf27414b6e46eb0a3001dd13947acea61a321414ecb3e5ca6f68f2fb90",
+    "docs/itemized/figures/euphoria-special-cumulative-detail-btiha-itemized-by-bytes.svg": "e4e9b663783e07f3bf9f861426ed34d5a7f63982870a4ebf24ddfa76a0f57b41",
+    "docs/itemized/figures/euphoria-special-data-ge-1080p-4k.webp": "49bb0f63269353fb1c8ecb47755c92e0b598e223fcdb55c43e6c07d13ff7c21c",
+    "docs/itemized/figures/euphoria-special-data-ge-1080p.webp": "3cfd959a589ebd710a4623ef39041f374803c89b61000e69cc2d7924e251eed9",
+    "docs/itemized/figures/euphoria-special-data-lt-1080p-4k.webp": "0cd93257bf862f5fb4e7a08d0367dc49a8b727f2944afe7f37097bce6d9cfe0a",
+    "docs/itemized/figures/euphoria-special-data-lt-1080p.webp": "c86b6282b721ad1ee12f0e3678582b68df061376106aa094ff4e43f5a524aed2",
+    "docs/itemized/figures/euphoria-special-downloads-by-day-day.svg": "fbc3d8ff00109b38640409c5e0031f6ae3cdfd8b40f225125cabed90c859898a",
+    "docs/itemized/figures/euphoria-special-downloads-by-week-euphoria-special-week.svg": "e4fa3f0fe47737f95406e0c3917518328446ab2a364e94b0bd6b486026359624",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/euphoria-special/tmp/euphoria-special-cumulative-btiha.geojson",
+        "sha256": "beb9039ad47cb8280d249b4f9b494e5c2c605c06474e855cb970f0e625c391a9",
+        "size": 28687851
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/euphoria-special/tmp/euphoria-special-cumulative-btiha-media-objects.json",
+        "sha256": "e98bcc3506d9bf5ed1feb39349b6b5649ffd5b72bf829ad2d0072d3961ad0f66",
+        "size": 213077
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "euphoria-special",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          75.0,
+          61.0,
+          56.0,
+          31.0,
+          31.0,
+          31.0,
+          28.0,
+          27.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "S\u00e3o Paulo",
+          "Moscow",
+          "Paris",
+          "Buenos Aires",
+          "New York City",
+          "Saint Petersburg",
+          "Nairobi",
+          "Santiago",
+          "Milan"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          64.0,
+          37.0,
+          33.0,
+          33.0,
+          32.0,
+          31.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "S\u00e3o Paulo",
+          "London",
+          "Moscow",
+          "Buenos Aires",
+          "Paris",
+          "Rio de Janeiro",
+          "Santiago",
+          "New York City",
+          "Mumbai",
+          "Quezon City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 31,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
