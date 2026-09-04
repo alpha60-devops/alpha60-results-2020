@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt11032374",
+    "imdb_id": "tt11032374",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q96376192",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba_%E2%80%93_The_Movie:_Mugen_Train"
+  },
+  "coverage_sha256": "6d98c981303e65f1f2807a559fae58536a4d606ed8cf6e520fe535b5bb556505",
+  "generated_at": "2026-09-04T07:21:45.302328+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.cache/cache.20211019.tar.xz",
+      "sha256": "1e6bfce0e2b3699f9228af7212ec7d4faa28d7ab5bfef05a77588638c9e560f9",
+      "size": 5047539384
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.md",
+      "sha256": "2083eb168c124bd6188d13416f3a1c311c82043197c9c7ee8067ece61773f5a7",
+      "size": 589
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.json",
+      "sha256": "be48ebab00e85fcc6988c6181a66e7aa8bdf96bc86c3605d3203eb8ddae16987",
+      "size": 4729
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.json",
+      "sha256": "8a27e412e938e8dd202ea9b6f781c41e2a087c730d46cedd1abe808b16b7ec85",
+      "size": 405
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "5d0b61cc4231b0cdd58668c76104a99388723e08e63c257d958a72bf01786df5",
+      "size": 56781
+    }
+  },
+  "media_object": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+  "published_files": {
+    "data/csv/bytes/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "8e09522d8a4fec84d4598107dc76088718feac4bbd26060618be7a0fd1570227",
+    "docs/itemized/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-sample-cache-audit.md": "acba5ba3030c8d4af9859e0f6ae4b733e6174bbd760d6323e53c6aefb30749a3",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-carto-4k.webp": "de0e298f38fd273791796e0c5223b122c477ba464668cb4cb7baec2cb82426c9",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-carto.png": "f0621fe7c666b41f0ca847e4f11bb5878aa9eddac2ed294c5f83c46adc16792e",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-cumulative-detail-btiha-itemized-by-bytes.svg": "ffe6eede8ff99ed8156c1e339e37987cfef67b516652cce389a5aa7a099ceeaf",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-data-ge-1080p-4k.webp": "176455910d430d6ff815a4f8803631f7a300332b2e599bec6a44b811a9fe6ec1",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-data-ge-1080p.webp": "5811543c8b093e21760e5ce5ec12a0d46547afc6679c469045c0a6c1b3961f8a",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-data-lt-1080p-4k.webp": "92fb13d14845cd4209899dd874715cd5cafc71590d1d856ff1af17543ca6fdab",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-data-lt-1080p.webp": "3e28c02bc1c1f8ba17438cb33821dd4d2173b823e4c088dae32c134b3915c880",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-downloads-by-day-day.svg": "6bda3fb3e11df13705952a47e4260aefc603865d3a5a7efac89dfc185e7b92cc",
+    "docs/itemized/figures/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-downloads-by-week-demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-week.svg": "6118ac990d6bf762c00f269841b6fc3b9304743d4b30518d2b373e2b4c9fcd13",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train/tmp/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-cumulative-btiha.geojson",
+        "sha256": "7290e0f313e88bc93d8eebf320def06fc008c9d4045c8ed8aff393dbebbedddb",
+        "size": 302612966
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train/tmp/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train-cumulative-btiha-media-objects.json",
+        "sha256": "42e2a41be144b79a9cf9538910c8cb4bf7c3f08d54e254c1c3df83c2323e098b",
+        "size": 462223
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          87.0,
+          77.0,
+          69.0,
+          68.0,
+          59.0,
+          57.0,
+          55.0,
+          54.0,
+          49.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "New York City",
+          "Seoul",
+          "Shanghai",
+          "Quezon City",
+          "Tokyo",
+          "Seattle",
+          "Shenzhen"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          84.0,
+          83.0,
+          76.0,
+          74.0,
+          57.0,
+          57.0,
+          57.0,
+          56.0,
+          51.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "Ashburn",
+          "London",
+          "Seoul",
+          "New York City",
+          "Moscow",
+          "Seattle",
+          "Quezon City",
+          "Shanghai",
+          "Tokyo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 44,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
