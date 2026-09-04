@@ -1,0 +1,858 @@
+{
+    "collection_name": "Jamtara: Sabka Number Ayega",
+    "collection_id": "1",
+    "collection_key": "jamtara-sabka-number-ayega",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "552395b57c1ee33c05f6e4fef84ae95c49d90faa",
+            "duplicate_0_0": "Jamtara--Sabka-Number-Ayega-S01-720p-NF-WEB-DL-AAC-x264-BonsaiHD",
+            "duplicate_0_1": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD.552395b57c1ee33c"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "29b1808b4a1daf5d7e44b512408436eef7c7d75d",
+            "duplicate_1_0": "Jamtara-2020-Sabka-Number-Ayega-S01E01-10-720p-NF-WEB-DL-DD",
+            "duplicate_1_1": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv.29b1808b4a1daf5d"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "Jamtara S01 [ Bolly4u.Guru ] Hindi WEB-DL COmplete.zip.66500f62f946e656",
+            "size_total": 2.272629147,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.272629147,
+                    "path": "Jamtara S01 [ Bolly4u.Guru ] Hindi WEB-DL COmplete.zip"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.cb0377eb0b2d22ec",
+            "size_total": 2.63937464,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.315026797,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.008523267,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E01 SaMple.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.244877148,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E02 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.216599566,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E03 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.211090102,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E04 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.246068365,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E05 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.231606422,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E06 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.273078499,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E07 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.230406082,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E08 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.214701723,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E09 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.447396487,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E10 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.82e-7,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/telly.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs.ec1bd807dc2da590",
+            "size_total": 1.757015184,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000001754,
+                    "path": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs/Downloadhub.rocks.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.21036176,
+                    "path": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs/Jamtara.Sabka.Number.Ayega.S01E01.Hindi.English.720p.Downloadhub.rocks.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.163497977,
+                    "path": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs/Jamtara.Sabka.Number.Ayega.S01E02.Hindi.English.720p.Downloadhub.rocks.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.144101349,
+                    "path": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs/Jamtara.Sabka.Number.Ayega.S01E03.Hindi.English.720p.Downloadhub.rocks.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.140889319,
+                    "path": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs/Jamtara.Sabka.Number.Ayega.S01E04.Hindi.English.720p.Downloadhub.rocks.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.164900478,
+                    "path": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs/Jamtara.Sabka.Number.Ayega.S01E05.Hindi.English.720p.Downloadhub.rocks.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.153222978,
+                    "path": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs/Jamtara.Sabka.Number.Ayega.S01E06.Hindi.English.720p.Downloadhub.rocks.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.182614722,
+                    "path": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs/Jamtara.Sabka.Number.Ayega.S01E07.Hindi.English.720p.Downloadhub.rocks.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.152808521,
+                    "path": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs/Jamtara.Sabka.Number.Ayega.S01E08.Hindi.English.720p.Downloadhub.rocks.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.14309653,
+                    "path": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs/Jamtara.Sabka.Number.Ayega.S01E09.Hindi.English.720p.Downloadhub.rocks.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.30151963,
+                    "path": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs/Jamtara.Sabka.Number.Ayega.S01E10.Hindi.English.720p.Downloadhub.rocks.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.66e-7,
+                    "path": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs/Torrent Seed By 1gbits.com.txt"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Jamtara--Sabka-Number-Ayega-S01-720p-NF-WEB-DL-AAC-x264-BonsaiHD",
+            "size_total": 1.362120875,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.241915005,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E10.Episode.10.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.206865699,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E01.Episode.1.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.18871193,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E07.Episode.7.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.123446768,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E08.Episode.8.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.107074069,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E06.Episode.6.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.106110115,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E05.Episode.5.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.104404213,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E02.Episode.2.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.103195033,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E03.Episode.3.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.091032514,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E04.Episode.4.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.089365529,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E09.Episode.9.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Jamtara-2020-Sabka-Number-Ayega-S01E01-10-720p-NF-WEB-DL-DD",
+            "size_total": 5.342830535,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.781624384,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E01.Episode.1 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.779335571,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E10.Episode.10 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.692766413,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E07.Episode.7 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.471988014,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E05.Episode.5 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.463619098,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E03.Episode.3 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.463351063,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E06.Episode.6 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.441984807,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E08.Episode.8 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.440988532,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E02.Episode.2 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.406401645,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E04.Episode.4 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.400771008,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E09.Episode.9 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Jamtara-Sabka-Number-Ayega-(2020)-Hindi-NF-Season1-(Ep1-10)-Complete-720p-WEB-DL-AAC-x264-Multi-Sub",
+            "size_total": 1.362135551,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.089366583,
+                    "path": "Jamtara Sabka Number Ayega (2020) Hindi NF Season1 (Ep1-10) Complete 720p WEB-DL.AAC x264 Multi Sub/Jamtara.-.Sabka.Number.Ayega.S01E09.720p.NF.WEB-DL.AAC.x264.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.09103411,
+                    "path": "Jamtara Sabka Number Ayega (2020) Hindi NF Season1 (Ep1-10) Complete 720p WEB-DL.AAC x264 Multi Sub/Jamtara.-.Sabka.Number.Ayega.S01E04.720p.NF.WEB-DL.AAC.x264.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.103196631,
+                    "path": "Jamtara Sabka Number Ayega (2020) Hindi NF Season1 (Ep1-10) Complete 720p WEB-DL.AAC x264 Multi Sub/Jamtara.-.Sabka.Number.Ayega.S01E03.720p.NF.WEB-DL.AAC.x264.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.104405812,
+                    "path": "Jamtara Sabka Number Ayega (2020) Hindi NF Season1 (Ep1-10) Complete 720p WEB-DL.AAC x264 Multi Sub/Jamtara.-.Sabka.Number.Ayega.S01E02720p.NF.WEB-DL.AAC.x264.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.106111331,
+                    "path": "Jamtara Sabka Number Ayega (2020) Hindi NF Season1 (Ep1-10) Complete 720p WEB-DL.AAC x264 Multi Sub/Jamtara.-.Sabka.Number.Ayega.S01E05.720p.NF.WEB-DL.AAC.x264.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.107075667,
+                    "path": "Jamtara Sabka Number Ayega (2020) Hindi NF Season1 (Ep1-10) Complete 720p WEB-DL.AAC x264 Multi Sub/Jamtara.-.Sabka.Number.Ayega.S01E06.720p.NF.WEB-DL.AAC.x264.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.123447985,
+                    "path": "Jamtara Sabka Number Ayega (2020) Hindi NF Season1 (Ep1-10) Complete 720p WEB-DL.AAC x264 Multi Sub/Jamtara.-.Sabka.Number.Ayega.S01E08.720p.NF.WEB-DL.AAC.x264.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.18871353,
+                    "path": "Jamtara Sabka Number Ayega (2020) Hindi NF Season1 (Ep1-10) Complete 720p WEB-DL.AAC x264 Multi Sub/Jamtara.-.Sabka.Number.Ayega.S01E07.720p.NF.WEB-DL.AAC.x264.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.206867298,
+                    "path": "Jamtara Sabka Number Ayega (2020) Hindi NF Season1 (Ep1-10) Complete 720p WEB-DL.AAC x264 Multi Sub/Jamtara.-.Sabka.Number.Ayega.S01E01720p.NF.WEB-DL.AAC.x264.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.241916604,
+                    "path": "Jamtara Sabka Number Ayega (2020) Hindi NF Season1 (Ep1-10) Complete 720p WEB-DL.AAC x264 Multi Sub/Jamtara.-.Sabka.Number.Ayega.S01E10.720p.NF.WEB-DL.AAC.x264.mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Jamtara-Sabka-Number-Ayega-2020-S01-Hindi-720p-WEBRip-x264-AAC-5-1-ESubs--LOKiHD--Telly",
+            "size_total": 2.63937464,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.315026797,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.008523267,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E01 SaMple.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.244877148,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E02 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.216599566,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E03 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.211090102,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E04 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.246068365,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E05 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.231606422,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E06 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.273078499,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E07 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.230406082,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E08 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.214701723,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E09 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.447396487,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/Jamtara Sabka Number Ayega 2020 S01E10 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.mkv"
+                },
+                {
+                    "number": 12,
+                    "size": 1.82e-7,
+                    "path": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly/telly.cc.txt"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Jamtara-Sabka-Number-Ayega-S01-2160p-HEVC-NF-WEB-DL-DD",
+            "size_total": 55.201335248,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.609179996,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.2160p.HEVC.NF.WEB-DL.DD+5.1.x265-Telly/Jamtara.-.Sabka.Number.Ayega.S01E01.2160p.NF.WEB-DL.DD+5.1.x265-Telly.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 5.138727614,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.2160p.HEVC.NF.WEB-DL.DD+5.1.x265-Telly/Jamtara.-.Sabka.Number.Ayega.S01E02.2160p.NF.WEB-DL.DD+5.1.x265-Telly.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 4.546152456,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.2160p.HEVC.NF.WEB-DL.DD+5.1.x265-Telly/Jamtara.-.Sabka.Number.Ayega.S01E03.2160p.NF.WEB-DL.DD+5.1.x265-Telly.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 4.432713373,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.2160p.HEVC.NF.WEB-DL.DD+5.1.x265-Telly/Jamtara.-.Sabka.Number.Ayega.S01E04.2160p.NF.WEB-DL.DD+5.1.x265-Telly.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 5.164123062,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.2160p.HEVC.NF.WEB-DL.DD+5.1.x265-Telly/Jamtara.-.Sabka.Number.Ayega.S01E05.2160p.NF.WEB-DL.DD+5.1.x265-Telly.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 4.861366627,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.2160p.HEVC.NF.WEB-DL.DD+5.1.x265-Telly/Jamtara.-.Sabka.Number.Ayega.S01E06.2160p.NF.WEB-DL.DD+5.1.x265-Telly.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 5.727448714,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.2160p.HEVC.NF.WEB-DL.DD+5.1.x265-Telly/Jamtara.-.Sabka.Number.Ayega.S01E07.2160p.NF.WEB-DL.DD+5.1.x265-Telly.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 4.836736393,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.2160p.HEVC.NF.WEB-DL.DD+5.1.x265-Telly/Jamtara.-.Sabka.Number.Ayega.S01E08.2160p.NF.WEB-DL.DD+5.1.x265-Telly.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 4.507103366,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.2160p.HEVC.NF.WEB-DL.DD+5.1.x265-Telly/Jamtara.-.Sabka.Number.Ayega.S01E09.2160p.NF.WEB-DL.DD+5.1.x265-Telly.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 9.377783647,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.2160p.HEVC.NF.WEB-DL.DD+5.1.x265-Telly/Jamtara.-.Sabka.Number.Ayega.S01E10.2160p.NF.WEB-DL.DD+5.1.x265-Telly.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.0,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.2160p.HEVC.NF.WEB-DL.DD+5.1.x265-Telly/TeamTelly.txt"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Jamtara-Sabka-Number-Ayega-S01-E01-10-WebRip-Hindi-720p-x264-AAC-5-1-ESub-Cinemas-[Telly]",
+            "size_total": 2.707094979,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.324130873,
+                    "path": "Jamtara Sabka Number Ayega S01 E01-10 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas [Telly]/Jamtara Sabka Number Ayega S01 E01 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.251996199,
+                    "path": "Jamtara Sabka Number Ayega S01 E01-10 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas [Telly]/Jamtara Sabka Number Ayega S01 E02 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.222839101,
+                    "path": "Jamtara Sabka Number Ayega S01 E01-10 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas [Telly]/Jamtara Sabka Number Ayega S01 E03 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.217200395,
+                    "path": "Jamtara Sabka Number Ayega S01 E01-10 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas [Telly]/Jamtara Sabka Number Ayega S01 E04 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.253209105,
+                    "path": "Jamtara Sabka Number Ayega S01 E01-10 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas [Telly]/Jamtara Sabka Number Ayega S01 E05 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.238321534,
+                    "path": "Jamtara Sabka Number Ayega S01 E01-10 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas [Telly]/Jamtara Sabka Number Ayega S01 E06 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.28097837,
+                    "path": "Jamtara Sabka Number Ayega S01 E01-10 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas [Telly]/Jamtara Sabka Number Ayega S01 E07 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.237086021,
+                    "path": "Jamtara Sabka Number Ayega S01 E01-10 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas [Telly]/Jamtara Sabka Number Ayega S01 E08 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.220927668,
+                    "path": "Jamtara Sabka Number Ayega S01 E01-10 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas [Telly]/Jamtara Sabka Number Ayega S01 E09 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.460405713,
+                    "path": "Jamtara Sabka Number Ayega S01 E01-10 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas [Telly]/Jamtara Sabka Number Ayega S01 E10 WebRip Hindi 720p x264 AAC 5.1 ESub - mkvCinemas.mkv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly.f0dd81f91ea00a23",
+            "size_total": 10.462941165,
+            "files_total": 11,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.472461349,
+                    "path": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly/Jamtara.-.Sabka.Number.Ayega.S01E01.Episode.1.1080p.NF.WEB-DL.DD+5.1.x264-Telly.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.893844941,
+                    "path": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly/Jamtara.-.Sabka.Number.Ayega.S01E02.Episode.2.1080p.NF.WEB-DL.DD+5.1.x264-Telly.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.901505362,
+                    "path": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly/Jamtara.-.Sabka.Number.Ayega.S01E03.Episode.3.1080p.NF.WEB-DL.DD+5.1.x264-Telly.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.829516015,
+                    "path": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly/Jamtara.-.Sabka.Number.Ayega.S01E04.Episode.4.1080p.NF.WEB-DL.DD+5.1.x264-Telly.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.953287274,
+                    "path": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly/Jamtara.-.Sabka.Number.Ayega.S01E05.Episode.5.1080p.NF.WEB-DL.DD+5.1.x264-Telly.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.910293298,
+                    "path": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly/Jamtara.-.Sabka.Number.Ayega.S01E06.Episode.6.1080p.NF.WEB-DL.DD+5.1.x264-Telly.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 1.350627837,
+                    "path": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly/Jamtara.-.Sabka.Number.Ayega.S01E07.Episode.7.1080p.NF.WEB-DL.DD+5.1.x264-Telly.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.90109326,
+                    "path": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly/Jamtara.-.Sabka.Number.Ayega.S01E08.Episode.8.1080p.NF.WEB-DL.DD+5.1.x264-Telly.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.81482612,
+                    "path": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly/Jamtara.-.Sabka.Number.Ayega.S01E09.Episode.9.1080p.NF.WEB-DL.DD+5.1.x264-Telly.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 1.435485709,
+                    "path": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly/Jamtara.-.Sabka.Number.Ayega.S01E10.Episode.10.1080p.NF.WEB-DL.DD+5.1.x264-Telly.mkv"
+                },
+                {
+                    "number": 11,
+                    "size": 0.0,
+                    "path": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly/TeamTelly.txt"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD.552395b57c1ee33c",
+            "size_total": 1.362120875,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.241915005,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E10.Episode.10.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.206865699,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E01.Episode.1.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.18871193,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E07.Episode.7.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.123446768,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E08.Episode.8.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.107074069,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E06.Episode.6.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.106110115,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E05.Episode.5.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.104404213,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E02.Episode.2.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.103195033,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E03.Episode.3.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.091032514,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E04.Episode.4.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.089365529,
+                    "path": "Jamtara.-.Sabka.Number.Ayega.S01.720p.NF.WEB-DL.AAC.x264-BonsaiHD/Jamtara.-.Sabka.Number.Ayega.S01E09.Episode.9.720p.NF.WEB-DL.AAC.x264-BonsaiHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv.29b1808b4a1daf5d",
+            "size_total": 5.342830535,
+            "files_total": 10,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.781624384,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E01.Episode.1 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.779335571,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E10.Episode.10 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 3,
+                    "size": 0.692766413,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E07.Episode.7 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.471988014,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E05.Episode.5 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.463619098,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E03.Episode.3 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 6,
+                    "size": 0.463351063,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E06.Episode.6 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 7,
+                    "size": 0.441984807,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E08.Episode.8 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 8,
+                    "size": 0.440988532,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E02.Episode.2 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 9,
+                    "size": 0.406401645,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E04.Episode.4 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                },
+                {
+                    "number": 10,
+                    "size": 0.400771008,
+                    "path": "Jamtara.2020.Sabka.Number.Ayega.S01E01-10.720p.NF.WEB.DL.DD+5.1.H264.DusIcTv/Jamtara.-.Sabka.Number.Ayega.S01E09.Episode.9 720p NF WEB-DL DD+5.1 H264 DusIcTv.mkv"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 2,
+            "name": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.cb0377eb0b2d22ec",
+            "btih": "cb0377eb0b2d22eca284279446952c0bd1106a83",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.63937464,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 234877,
+            "uuploaders": 123110
+        },
+        {
+            "id": 6,
+            "name": "Jamtara-Sabka-Number-Ayega-(2020)-Hindi-NF-Season1-(Ep1-10)-Complete-720p-WEB-DL-AAC-x264-Multi-Sub",
+            "btih": "a931070a114c96f7bd381489c9fdfed7e6dfbe4b",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.362135551,
+            "creation": "2020-01-10T13:44:15.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 232798,
+            "uuploaders": 113217
+        },
+        {
+            "id": 13,
+            "name": "multi-btih-0-2-x-Jamtara--Sabka-Number-Ayega-S01-720p-NF-WEB-DL-AAC-x264-BonsaiHD",
+            "btih": "552395b57c1ee33c05f6e4fef84ae95c49d90faa",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.362120875,
+            "creation": "2020-01-10T09:22:23.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 97784,
+            "uuploaders": 4394
+        },
+        {
+            "id": 14,
+            "name": "multi-btih-1-2-x-Jamtara-2020-Sabka-Number-Ayega-S01E01-10-720p-NF-WEB-DL-DD",
+            "btih": "29b1808b4a1daf5d7e44b512408436eef7c7d75d",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 5.342830535,
+            "creation": "2020-01-10T10:52:29.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 90706,
+            "uuploaders": 21156
+        },
+        {
+            "id": 9,
+            "name": "Jamtara-Sabka-Number-Ayega-S01-E01-10-WebRip-Hindi-720p-x264-AAC-5-1-ESub-Cinemas-[Telly]",
+            "btih": "c9971021d791677cd4c8d68782da43e2de2a8784",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.707094979,
+            "creation": "2020-01-10T11:43:11.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 87829,
+            "uuploaders": 17922
+        },
+        {
+            "id": 1,
+            "name": "Jamtara S01 [ Bolly4u.Guru ] Hindi WEB-DL COmplete.zip.66500f62f946e656",
+            "btih": "66500f62f946e65653a860c6f9d44aac911872ba",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 2.272629147,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 59556,
+            "uuploaders": 4222
+        },
+        {
+            "id": 7,
+            "name": "Jamtara-Sabka-Number-Ayega-2020-S01-Hindi-720p-WEBRip-x264-AAC-5-1-ESubs--LOKiHD--Telly",
+            "btih": "6584b9ed8631b913ac650b311f823a3f1d778d75",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 2.63937464,
+            "creation": "2020-01-12T11:32:58.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48770,
+            "uuploaders": 1420
+        },
+        {
+            "id": 10,
+            "name": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly.f0dd81f91ea00a23",
+            "btih": "f0dd81f91ea00a23101ab27cb2ea1997c1e0d33e",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 10.462941165,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 46596,
+            "uuploaders": 6513
+        },
+        {
+            "id": 3,
+            "name": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs.ec1bd807dc2da590",
+            "btih": "ec1bd807dc2da59010ff6ab747f83766b33bc127",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.757015184,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 42310,
+            "uuploaders": 2643
+        },
+        {
+            "id": 8,
+            "name": "Jamtara-Sabka-Number-Ayega-S01-2160p-HEVC-NF-WEB-DL-DD",
+            "btih": "d45ac59c017a1ddfc7ad803a49f3775d7da0e2fa",
+            "resolution": "2160",
+            "encoding": "none",
+            "gigabytes": 55.201335248,
+            "creation": "2020-01-12T10:56:42.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 29865,
+            "uuploaders": 214
+        }
+    ]
+}

@@ -1,0 +1,2165 @@
+{
+    "collection_name": "Jamtara: Sabka Number Ayega",
+    "collection_id": "1",
+    "collection_key": "jamtara-sabka-number-ayega",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "sample_duration": "2020-01-10-to-2020-03-12",
+    "sample_days": 63,
+    "sample_year_start": 2020,
+    "sample_year_end": 2020,
+    "sample_day_year_start": 10,
+    "sample_day_year_end": 72,
+    "collection_week": [
+        {
+    "number": "week-00001",
+    "btiha_size": 9,
+    "udownloaders_total": 190869,
+    "uuploaders_total": 73750
+},
+        {
+    "number": "week-00002",
+    "btiha_size": 9,
+    "udownloaders_total": 394313,
+    "uuploaders_total": 149744
+},
+        {
+    "number": "week-00003",
+    "btiha_size": 9,
+    "udownloaders_total": 556113,
+    "uuploaders_total": 196017
+},
+        {
+    "number": "week-00004",
+    "btiha_size": 9,
+    "udownloaders_total": 646320,
+    "uuploaders_total": 226923
+},
+        {
+    "number": "week-00005",
+    "btiha_size": 9,
+    "udownloaders_total": 692910,
+    "uuploaders_total": 240714
+},
+        {
+    "number": "week-00006",
+    "btiha_size": 10,
+    "udownloaders_total": 739331,
+    "uuploaders_total": 252775
+},
+        {
+    "number": "week-00007",
+    "btiha_size": 10,
+    "udownloaders_total": 836189,
+    "uuploaders_total": 269564
+},
+        {
+    "number": "week-00008",
+    "btiha_size": 10,
+    "udownloaders_total": 903607,
+    "uuploaders_total": 283217
+},
+        {
+    "number": "week-00009",
+    "btiha_size": 10,
+    "udownloaders_total": 971091,
+    "uuploaders_total": 294811
+}
+    ],
+    "collection_week_by_btiha": [
+        [
+    {
+        "id": 6,
+        "name": "Jamtara-Sabka-Number-Ayega-(2020)-Hindi-NF-Season1-(Ep1-10)-Complete-720p-WEB-DL-AAC-x264-Multi-Sub",
+        "btih": "a931070a114c96f7bd381489c9fdfed7e6dfbe4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362135551,
+        "creation": "2020-01-10T13:44:15.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 64669,
+        "uuploaders": 34511
+    },
+    {
+        "id": 9,
+        "name": "Jamtara-Sabka-Number-Ayega-S01-E01-10-WebRip-Hindi-720p-x264-AAC-5-1-ESub-Cinemas-[Telly]",
+        "btih": "c9971021d791677cd4c8d68782da43e2de2a8784",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.707094979,
+        "creation": "2020-01-10T11:43:11.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 38335,
+        "uuploaders": 9352
+    },
+    {
+        "id": 2,
+        "name": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.cb0377eb0b2d22ec",
+        "btih": "cb0377eb0b2d22eca284279446952c0bd1106a83",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 28823,
+        "uuploaders": 16203
+    },
+    {
+        "id": 13,
+        "name": "multi-btih-0-2-x-Jamtara--Sabka-Number-Ayega-S01-720p-NF-WEB-DL-AAC-x264-BonsaiHD",
+        "btih": "552395b57c1ee33c05f6e4fef84ae95c49d90faa",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362120875,
+        "creation": "2020-01-10T09:22:23.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 19726,
+        "uuploaders": 1626
+    },
+    {
+        "id": 14,
+        "name": "multi-btih-1-2-x-Jamtara-2020-Sabka-Number-Ayega-S01E01-10-720p-NF-WEB-DL-DD",
+        "btih": "29b1808b4a1daf5d7e44b512408436eef7c7d75d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 5.342830535,
+        "creation": "2020-01-10T10:52:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18771,
+        "uuploaders": 9811
+    },
+    {
+        "id": 10,
+        "name": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly.f0dd81f91ea00a23",
+        "btih": "f0dd81f91ea00a23101ab27cb2ea1997c1e0d33e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 10.462941165,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 9563,
+        "uuploaders": 887
+    },
+    {
+        "id": 3,
+        "name": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs.ec1bd807dc2da590",
+        "btih": "ec1bd807dc2da59010ff6ab747f83766b33bc127",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.757015184,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 5921,
+        "uuploaders": 449
+    },
+    {
+        "id": 7,
+        "name": "Jamtara-Sabka-Number-Ayega-2020-S01-Hindi-720p-WEBRip-x264-AAC-5-1-ESubs--LOKiHD--Telly",
+        "btih": "6584b9ed8631b913ac650b311f823a3f1d778d75",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "2020-01-12T11:32:58.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2777,
+        "uuploaders": 266
+    },
+    {
+        "id": 1,
+        "name": "Jamtara S01 [ Bolly4u.Guru ] Hindi WEB-DL COmplete.zip.66500f62f946e656",
+        "btih": "66500f62f946e65653a860c6f9d44aac911872ba",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 2.272629147,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 2284,
+        "uuploaders": 645
+    }
+],
+        [
+    {
+        "id": 6,
+        "name": "Jamtara-Sabka-Number-Ayega-(2020)-Hindi-NF-Season1-(Ep1-10)-Complete-720p-WEB-DL-AAC-x264-Multi-Sub",
+        "btih": "a931070a114c96f7bd381489c9fdfed7e6dfbe4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362135551,
+        "creation": "2020-01-10T13:44:15.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 113546,
+        "uuploaders": 63739
+    },
+    {
+        "id": 2,
+        "name": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.cb0377eb0b2d22ec",
+        "btih": "cb0377eb0b2d22eca284279446952c0bd1106a83",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 96449,
+        "uuploaders": 51551
+    },
+    {
+        "id": 9,
+        "name": "Jamtara-Sabka-Number-Ayega-S01-E01-10-WebRip-Hindi-720p-x264-AAC-5-1-ESub-Cinemas-[Telly]",
+        "btih": "c9971021d791677cd4c8d68782da43e2de2a8784",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.707094979,
+        "creation": "2020-01-10T11:43:11.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 46600,
+        "uuploaders": 12392
+    },
+    {
+        "id": 13,
+        "name": "multi-btih-0-2-x-Jamtara--Sabka-Number-Ayega-S01-720p-NF-WEB-DL-AAC-x264-BonsaiHD",
+        "btih": "552395b57c1ee33c05f6e4fef84ae95c49d90faa",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362120875,
+        "creation": "2020-01-10T09:22:23.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 45763,
+        "uuploaders": 2401
+    },
+    {
+        "id": 14,
+        "name": "multi-btih-1-2-x-Jamtara-2020-Sabka-Number-Ayega-S01E01-10-720p-NF-WEB-DL-DD",
+        "btih": "29b1808b4a1daf5d7e44b512408436eef7c7d75d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 5.342830535,
+        "creation": "2020-01-10T10:52:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 27813,
+        "uuploaders": 13989
+    },
+    {
+        "id": 3,
+        "name": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs.ec1bd807dc2da590",
+        "btih": "ec1bd807dc2da59010ff6ab747f83766b33bc127",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.757015184,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 21523,
+        "uuploaders": 1095
+    },
+    {
+        "id": 10,
+        "name": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly.f0dd81f91ea00a23",
+        "btih": "f0dd81f91ea00a23101ab27cb2ea1997c1e0d33e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 10.462941165,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 19467,
+        "uuploaders": 2440
+    },
+    {
+        "id": 7,
+        "name": "Jamtara-Sabka-Number-Ayega-2020-S01-Hindi-720p-WEBRip-x264-AAC-5-1-ESubs--LOKiHD--Telly",
+        "btih": "6584b9ed8631b913ac650b311f823a3f1d778d75",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "2020-01-12T11:32:58.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15369,
+        "uuploaders": 523
+    },
+    {
+        "id": 1,
+        "name": "Jamtara S01 [ Bolly4u.Guru ] Hindi WEB-DL COmplete.zip.66500f62f946e656",
+        "btih": "66500f62f946e65653a860c6f9d44aac911872ba",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 2.272629147,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 7783,
+        "uuploaders": 1614
+    }
+],
+        [
+    {
+        "id": 6,
+        "name": "Jamtara-Sabka-Number-Ayega-(2020)-Hindi-NF-Season1-(Ep1-10)-Complete-720p-WEB-DL-AAC-x264-Multi-Sub",
+        "btih": "a931070a114c96f7bd381489c9fdfed7e6dfbe4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362135551,
+        "creation": "2020-01-10T13:44:15.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 157002,
+        "uuploaders": 80259
+    },
+    {
+        "id": 2,
+        "name": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.cb0377eb0b2d22ec",
+        "btih": "cb0377eb0b2d22eca284279446952c0bd1106a83",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 135135,
+        "uuploaders": 74716
+    },
+    {
+        "id": 13,
+        "name": "multi-btih-0-2-x-Jamtara--Sabka-Number-Ayega-S01-720p-NF-WEB-DL-AAC-x264-BonsaiHD",
+        "btih": "552395b57c1ee33c05f6e4fef84ae95c49d90faa",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362120875,
+        "creation": "2020-01-10T09:22:23.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 68632,
+        "uuploaders": 2897
+    },
+    {
+        "id": 9,
+        "name": "Jamtara-Sabka-Number-Ayega-S01-E01-10-WebRip-Hindi-720p-x264-AAC-5-1-ESub-Cinemas-[Telly]",
+        "btih": "c9971021d791677cd4c8d68782da43e2de2a8784",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.707094979,
+        "creation": "2020-01-10T11:43:11.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 55218,
+        "uuploaders": 14094
+    },
+    {
+        "id": 14,
+        "name": "multi-btih-1-2-x-Jamtara-2020-Sabka-Number-Ayega-S01E01-10-720p-NF-WEB-DL-DD",
+        "btih": "29b1808b4a1daf5d7e44b512408436eef7c7d75d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 5.342830535,
+        "creation": "2020-01-10T10:52:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 42642,
+        "uuploaders": 16118
+    },
+    {
+        "id": 3,
+        "name": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs.ec1bd807dc2da590",
+        "btih": "ec1bd807dc2da59010ff6ab747f83766b33bc127",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.757015184,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 27194,
+        "uuploaders": 1556
+    },
+    {
+        "id": 10,
+        "name": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly.f0dd81f91ea00a23",
+        "btih": "f0dd81f91ea00a23101ab27cb2ea1997c1e0d33e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 10.462941165,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 26581,
+        "uuploaders": 3485
+    },
+    {
+        "id": 7,
+        "name": "Jamtara-Sabka-Number-Ayega-2020-S01-Hindi-720p-WEBRip-x264-AAC-5-1-ESubs--LOKiHD--Telly",
+        "btih": "6584b9ed8631b913ac650b311f823a3f1d778d75",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "2020-01-12T11:32:58.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 23309,
+        "uuploaders": 779
+    },
+    {
+        "id": 1,
+        "name": "Jamtara S01 [ Bolly4u.Guru ] Hindi WEB-DL COmplete.zip.66500f62f946e656",
+        "btih": "66500f62f946e65653a860c6f9d44aac911872ba",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 2.272629147,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 20400,
+        "uuploaders": 2113
+    }
+],
+        [
+    {
+        "id": 6,
+        "name": "Jamtara-Sabka-Number-Ayega-(2020)-Hindi-NF-Season1-(Ep1-10)-Complete-720p-WEB-DL-AAC-x264-Multi-Sub",
+        "btih": "a931070a114c96f7bd381489c9fdfed7e6dfbe4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362135551,
+        "creation": "2020-01-10T13:44:15.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 176897,
+        "uuploaders": 90405
+    },
+    {
+        "id": 2,
+        "name": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.cb0377eb0b2d22ec",
+        "btih": "cb0377eb0b2d22eca284279446952c0bd1106a83",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 161438,
+        "uuploaders": 90565
+    },
+    {
+        "id": 13,
+        "name": "multi-btih-0-2-x-Jamtara--Sabka-Number-Ayega-S01-720p-NF-WEB-DL-AAC-x264-BonsaiHD",
+        "btih": "552395b57c1ee33c05f6e4fef84ae95c49d90faa",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362120875,
+        "creation": "2020-01-10T09:22:23.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 74227,
+        "uuploaders": 3331
+    },
+    {
+        "id": 9,
+        "name": "Jamtara-Sabka-Number-Ayega-S01-E01-10-WebRip-Hindi-720p-x264-AAC-5-1-ESub-Cinemas-[Telly]",
+        "btih": "c9971021d791677cd4c8d68782da43e2de2a8784",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.707094979,
+        "creation": "2020-01-10T11:43:11.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 63501,
+        "uuploaders": 15239
+    },
+    {
+        "id": 14,
+        "name": "multi-btih-1-2-x-Jamtara-2020-Sabka-Number-Ayega-S01E01-10-720p-NF-WEB-DL-DD",
+        "btih": "29b1808b4a1daf5d7e44b512408436eef7c7d75d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 5.342830535,
+        "creation": "2020-01-10T10:52:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 49699,
+        "uuploaders": 17594
+    },
+    {
+        "id": 10,
+        "name": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly.f0dd81f91ea00a23",
+        "btih": "f0dd81f91ea00a23101ab27cb2ea1997c1e0d33e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 10.462941165,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 34467,
+        "uuploaders": 4367
+    },
+    {
+        "id": 3,
+        "name": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs.ec1bd807dc2da590",
+        "btih": "ec1bd807dc2da59010ff6ab747f83766b33bc127",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.757015184,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 32373,
+        "uuploaders": 1881
+    },
+    {
+        "id": 1,
+        "name": "Jamtara S01 [ Bolly4u.Guru ] Hindi WEB-DL COmplete.zip.66500f62f946e656",
+        "btih": "66500f62f946e65653a860c6f9d44aac911872ba",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 2.272629147,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 28871,
+        "uuploaders": 2583
+    },
+    {
+        "id": 7,
+        "name": "Jamtara-Sabka-Number-Ayega-2020-S01-Hindi-720p-WEBRip-x264-AAC-5-1-ESubs--LOKiHD--Telly",
+        "btih": "6584b9ed8631b913ac650b311f823a3f1d778d75",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "2020-01-12T11:32:58.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 24847,
+        "uuploaders": 958
+    }
+],
+        [
+    {
+        "id": 6,
+        "name": "Jamtara-Sabka-Number-Ayega-(2020)-Hindi-NF-Season1-(Ep1-10)-Complete-720p-WEB-DL-AAC-x264-Multi-Sub",
+        "btih": "a931070a114c96f7bd381489c9fdfed7e6dfbe4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362135551,
+        "creation": "2020-01-10T13:44:15.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 186083,
+        "uuploaders": 95119
+    },
+    {
+        "id": 2,
+        "name": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.cb0377eb0b2d22ec",
+        "btih": "cb0377eb0b2d22eca284279446952c0bd1106a83",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 175472,
+        "uuploaders": 96980
+    },
+    {
+        "id": 13,
+        "name": "multi-btih-0-2-x-Jamtara--Sabka-Number-Ayega-S01-720p-NF-WEB-DL-AAC-x264-BonsaiHD",
+        "btih": "552395b57c1ee33c05f6e4fef84ae95c49d90faa",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362120875,
+        "creation": "2020-01-10T09:22:23.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 80749,
+        "uuploaders": 3634
+    },
+    {
+        "id": 9,
+        "name": "Jamtara-Sabka-Number-Ayega-S01-E01-10-WebRip-Hindi-720p-x264-AAC-5-1-ESub-Cinemas-[Telly]",
+        "btih": "c9971021d791677cd4c8d68782da43e2de2a8784",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.707094979,
+        "creation": "2020-01-10T11:43:11.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 74415,
+        "uuploaders": 15886
+    },
+    {
+        "id": 14,
+        "name": "multi-btih-1-2-x-Jamtara-2020-Sabka-Number-Ayega-S01E01-10-720p-NF-WEB-DL-DD",
+        "btih": "29b1808b4a1daf5d7e44b512408436eef7c7d75d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 5.342830535,
+        "creation": "2020-01-10T10:52:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 51328,
+        "uuploaders": 18385
+    },
+    {
+        "id": 10,
+        "name": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly.f0dd81f91ea00a23",
+        "btih": "f0dd81f91ea00a23101ab27cb2ea1997c1e0d33e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 10.462941165,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 35601,
+        "uuploaders": 4772
+    },
+    {
+        "id": 3,
+        "name": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs.ec1bd807dc2da590",
+        "btih": "ec1bd807dc2da59010ff6ab747f83766b33bc127",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.757015184,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 33910,
+        "uuploaders": 2020
+    },
+    {
+        "id": 1,
+        "name": "Jamtara S01 [ Bolly4u.Guru ] Hindi WEB-DL COmplete.zip.66500f62f946e656",
+        "btih": "66500f62f946e65653a860c6f9d44aac911872ba",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 2.272629147,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 30250,
+        "uuploaders": 2898
+    },
+    {
+        "id": 7,
+        "name": "Jamtara-Sabka-Number-Ayega-2020-S01-Hindi-720p-WEBRip-x264-AAC-5-1-ESubs--LOKiHD--Telly",
+        "btih": "6584b9ed8631b913ac650b311f823a3f1d778d75",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "2020-01-12T11:32:58.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 25102,
+        "uuploaders": 1020
+    }
+],
+        [
+    {
+        "id": 6,
+        "name": "Jamtara-Sabka-Number-Ayega-(2020)-Hindi-NF-Season1-(Ep1-10)-Complete-720p-WEB-DL-AAC-x264-Multi-Sub",
+        "btih": "a931070a114c96f7bd381489c9fdfed7e6dfbe4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362135551,
+        "creation": "2020-01-10T13:44:15.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 195211,
+        "uuploaders": 99049
+    },
+    {
+        "id": 2,
+        "name": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.cb0377eb0b2d22ec",
+        "btih": "cb0377eb0b2d22eca284279446952c0bd1106a83",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 189349,
+        "uuploaders": 103018
+    },
+    {
+        "id": 13,
+        "name": "multi-btih-0-2-x-Jamtara--Sabka-Number-Ayega-S01-720p-NF-WEB-DL-AAC-x264-BonsaiHD",
+        "btih": "552395b57c1ee33c05f6e4fef84ae95c49d90faa",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362120875,
+        "creation": "2020-01-10T09:22:23.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 83842,
+        "uuploaders": 3761
+    },
+    {
+        "id": 9,
+        "name": "Jamtara-Sabka-Number-Ayega-S01-E01-10-WebRip-Hindi-720p-x264-AAC-5-1-ESub-Cinemas-[Telly]",
+        "btih": "c9971021d791677cd4c8d68782da43e2de2a8784",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.707094979,
+        "creation": "2020-01-10T11:43:11.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 77850,
+        "uuploaders": 16347
+    },
+    {
+        "id": 14,
+        "name": "multi-btih-1-2-x-Jamtara-2020-Sabka-Number-Ayega-S01E01-10-720p-NF-WEB-DL-DD",
+        "btih": "29b1808b4a1daf5d7e44b512408436eef7c7d75d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 5.342830535,
+        "creation": "2020-01-10T10:52:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 58549,
+        "uuploaders": 19079
+    },
+    {
+        "id": 10,
+        "name": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly.f0dd81f91ea00a23",
+        "btih": "f0dd81f91ea00a23101ab27cb2ea1997c1e0d33e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 10.462941165,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 39415,
+        "uuploaders": 5074
+    },
+    {
+        "id": 3,
+        "name": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs.ec1bd807dc2da590",
+        "btih": "ec1bd807dc2da59010ff6ab747f83766b33bc127",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.757015184,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 34574,
+        "uuploaders": 2120
+    },
+    {
+        "id": 1,
+        "name": "Jamtara S01 [ Bolly4u.Guru ] Hindi WEB-DL COmplete.zip.66500f62f946e656",
+        "btih": "66500f62f946e65653a860c6f9d44aac911872ba",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 2.272629147,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 31356,
+        "uuploaders": 3181
+    },
+    {
+        "id": 7,
+        "name": "Jamtara-Sabka-Number-Ayega-2020-S01-Hindi-720p-WEBRip-x264-AAC-5-1-ESubs--LOKiHD--Telly",
+        "btih": "6584b9ed8631b913ac650b311f823a3f1d778d75",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "2020-01-12T11:32:58.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 27409,
+        "uuploaders": 1088
+    },
+    {
+        "id": 8,
+        "name": "Jamtara-Sabka-Number-Ayega-S01-2160p-HEVC-NF-WEB-DL-DD",
+        "btih": "d45ac59c017a1ddfc7ad803a49f3775d7da0e2fa",
+        "resolution": "2160",
+        "encoding": "none",
+        "gigabytes": 55.201335248,
+        "creation": "2020-01-12T10:56:42.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 1776,
+        "uuploaders": 58
+    }
+],
+        [
+    {
+        "id": 6,
+        "name": "Jamtara-Sabka-Number-Ayega-(2020)-Hindi-NF-Season1-(Ep1-10)-Complete-720p-WEB-DL-AAC-x264-Multi-Sub",
+        "btih": "a931070a114c96f7bd381489c9fdfed7e6dfbe4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362135551,
+        "creation": "2020-01-10T13:44:15.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 210070,
+        "uuploaders": 105101
+    },
+    {
+        "id": 2,
+        "name": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.cb0377eb0b2d22ec",
+        "btih": "cb0377eb0b2d22eca284279446952c0bd1106a83",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 204069,
+        "uuploaders": 110738
+    },
+    {
+        "id": 13,
+        "name": "multi-btih-0-2-x-Jamtara--Sabka-Number-Ayega-S01-720p-NF-WEB-DL-AAC-x264-BonsaiHD",
+        "btih": "552395b57c1ee33c05f6e4fef84ae95c49d90faa",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362120875,
+        "creation": "2020-01-10T09:22:23.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 90760,
+        "uuploaders": 4025
+    },
+    {
+        "id": 9,
+        "name": "Jamtara-Sabka-Number-Ayega-S01-E01-10-WebRip-Hindi-720p-x264-AAC-5-1-ESub-Cinemas-[Telly]",
+        "btih": "c9971021d791677cd4c8d68782da43e2de2a8784",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.707094979,
+        "creation": "2020-01-10T11:43:11.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 82374,
+        "uuploaders": 16929
+    },
+    {
+        "id": 14,
+        "name": "multi-btih-1-2-x-Jamtara-2020-Sabka-Number-Ayega-S01E01-10-720p-NF-WEB-DL-DD",
+        "btih": "29b1808b4a1daf5d7e44b512408436eef7c7d75d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 5.342830535,
+        "creation": "2020-01-10T10:52:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 67893,
+        "uuploaders": 19931
+    },
+    {
+        "id": 7,
+        "name": "Jamtara-Sabka-Number-Ayega-2020-S01-Hindi-720p-WEBRip-x264-AAC-5-1-ESubs--LOKiHD--Telly",
+        "btih": "6584b9ed8631b913ac650b311f823a3f1d778d75",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "2020-01-12T11:32:58.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 46109,
+        "uuploaders": 1235
+    },
+    {
+        "id": 10,
+        "name": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly.f0dd81f91ea00a23",
+        "btih": "f0dd81f91ea00a23101ab27cb2ea1997c1e0d33e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 10.462941165,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 41864,
+        "uuploaders": 5589
+    },
+    {
+        "id": 1,
+        "name": "Jamtara S01 [ Bolly4u.Guru ] Hindi WEB-DL COmplete.zip.66500f62f946e656",
+        "btih": "66500f62f946e65653a860c6f9d44aac911872ba",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 2.272629147,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 40652,
+        "uuploaders": 3576
+    },
+    {
+        "id": 3,
+        "name": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs.ec1bd807dc2da590",
+        "btih": "ec1bd807dc2da59010ff6ab747f83766b33bc127",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.757015184,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 36684,
+        "uuploaders": 2327
+    },
+    {
+        "id": 8,
+        "name": "Jamtara-Sabka-Number-Ayega-S01-2160p-HEVC-NF-WEB-DL-DD",
+        "btih": "d45ac59c017a1ddfc7ad803a49f3775d7da0e2fa",
+        "resolution": "2160",
+        "encoding": "none",
+        "gigabytes": 55.201335248,
+        "creation": "2020-01-12T10:56:42.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 15714,
+        "uuploaders": 113
+    }
+],
+        [
+    {
+        "id": 6,
+        "name": "Jamtara-Sabka-Number-Ayega-(2020)-Hindi-NF-Season1-(Ep1-10)-Complete-720p-WEB-DL-AAC-x264-Multi-Sub",
+        "btih": "a931070a114c96f7bd381489c9fdfed7e6dfbe4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362135551,
+        "creation": "2020-01-10T13:44:15.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 222412,
+        "uuploaders": 109600
+    },
+    {
+        "id": 2,
+        "name": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.cb0377eb0b2d22ec",
+        "btih": "cb0377eb0b2d22eca284279446952c0bd1106a83",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 222094,
+        "uuploaders": 117398
+    },
+    {
+        "id": 13,
+        "name": "multi-btih-0-2-x-Jamtara--Sabka-Number-Ayega-S01-720p-NF-WEB-DL-AAC-x264-BonsaiHD",
+        "btih": "552395b57c1ee33c05f6e4fef84ae95c49d90faa",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362120875,
+        "creation": "2020-01-10T09:22:23.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 94078,
+        "uuploaders": 4211
+    },
+    {
+        "id": 9,
+        "name": "Jamtara-Sabka-Number-Ayega-S01-E01-10-WebRip-Hindi-720p-x264-AAC-5-1-ESub-Cinemas-[Telly]",
+        "btih": "c9971021d791677cd4c8d68782da43e2de2a8784",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.707094979,
+        "creation": "2020-01-10T11:43:11.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 84865,
+        "uuploaders": 17475
+    },
+    {
+        "id": 14,
+        "name": "multi-btih-1-2-x-Jamtara-2020-Sabka-Number-Ayega-S01E01-10-720p-NF-WEB-DL-DD",
+        "btih": "29b1808b4a1daf5d7e44b512408436eef7c7d75d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 5.342830535,
+        "creation": "2020-01-10T10:52:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 80111,
+        "uuploaders": 20589
+    },
+    {
+        "id": 1,
+        "name": "Jamtara S01 [ Bolly4u.Guru ] Hindi WEB-DL COmplete.zip.66500f62f946e656",
+        "btih": "66500f62f946e65653a860c6f9d44aac911872ba",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 2.272629147,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 51734,
+        "uuploaders": 3884
+    },
+    {
+        "id": 7,
+        "name": "Jamtara-Sabka-Number-Ayega-2020-S01-Hindi-720p-WEBRip-x264-AAC-5-1-ESubs--LOKiHD--Telly",
+        "btih": "6584b9ed8631b913ac650b311f823a3f1d778d75",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "2020-01-12T11:32:58.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 47442,
+        "uuploaders": 1346
+    },
+    {
+        "id": 10,
+        "name": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly.f0dd81f91ea00a23",
+        "btih": "f0dd81f91ea00a23101ab27cb2ea1997c1e0d33e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 10.462941165,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 44185,
+        "uuploaders": 6058
+    },
+    {
+        "id": 3,
+        "name": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs.ec1bd807dc2da590",
+        "btih": "ec1bd807dc2da59010ff6ab747f83766b33bc127",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.757015184,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 37921,
+        "uuploaders": 2493
+    },
+    {
+        "id": 8,
+        "name": "Jamtara-Sabka-Number-Ayega-S01-2160p-HEVC-NF-WEB-DL-DD",
+        "btih": "d45ac59c017a1ddfc7ad803a49f3775d7da0e2fa",
+        "resolution": "2160",
+        "encoding": "none",
+        "gigabytes": 55.201335248,
+        "creation": "2020-01-12T10:56:42.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 18765,
+        "uuploaders": 163
+    }
+],
+        [
+    {
+        "id": 2,
+        "name": "Jamtara Sabka Number Ayega 2020 S01 Hindi 720p WEBRip x264 AAC 5.1 ESubs - LOKiHD - Telly.cb0377eb0b2d22ec",
+        "btih": "cb0377eb0b2d22eca284279446952c0bd1106a83",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 234877,
+        "uuploaders": 123110
+    },
+    {
+        "id": 6,
+        "name": "Jamtara-Sabka-Number-Ayega-(2020)-Hindi-NF-Season1-(Ep1-10)-Complete-720p-WEB-DL-AAC-x264-Multi-Sub",
+        "btih": "a931070a114c96f7bd381489c9fdfed7e6dfbe4b",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362135551,
+        "creation": "2020-01-10T13:44:15.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 232798,
+        "uuploaders": 113217
+    },
+    {
+        "id": 13,
+        "name": "multi-btih-0-2-x-Jamtara--Sabka-Number-Ayega-S01-720p-NF-WEB-DL-AAC-x264-BonsaiHD",
+        "btih": "552395b57c1ee33c05f6e4fef84ae95c49d90faa",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 1.362120875,
+        "creation": "2020-01-10T09:22:23.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 97784,
+        "uuploaders": 4394
+    },
+    {
+        "id": 14,
+        "name": "multi-btih-1-2-x-Jamtara-2020-Sabka-Number-Ayega-S01E01-10-720p-NF-WEB-DL-DD",
+        "btih": "29b1808b4a1daf5d7e44b512408436eef7c7d75d",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 5.342830535,
+        "creation": "2020-01-10T10:52:29.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 90706,
+        "uuploaders": 21156
+    },
+    {
+        "id": 9,
+        "name": "Jamtara-Sabka-Number-Ayega-S01-E01-10-WebRip-Hindi-720p-x264-AAC-5-1-ESub-Cinemas-[Telly]",
+        "btih": "c9971021d791677cd4c8d68782da43e2de2a8784",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.707094979,
+        "creation": "2020-01-10T11:43:11.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 87829,
+        "uuploaders": 17922
+    },
+    {
+        "id": 1,
+        "name": "Jamtara S01 [ Bolly4u.Guru ] Hindi WEB-DL COmplete.zip.66500f62f946e656",
+        "btih": "66500f62f946e65653a860c6f9d44aac911872ba",
+        "resolution": "sd",
+        "encoding": "none",
+        "gigabytes": 2.272629147,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 59556,
+        "uuploaders": 4222
+    },
+    {
+        "id": 7,
+        "name": "Jamtara-Sabka-Number-Ayega-2020-S01-Hindi-720p-WEBRip-x264-AAC-5-1-ESubs--LOKiHD--Telly",
+        "btih": "6584b9ed8631b913ac650b311f823a3f1d778d75",
+        "resolution": "720",
+        "encoding": "264",
+        "gigabytes": 2.63937464,
+        "creation": "2020-01-12T11:32:58.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 48770,
+        "uuploaders": 1420
+    },
+    {
+        "id": 10,
+        "name": "Jamtara-Sabka.Number.Ayega.S01.2020.1080p.NF.WEB-DL.HIN-ENG-DD+5.1.x264-Telly.f0dd81f91ea00a23",
+        "btih": "f0dd81f91ea00a23101ab27cb2ea1997c1e0d33e",
+        "resolution": "1080",
+        "encoding": "264",
+        "gigabytes": 10.462941165,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 46596,
+        "uuploaders": 6513
+    },
+    {
+        "id": 3,
+        "name": "Jamtara Sabka Number Ayega S01 Complete Hindi Dual Audio www.downloadhub.rocks 720p Web-DL ESubs.ec1bd807dc2da590",
+        "btih": "ec1bd807dc2da59010ff6ab747f83766b33bc127",
+        "resolution": "720",
+        "encoding": "none",
+        "gigabytes": 1.757015184,
+        "creation": "1970-01-01T00:00:00.000000000Z",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 42310,
+        "uuploaders": 2643
+    },
+    {
+        "id": 8,
+        "name": "Jamtara-Sabka-Number-Ayega-S01-2160p-HEVC-NF-WEB-DL-DD",
+        "btih": "d45ac59c017a1ddfc7ad803a49f3775d7da0e2fa",
+        "resolution": "2160",
+        "encoding": "none",
+        "gigabytes": 55.201335248,
+        "creation": "2020-01-12T10:56:42.000000000Z,go.torrent,dynamic metainfo from client",
+        "ssl": false,
+        "private": false,
+        "i2p": false,
+        "udownloaders": 29865,
+        "uuploaders": 214
+    }
+]
+    ],
+    "collection_week_by_country": [
+        [
+    {
+        "number": "BRA_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 1430,
+        "uuploaders_total": 35
+    },
+    {
+        "number": "CAN_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 1638,
+        "uuploaders_total": 164
+    },
+    {
+        "number": "CHN_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 5685,
+        "uuploaders_total": 522
+    },
+    {
+        "number": "DEU_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 2240,
+        "uuploaders_total": 134
+    },
+    {
+        "number": "ESP_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 744,
+        "uuploaders_total": 63
+    },
+    {
+        "number": "FRA_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 1941,
+        "uuploaders_total": 194
+    },
+    {
+        "number": "HKG_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 2011,
+        "uuploaders_total": 991
+    },
+    {
+        "number": "JPN_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 3246,
+        "uuploaders_total": 134
+    },
+    {
+        "number": "KOR_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 2245,
+        "uuploaders_total": 76
+    },
+    {
+        "number": "MEX_week_1",
+        "btiha_size": 8,
+        "udownloaders_total": 174,
+        "uuploaders_total": 13
+    },
+    {
+        "number": "NLD_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 1341,
+        "uuploaders_total": 168
+    },
+    {
+        "number": "RUS_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 4349,
+        "uuploaders_total": 147
+    },
+    {
+        "number": "SWE_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 583,
+        "uuploaders_total": 32
+    },
+    {
+        "number": "TUR_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 220,
+        "uuploaders_total": 31
+    },
+    {
+        "number": "UKR_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 338,
+        "uuploaders_total": 21
+    },
+    {
+        "number": "USA_week_1",
+        "btiha_size": 9,
+        "udownloaders_total": 25475,
+        "uuploaders_total": 2374
+    }
+],
+        [
+    {
+        "number": "BRA_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 3383,
+        "uuploaders_total": 137
+    },
+    {
+        "number": "CAN_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 3859,
+        "uuploaders_total": 369
+    },
+    {
+        "number": "CHN_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 13388,
+        "uuploaders_total": 1219
+    },
+    {
+        "number": "DEU_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 5091,
+        "uuploaders_total": 357
+    },
+    {
+        "number": "ESP_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 1676,
+        "uuploaders_total": 138
+    },
+    {
+        "number": "FRA_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 4256,
+        "uuploaders_total": 405
+    },
+    {
+        "number": "HKG_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 3589,
+        "uuploaders_total": 1744
+    },
+    {
+        "number": "JPN_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 7718,
+        "uuploaders_total": 425
+    },
+    {
+        "number": "KOR_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 5168,
+        "uuploaders_total": 228
+    },
+    {
+        "number": "MEX_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 436,
+        "uuploaders_total": 45
+    },
+    {
+        "number": "NLD_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 2965,
+        "uuploaders_total": 341
+    },
+    {
+        "number": "RUS_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 8179,
+        "uuploaders_total": 340
+    },
+    {
+        "number": "SWE_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 1370,
+        "uuploaders_total": 105
+    },
+    {
+        "number": "TUR_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 464,
+        "uuploaders_total": 50
+    },
+    {
+        "number": "UKR_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 721,
+        "uuploaders_total": 50
+    },
+    {
+        "number": "USA_week_2",
+        "btiha_size": 9,
+        "udownloaders_total": 59648,
+        "uuploaders_total": 5707
+    }
+],
+        [
+    {
+        "number": "BRA_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 5199,
+        "uuploaders_total": 179
+    },
+    {
+        "number": "CAN_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 6203,
+        "uuploaders_total": 475
+    },
+    {
+        "number": "CHN_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 20526,
+        "uuploaders_total": 1595
+    },
+    {
+        "number": "DEU_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 7907,
+        "uuploaders_total": 484
+    },
+    {
+        "number": "ESP_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 2538,
+        "uuploaders_total": 180
+    },
+    {
+        "number": "FRA_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 6514,
+        "uuploaders_total": 527
+    },
+    {
+        "number": "HKG_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 4694,
+        "uuploaders_total": 2198
+    },
+    {
+        "number": "JPN_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 12054,
+        "uuploaders_total": 577
+    },
+    {
+        "number": "KOR_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 8116,
+        "uuploaders_total": 293
+    },
+    {
+        "number": "MEX_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 694,
+        "uuploaders_total": 54
+    },
+    {
+        "number": "NLD_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 4553,
+        "uuploaders_total": 442
+    },
+    {
+        "number": "RUS_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 11803,
+        "uuploaders_total": 467
+    },
+    {
+        "number": "SWE_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 2176,
+        "uuploaders_total": 146
+    },
+    {
+        "number": "TUR_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 710,
+        "uuploaders_total": 72
+    },
+    {
+        "number": "UKR_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 1106,
+        "uuploaders_total": 69
+    },
+    {
+        "number": "USA_week_3",
+        "btiha_size": 9,
+        "udownloaders_total": 93139,
+        "uuploaders_total": 7472
+    }
+],
+        [
+    {
+        "number": "BRA_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 6036,
+        "uuploaders_total": 187
+    },
+    {
+        "number": "CAN_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 7254,
+        "uuploaders_total": 515
+    },
+    {
+        "number": "CHN_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 23729,
+        "uuploaders_total": 1703
+    },
+    {
+        "number": "DEU_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 9028,
+        "uuploaders_total": 505
+    },
+    {
+        "number": "ESP_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 2941,
+        "uuploaders_total": 198
+    },
+    {
+        "number": "FRA_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 7714,
+        "uuploaders_total": 653
+    },
+    {
+        "number": "HKG_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 5381,
+        "uuploaders_total": 2494
+    },
+    {
+        "number": "JPN_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 14092,
+        "uuploaders_total": 661
+    },
+    {
+        "number": "KOR_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 9914,
+        "uuploaders_total": 325
+    },
+    {
+        "number": "MEX_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 826,
+        "uuploaders_total": 63
+    },
+    {
+        "number": "NLD_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 5470,
+        "uuploaders_total": 504
+    },
+    {
+        "number": "RUS_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 13771,
+        "uuploaders_total": 542
+    },
+    {
+        "number": "SWE_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 2510,
+        "uuploaders_total": 163
+    },
+    {
+        "number": "TUR_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 842,
+        "uuploaders_total": 81
+    },
+    {
+        "number": "UKR_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 1303,
+        "uuploaders_total": 81
+    },
+    {
+        "number": "USA_week_4",
+        "btiha_size": 9,
+        "udownloaders_total": 107211,
+        "uuploaders_total": 8413
+    }
+],
+        [
+    {
+        "number": "BRA_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 6556,
+        "uuploaders_total": 193
+    },
+    {
+        "number": "CAN_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 7809,
+        "uuploaders_total": 545
+    },
+    {
+        "number": "CHN_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 25670,
+        "uuploaders_total": 1763
+    },
+    {
+        "number": "DEU_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 9767,
+        "uuploaders_total": 519
+    },
+    {
+        "number": "ESP_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 3184,
+        "uuploaders_total": 209
+    },
+    {
+        "number": "FRA_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 8288,
+        "uuploaders_total": 721
+    },
+    {
+        "number": "HKG_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 5721,
+        "uuploaders_total": 2639
+    },
+    {
+        "number": "JPN_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 15295,
+        "uuploaders_total": 701
+    },
+    {
+        "number": "KOR_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 10665,
+        "uuploaders_total": 334
+    },
+    {
+        "number": "MEX_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 902,
+        "uuploaders_total": 64
+    },
+    {
+        "number": "NLD_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 5911,
+        "uuploaders_total": 530
+    },
+    {
+        "number": "RUS_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 14564,
+        "uuploaders_total": 568
+    },
+    {
+        "number": "SWE_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 2707,
+        "uuploaders_total": 169
+    },
+    {
+        "number": "TUR_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 913,
+        "uuploaders_total": 84
+    },
+    {
+        "number": "UKR_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 1373,
+        "uuploaders_total": 88
+    },
+    {
+        "number": "USA_week_5",
+        "btiha_size": 9,
+        "udownloaders_total": 116220,
+        "uuploaders_total": 9084
+    }
+],
+        [
+    {
+        "number": "BRA_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 7012,
+        "uuploaders_total": 201
+    },
+    {
+        "number": "CAN_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 8668,
+        "uuploaders_total": 571
+    },
+    {
+        "number": "CHN_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 27190,
+        "uuploaders_total": 1798
+    },
+    {
+        "number": "DEU_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 10401,
+        "uuploaders_total": 534
+    },
+    {
+        "number": "ESP_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 3453,
+        "uuploaders_total": 214
+    },
+    {
+        "number": "FRA_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 9211,
+        "uuploaders_total": 767
+    },
+    {
+        "number": "HKG_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 6108,
+        "uuploaders_total": 2778
+    },
+    {
+        "number": "JPN_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 16340,
+        "uuploaders_total": 747
+    },
+    {
+        "number": "KOR_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 12317,
+        "uuploaders_total": 363
+    },
+    {
+        "number": "MEX_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 979,
+        "uuploaders_total": 67
+    },
+    {
+        "number": "NLD_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 6520,
+        "uuploaders_total": 549
+    },
+    {
+        "number": "RUS_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 19128,
+        "uuploaders_total": 595
+    },
+    {
+        "number": "SWE_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 2977,
+        "uuploaders_total": 174
+    },
+    {
+        "number": "TUR_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 991,
+        "uuploaders_total": 90
+    },
+    {
+        "number": "UKR_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 1694,
+        "uuploaders_total": 89
+    },
+    {
+        "number": "USA_week_6",
+        "btiha_size": 10,
+        "udownloaders_total": 123812,
+        "uuploaders_total": 9492
+    }
+],
+        [
+    {
+        "number": "BRA_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 8366,
+        "uuploaders_total": 208
+    },
+    {
+        "number": "CAN_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 10371,
+        "uuploaders_total": 609
+    },
+    {
+        "number": "CHN_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 31880,
+        "uuploaders_total": 1838
+    },
+    {
+        "number": "DEU_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 12146,
+        "uuploaders_total": 553
+    },
+    {
+        "number": "ESP_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 4142,
+        "uuploaders_total": 221
+    },
+    {
+        "number": "FRA_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 11163,
+        "uuploaders_total": 808
+    },
+    {
+        "number": "HKG_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 6749,
+        "uuploaders_total": 2914
+    },
+    {
+        "number": "JPN_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 19451,
+        "uuploaders_total": 792
+    },
+    {
+        "number": "KOR_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 16274,
+        "uuploaders_total": 373
+    },
+    {
+        "number": "MEX_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 1146,
+        "uuploaders_total": 70
+    },
+    {
+        "number": "NLD_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 7854,
+        "uuploaders_total": 565
+    },
+    {
+        "number": "RUS_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 26739,
+        "uuploaders_total": 639
+    },
+    {
+        "number": "SWE_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 3575,
+        "uuploaders_total": 186
+    },
+    {
+        "number": "TUR_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 1169,
+        "uuploaders_total": 91
+    },
+    {
+        "number": "UKR_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 2232,
+        "uuploaders_total": 98
+    },
+    {
+        "number": "USA_week_7",
+        "btiha_size": 10,
+        "udownloaders_total": 143448,
+        "uuploaders_total": 9955
+    }
+],
+        [
+    {
+        "number": "BRA_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 9191,
+        "uuploaders_total": 220
+    },
+    {
+        "number": "CAN_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 11514,
+        "uuploaders_total": 639
+    },
+    {
+        "number": "CHN_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 34988,
+        "uuploaders_total": 1901
+    },
+    {
+        "number": "DEU_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 13336,
+        "uuploaders_total": 569
+    },
+    {
+        "number": "ESP_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 4554,
+        "uuploaders_total": 230
+    },
+    {
+        "number": "FRA_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 12348,
+        "uuploaders_total": 846
+    },
+    {
+        "number": "HKG_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 7219,
+        "uuploaders_total": 3036
+    },
+    {
+        "number": "JPN_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 21436,
+        "uuploaders_total": 847
+    },
+    {
+        "number": "KOR_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 18437,
+        "uuploaders_total": 394
+    },
+    {
+        "number": "MEX_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 1257,
+        "uuploaders_total": 75
+    },
+    {
+        "number": "NLD_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 8641,
+        "uuploaders_total": 585
+    },
+    {
+        "number": "RUS_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 30857,
+        "uuploaders_total": 675
+    },
+    {
+        "number": "SWE_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 3982,
+        "uuploaders_total": 197
+    },
+    {
+        "number": "TUR_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 1276,
+        "uuploaders_total": 94
+    },
+    {
+        "number": "UKR_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 2539,
+        "uuploaders_total": 101
+    },
+    {
+        "number": "USA_week_8",
+        "btiha_size": 10,
+        "udownloaders_total": 157018,
+        "uuploaders_total": 10397
+    }
+],
+        [
+    {
+        "number": "BRA_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 10005,
+        "uuploaders_total": 221
+    },
+    {
+        "number": "CAN_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 12759,
+        "uuploaders_total": 666
+    },
+    {
+        "number": "CHN_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 38074,
+        "uuploaders_total": 1939
+    },
+    {
+        "number": "DEU_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 14515,
+        "uuploaders_total": 583
+    },
+    {
+        "number": "ESP_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 5031,
+        "uuploaders_total": 237
+    },
+    {
+        "number": "FRA_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 13530,
+        "uuploaders_total": 895
+    },
+    {
+        "number": "HKG_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 7704,
+        "uuploaders_total": 3131
+    },
+    {
+        "number": "JPN_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 23449,
+        "uuploaders_total": 899
+    },
+    {
+        "number": "KOR_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 20723,
+        "uuploaders_total": 403
+    },
+    {
+        "number": "MEX_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 1467,
+        "uuploaders_total": 93
+    },
+    {
+        "number": "NLD_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 9475,
+        "uuploaders_total": 612
+    },
+    {
+        "number": "RUS_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 35465,
+        "uuploaders_total": 777
+    },
+    {
+        "number": "SWE_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 4435,
+        "uuploaders_total": 208
+    },
+    {
+        "number": "TUR_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 1409,
+        "uuploaders_total": 95
+    },
+    {
+        "number": "UKR_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 2909,
+        "uuploaders_total": 115
+    },
+    {
+        "number": "USA_week_9",
+        "btiha_size": 10,
+        "udownloaders_total": 171461,
+        "uuploaders_total": 10754
+    }
+]
+    ]
+}
