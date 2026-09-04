@@ -1,0 +1,278 @@
+{
+  "schema": "alpha60-year-media-object-metadata-readiness/1",
+  "year": "2020",
+  "inventory": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-0-media-objects.txt",
+  "metadata_directory": "/home/bkoz/src/alpha60-swarm-metadata/metadata",
+  "approved_empty_collection_ids": [
+    "black-is-king",
+    "da-5-bloods",
+    "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+    "folklore",
+    "hamilton",
+    "happiest-season",
+    "lovebirds",
+    "mulan",
+    "songbird",
+    "tenet",
+    "vanguard",
+    "wonder-woman-1984"
+  ],
+  "approved_not_applicable_identity_ids": [],
+  "status": "pass",
+  "counts": {
+    "inventory_entries": 49,
+    "unique_keys": 49,
+    "ready_records": 49,
+    "error_records": 0,
+    "errors": 0
+  },
+  "inventory_issues": [],
+  "duplicate_keys": [],
+  "records": [
+    {
+      "collection_key": "altered-carbon-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "altered-carbon-resleeved",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "avenue-5-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "away-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "biohackers-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "black-is-king",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "blackaf-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "bojack-horseman-06",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "boys-201",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "boys-208",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "control-z-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "da-5-bloods",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "dark-03",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "devs-108",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "doom-patrol-201",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "euphoria-special",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-501",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "folklore",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-407",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "hamilton",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "happiest-season",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "high-fidelity-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "jamtara-sabka-number-ayega",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "japan-sinks",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "lovebirds",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "lovecraft-country-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "lovecraft-country-110",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "mandalorian-201",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "mandalorian-208",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "mulan",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "narcos-mexico-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "queer-eye-2018-05",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "raised-by-wolves-110",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "solar-opposites-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "songbird",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "space-force-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-lower-decks-101",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-picard-110",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "tales-from-the-loop-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "tenet",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "tiger-king-and-i",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "umbrella-academy-02",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "upload-01",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "vanguard",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-301",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-308",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "what-we-do-in-the-shadows-210",
+      "status": "ready",
+      "issues": []
+    },
+    {
+      "collection_key": "wonder-woman-1984",
+      "status": "ready",
+      "issues": []
+    }
+  ]
+}

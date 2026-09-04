@@ -1,0 +1,261 @@
+{
+  "schema": "alpha60-results-baseline-v2-audit/1",
+  "year": "2020",
+  "status": "pass",
+  "counts": {
+    "passed": 49,
+    "absent": 0,
+    "old": 0,
+    "failed": 0,
+    "inventory": 49,
+    "unique": 49
+  },
+  "duplicate_keys": [],
+  "records": [
+    {
+      "collection_key": "altered-carbon-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "altered-carbon-resleeved",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "avenue-5-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "away-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "biohackers-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "black-is-king",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "blackaf-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "bojack-horseman-06",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "boys-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "boys-208",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "control-z-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "da-5-bloods",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "dark-03",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "devs-108",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "doom-patrol-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "euphoria-special",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "expanse-501",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "folklore",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "good-fight-407",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "hamilton",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "happiest-season",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "high-fidelity-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "jamtara-sabka-number-ayega",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "japan-sinks",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "lovebirds",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "lovecraft-country-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "lovecraft-country-110",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "mandalorian-201",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "mandalorian-208",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "mulan",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "narcos-mexico-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "queer-eye-2018-05",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "raised-by-wolves-110",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "solar-opposites-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "songbird",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "space-force-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-lower-decks-101",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "star-trek-picard-110",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "tales-from-the-loop-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "tenet",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "tiger-king-and-i",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "umbrella-academy-02",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "upload-01",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "vanguard",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-301",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "westworld-308",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "what-we-do-in-the-shadows-210",
+      "status": "passed",
+      "issues": []
+    },
+    {
+      "collection_key": "wonder-woman-1984",
+      "status": "passed",
+      "issues": []
+    }
+  ]
+}
