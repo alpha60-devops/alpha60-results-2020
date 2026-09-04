@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1190634",
+    "imdb_id": "tt1190634",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q48796994",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Boys_(TV_series)"
+  },
+  "coverage_sha256": "6014fdef1a4f6244b3ece44a4cc4a1eb2fc8e66247c7b7e02d70080e5efa3980",
+  "generated_at": "2026-09-04T07:00:50.943044+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/boys-208.cache/cache.20201231.tar.xz",
+      "sha256": "b27213124310055a4ed4b930d0e5455fa868f980f9fe71e855df4516ca6a6b6f",
+      "size": 1794846452
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/boys-208.md",
+      "sha256": "eb3aaac6fec4e4cabe196f6a5d643c871c4fa3135b6be85ef2e05d1958a34edd",
+      "size": 544
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/boys-208.json",
+      "sha256": "f52a115306d635a499a9707dfa8d6de12b2df60ed5dd3e6814e71d2f0e1a0826",
+      "size": 2540
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/boys-208.json",
+      "sha256": "55f451a18d268451143e2a523e8b5dd3f22860ac36f35480bebc83c9699153e9",
+      "size": 360
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "f36c01f56e765f625dd9a73b0a1dc6b98eabd9a73af72749e456fec22b9cdb8c",
+      "size": 59173
+    }
+  },
+  "media_object": "boys-208",
+  "published_files": {
+    "data/csv/bytes/boys-208-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "2da53c7d511cc3a3c6755ef80dab39cfd745d669e7776303926b48bbab6433fb",
+    "docs/itemized/boys-208-sample-cache-audit.md": "ee169f72ff581fe3e3961a02a821ea6cc69a0cca0eb6c10536cfbae764649fb2",
+    "docs/itemized/figures/boys-208-carto-4k.webp": "4cbfe933dfa3922fef36375c224b1c1ea69eaac50e8be034794d56fdfb9ef297",
+    "docs/itemized/figures/boys-208-carto.png": "c29864b2c8c4fc0a77102faa216cc62b51995b3e95dcfcb9859051c7af3cabe8",
+    "docs/itemized/figures/boys-208-cumulative-detail-btiha-itemized-by-bytes.svg": "be0bd59392cfaf9c5aa97c25ce58cf6bccf40a1235642918d1e6c39db8036fb4",
+    "docs/itemized/figures/boys-208-data-ge-1080p-4k.webp": "6f13ca6320edf8642c752496ec9b4ff953c529d8ca8ee8221e51feb63339b92c",
+    "docs/itemized/figures/boys-208-data-ge-1080p.webp": "8974919c0cb091f825bcd7bf9c4ada8012af26e62ac6e2e464c3ab8635662c1d",
+    "docs/itemized/figures/boys-208-data-lt-1080p-4k.webp": "5c84e76f08515cce4b861a4a132826d5d39d703372e02df2ab16848aa62fc026",
+    "docs/itemized/figures/boys-208-data-lt-1080p.webp": "6d23d60273591f6988605ecc6a830b88899ee635a780fd2c18b49bfff841cda8",
+    "docs/itemized/figures/boys-208-downloads-by-day-day.svg": "20914d511f7d2c103a753d41ff9081c142ada077922bf4ab5f473a5a1a9d202a",
+    "docs/itemized/figures/boys-208-downloads-by-week-boys-208-week.svg": "0d847b4d5bd6551193fef115f0e7b6f214016377e32fc59d7a2a8a554b5c54b4",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/boys-208/tmp/boys-208-cumulative-btiha.geojson",
+        "sha256": "ccabc3561d305f884b65e4b2573538641af552ce38101a609e46146f2b1f1576",
+        "size": 134540524
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/boys-208/tmp/boys-208-cumulative-btiha-media-objects.json",
+        "sha256": "a4977fbefcabc04d9e80f05b6815d6defec23f33a8645c3d68abff8ac500b49d",
+        "size": 551215
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "boys-208",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          81.0,
+          66.0,
+          58.0,
+          52.0,
+          50.0,
+          47.0,
+          45.0,
+          40.0,
+          39.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Columbus",
+          "New York City",
+          "Moscow",
+          "Seattle",
+          "Seoul",
+          "Tokyo",
+          "Ashburn",
+          "Shanghai",
+          "S\u00e3o Paulo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          87.0,
+          72.0,
+          66.0,
+          56.0,
+          54.0,
+          54.0,
+          50.0,
+          40.0,
+          40.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Columbus",
+          "Moscow",
+          "New York City",
+          "Seattle",
+          "Seoul",
+          "Tokyo",
+          "Ashburn",
+          "Independence",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 33,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 6,
+        "x_tick_marks": 6,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 12,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
