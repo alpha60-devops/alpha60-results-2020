@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt8741290",
+    "imdb_id": "tt8741290",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q55642202",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tales_from_the_Loop"
+  },
+  "coverage_sha256": "3d3c97c0aad22b3793193885561e9e0167b6fb7c9becc99f4ea76e36be0badbc",
+  "generated_at": "2026-09-04T08:26:41.881493+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/tales-from-the-loop-01.cache/cache.20200611.tar.xz",
+      "sha256": "30c6c45e42cae5285a52538cedffcdcc4ff1bd7b2482dda3edbda030d2e6efd7",
+      "size": 528039636
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/tales-from-the-loop-01.md",
+      "sha256": "162a3646fa92351469730ab648f91cf498729f1d88e858345e19e2da499da24f",
+      "size": 558
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/tales-from-the-loop-01.json",
+      "sha256": "a0fefb0b110f0923984341f2f6f2f2a0332c4cabea75ffa103713b79e648e236",
+      "size": 2467
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/tales-from-the-loop-01.json",
+      "sha256": "02bf7cd09c837774274c62d81eb2bff19616019875eb8fa7408240512cd1b4a1",
+      "size": 374
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "f36c01f56e765f625dd9a73b0a1dc6b98eabd9a73af72749e456fec22b9cdb8c",
+      "size": 59173
+    }
+  },
+  "media_object": "tales-from-the-loop-01",
+  "published_files": {
+    "data/csv/bytes/tales-from-the-loop-01-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "da2091cfc68b16018a47ba969359368d1e25b1e4d5e1419f5475e1b385420e66",
+    "docs/itemized/figures/tales-from-the-loop-01-carto-4k.webp": "d3a39474ac18bcf8f2b446b053c20f6e49504af48fa23df67e7f036c2cfc2023",
+    "docs/itemized/figures/tales-from-the-loop-01-carto.png": "c44147655cfa247b28d02c4573a74c157e149e894c64798db34fe66f389bddf4",
+    "docs/itemized/figures/tales-from-the-loop-01-cumulative-detail-btiha-itemized-by-bytes.svg": "8e34a71d6ebd2dc854fc55cc075a7e00e16e15b227f1f93a0bf4e558ef9d8613",
+    "docs/itemized/figures/tales-from-the-loop-01-data-ge-1080p-4k.webp": "c6313bb8c256d4b053f6a97105a91cd2c5cbd11c086d3415dd4210a64d304143",
+    "docs/itemized/figures/tales-from-the-loop-01-data-ge-1080p.webp": "50170586fdc73210c82862ba3218ce7f67b55091827defc41ae98926219f8c1f",
+    "docs/itemized/figures/tales-from-the-loop-01-data-lt-1080p-4k.webp": "514e48332ffba809988a2ed6cd1d112e55fe11d7f3c5db66159cffbb60d635c2",
+    "docs/itemized/figures/tales-from-the-loop-01-data-lt-1080p.webp": "e0958daa04537fc981285e1df0cb05b8d74eac1310fde0b7c1d74b4bc3dabb90",
+    "docs/itemized/figures/tales-from-the-loop-01-downloads-by-day-day.svg": "fbcc786ad064c40304c11c291f872f6d42c4b4b61b0f3bd941b7118969bb3486",
+    "docs/itemized/figures/tales-from-the-loop-01-downloads-by-week-tales-from-the-loop-01-week.svg": "540b3c3f9d03f8503be871d1f209eb12495fd3f23da926afe23f5a8f2c28aafc",
+    "docs/itemized/tales-from-the-loop-01-sample-cache-audit.md": "69487b48f7623eb231b40bd5429723c3be7c4cae51a28a31e70db7d89d1fb5e1",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/tales-from-the-loop-01/tmp/tales-from-the-loop-01-cumulative-btiha.geojson",
+        "sha256": "a7f1f993f3d4632c8602a987ee71865b16dc7808e9ecd1732b0c7e109a586af5",
+        "size": 77851870
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/tales-from-the-loop-01/tmp/tales-from-the-loop-01-cumulative-btiha-media-objects.json",
+        "sha256": "d56b22bf3cfbbe85c6995118af0933156d823ae4114f655b7d828ca0484dd0b3",
+        "size": 301638
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "tales-from-the-loop-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          67.0,
+          63.0,
+          56.0,
+          54.0,
+          44.0,
+          42.0,
+          41.0,
+          40.0,
+          38.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "Shanghai",
+          "London",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Beijing",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          57.0,
+          53.0,
+          44.0,
+          38.0,
+          34.0,
+          34.0,
+          30.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "New York City",
+          "Moscow",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Shanghai",
+          "Independence"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 23,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
