@@ -1,0 +1,96 @@
+{
+  "authorization": {
+    "archive_mutated": false,
+    "excluded_member_classes": [
+      "hour",
+      "week",
+      "cumulative"
+    ],
+    "raw_samples_opened": false,
+    "scope": "read only streaming of per-torrent day records"
+  },
+  "available_day_products": 28,
+  "cache_members": 1024,
+  "collection_key": "avenue-5-101",
+  "downstream_cache_synthesis": {
+    "cache_members": {
+      "cumulative": 37,
+      "week": 148
+    },
+    "derived_durations": [
+      "week",
+      "cumulative"
+    ],
+    "producer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-cache-samples.exe",
+      "sha256": "d6e0478daa70231a7f1ff2766e1445f3562f63e2a17e5f29c4bc34294f96a32d",
+      "size": 28637008
+    },
+    "sample_anchor": {
+      "directories": [
+        "2020-01-20-at-00-00",
+        "2020-02-16-at-00-00"
+      ],
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020/avenue-5-101/tmp/avenue-5-101-released-day-sample-anchor",
+      "raw_samples_opened": false,
+      "synthetic": true
+    },
+    "schema": "alpha60-released-day-downstream-cache/1",
+    "source_duration": "day",
+    "status": "pass"
+  },
+  "first_date": "2020-01-20",
+  "first_index": 1,
+  "indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+  ],
+  "last_date": "2020-02-16",
+  "last_index": 28,
+  "missing_indices": [],
+  "sample_span_days": 28,
+  "schema": "alpha60-day-cache-stream-contract/1",
+  "selection": {
+    "archive_mutated": false,
+    "excluded_cache_members": 0,
+    "policy": "released-sample-endpoints",
+    "required_first_date": "2020-01-20",
+    "required_last_date": "2020-02-16",
+    "required_span_days": 28,
+    "schema": "alpha60-released-day-cache-window/1",
+    "selected_cache_members": 1024,
+    "source_cache_members": 1024,
+    "source_first_date": "2020-01-20",
+    "source_first_index": 1,
+    "source_last_date": "2020-02-16",
+    "source_last_index": 28
+  },
+  "sparse": false,
+  "status": "pass"
+}

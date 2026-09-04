@@ -1,0 +1,1637 @@
+{
+    "collection_name": "Avenue 5",
+    "collection_id": "101",
+    "collection_key": "avenue-5-101",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [
+        {
+            "duplicate_id": 0,
+            "duplicate_btih": "d9ab8171813b29d1e26103cfb800f4f4ae16c05c",
+            "duplicate_0_0": "Avenue-5-S01-Kravec",
+            "duplicate_0_1": "Авеню 5 Avenue 5 Сезон 1 Серии 1 из 8 (Натали Бэйли, Армандо Ианнуччи, Бекки Мартин) [2020, США, фантастика, комедия, WEB- [rutracker-5838404]"
+        },
+        {
+            "duplicate_id": 1,
+            "duplicate_btih": "6bf52630f87ebc7d2e0dbcf86ae7dd41fbd123fc",
+            "duplicate_1_0": "Avenue-5-S01E01-720p-WEBRip-x264-TBS-EZTV",
+            "duplicate_1_1": "Avenue.5.S01E01.720p.WEBRip.x264-TBS[eztv].mkv"
+        },
+        {
+            "duplicate_id": 2,
+            "duplicate_btih": "a80b885dc644ad13ba0d4283e95cd08363346eb8",
+            "duplicate_2_0": "Avenue-5-S01E01-I-Was-Flying-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "duplicate_2_1": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]"
+        },
+        {
+            "duplicate_id": 3,
+            "duplicate_btih": "8a9da80bdd0e6182074949b7078694c46a3e9fd4",
+            "duplicate_3_0": "Avenue-5-S01E01-I-Was-Flying-720p-AMZN-WEB-DL-DDP5-1-H-264-NTb[eztv]",
+            "duplicate_3_1": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+        }
+    ],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[rutor.is]Avenue 5_(s01)_1080p",
+            "size_total": 2.136353454,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.136353454,
+                    "path": "Avenue.5.S01.1080p.AMZN.WEB-DL.DDP5.1.H.264-EniaHD/Avenue.5.S01E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-EniaHD.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Avenue.5.S01.720p.Kerob",
+            "size_total": 0.934751387,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.934751387,
+                    "path": "Avenue.5.S01.720p.Kerob/Avenue.5.S01E01.720p.Kerob.mp4"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Avenue.5.S01.WEB-DLRip.1080p.IdeaFilm",
+            "size_total": 1.699262445,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.699262445,
+                    "path": "Avenue.5.S01.WEB-DLRip.1080p/Avenue.5.S01E01.WEB-DLRip.1080p.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Avenue.5.S01.WEB-DLRip.720p.IdeaFilm",
+            "size_total": 1.065441894,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.065441894,
+                    "path": "Avenue.5.S01.WEB-DLRip.720p/Avenue.5.S01E01.WEB-DLRip.720p.IdeaFilm.mkv"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Avenue.5.S01.WEB-DLRip.IdeaFilm",
+            "size_total": 0.465162084,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.465162084,
+                    "path": "Avenue.5.S01.WEB-DLRip/Avenue.5.S01E01.WEB-DLRip.IdeaFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]Avenue_5",
+            "size_total": 0.472582783,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000055878,
+                    "path": "Avenue 5/subtitles/Avenue.5.s01e01.Rus.srt"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000055353,
+                    "path": "Avenue 5/subtitles/Avenue.5.s01e01.Eng.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.472471552,
+                    "path": "Avenue 5/Avenue.5.s01e01.avi"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Avenue-5-S01-Kravec",
+            "size_total": 0.427143715,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.42702848,
+                    "path": "Avenue 5 S01 Kravec/Avenue.5.S01E01.WEB-DLRip.Rus.Eng.Kravec.RGzsRutracker.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001929,
+                    "path": "Avenue 5 S01 Kravec/Avenue.5.S01E01.WEB-DLRip.Rus.Eng.Kravec.RGzsRutracker.rus.forc.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000055353,
+                    "path": "Avenue 5 S01 Kravec/Eng/Avenue.5.S01E01.WEB-DLRip.Rus.Eng.Kravec.RGzsRutracker.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000057953,
+                    "path": "Avenue 5 S01 Kravec/Rus/Avenue.5.S01E01.WEB-DLRip.Rus.Eng.Kravec.RGzsRutracker.rus.srt"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Avenue-5-S01E01-720p-WEBRip-x264-TBS-EZTV",
+            "size_total": 0.601544433,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.601544433,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Avenue-5-S01E01-I-Was-Flying-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "size_total": 2.054221874,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.054221745,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Avenue-5-S01E01-I-Was-Flying-720p-AMZN-WEB-DL-DDP5-1-H-264-NTb[eztv]",
+            "size_total": 1.013551169,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.013551169,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Avenue.5.S01E01.480p.x264-mSD [IPT]",
+            "size_total": 0.159694355,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.158837583,
+                    "path": "Avenue.5.S01E01.480p.x264-mSD/Avenue.5.S01E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.52e-7,
+                    "path": "Avenue.5.S01E01.480p.x264-mSD/Avenue.5.S01E01.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000240439,
+                    "path": "Avenue.5.S01E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000353402,
+                    "path": "Avenue.5.S01E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000261979,
+                    "path": "Avenue.5.S01E01.480p.x264-mSD/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Avenue.5.S01E01.480p.x264-mSD[eztv].mkv",
+            "size_total": 0.158837583,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.158837583,
+                    "path": "Avenue.5.S01E01.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Avenue.5.S01E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.224942392,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.214723107,
+                    "path": "Avenue.5.S01E01.720p.HEVC.x265-MeGusta/Avenue.5.S01E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001121,
+                    "path": "Avenue.5.S01E01.720p.HEVC.x265-MeGusta/Avenue.5.S01E01.720p.HEVC.x265-MeGusta.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.002910319,
+                    "path": "Avenue.5.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.003987214,
+                    "path": "Avenue.5.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.003320631,
+                    "path": "Avenue.5.S01E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Avenue.5.S01E01.720p.WEBRip.x264-TBS [IPT]",
+            "size_total": 0.601546662,
+            "files_total": 15,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.1e-7,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.001545889,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 15,
+                    "size": 6.63e-7,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS/avenue.5.s01e01.720p.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Avenue.5.S01E01.720p.WEBRip.x264-TBS[eztv].mkv",
+            "size_total": 0.601544433,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.601544433,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Avenue.5.S01E01.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.601544672,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.601544433,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS[rarbg]/avenue.5.s01e01.720p.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.1e-7,
+                    "path": "Avenue.5.S01E01.720p.WEBRip.x264-TBS[rarbg]/avenue.5.s01e01.720p.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Avenue.5.S01E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.129991627,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.129108941,
+                    "path": "Avenue.5.S01E01.AAC.MP4-Mobile/Avenue.5.S01E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001217,
+                    "path": "Avenue.5.S01E01.AAC.MP4-Mobile/Avenue.5.S01E01.AAC.MP4-Mobile.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00024795,
+                    "path": "Avenue.5.S01E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000359461,
+                    "path": "Avenue.5.S01E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000274058,
+                    "path": "Avenue.5.S01E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 2.063827616,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.054221745,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001659,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001196936,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.002540877,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.002539232,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.003327167,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 2.054221874,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.054221745,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "size_total": 1.018301616,
+            "files_total": 6,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.013551169,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001653,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000659909,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.001252808,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.001257465,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0003.png"
+                },
+                {
+                    "number": 6,
+                    "size": 0.001578612,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb/Screens/screen0004.png"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv",
+            "size_total": 1.013551169,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.013551169,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "size_total": 1.013551298,
+            "files_total": 3,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.013551169,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP [IPT]",
+            "size_total": 2.050098976,
+            "files_total": 16,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.68e-7,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.15,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.15,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.15,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.15,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.15,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.15,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.15,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.15,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.15,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.15,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.15,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.15,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.100097768,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.15,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.rar"
+                },
+                {
+                    "number": 16,
+                    "size": 8.4e-7,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP/avenue.5.s01e01.internal.1080p.web.h264-amrap.sfv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP[rartv]-[rarbg.to]",
+            "size_total": 2.050096501,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 2.050096004,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP[rarbg]/Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 3.68e-7,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP[rarbg]/avenue.5.s01e01.internal.1080p.web.h264-amrap.nfo"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE [IPT]",
+            "size_total": 1.117333814,
+            "files_total": 14,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.1e-8,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.017332985,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.rar"
+                },
+                {
+                    "number": 14,
+                    "size": 7.68e-7,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.sfv"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rartv]-[rarbg.to]",
+            "size_total": 1.117331675,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.117331485,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rarbg]/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.1e-8,
+                    "path": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rarbg]/avenue.5.s01e01.internal.1080p.web.h264-bamboozle.nfo"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Avenue.5.S01E01.iNTERNAL.480p.x264-mSD [IPT]",
+            "size_total": 0.23369289,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.232891166,
+                    "path": "Avenue.5.S01E01.iNTERNAL.480p.x264-mSD/Avenue.5.S01E01.iNTERNAL.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 9.69e-7,
+                    "path": "Avenue.5.S01E01.iNTERNAL.480p.x264-mSD/Avenue.5.S01E01.iNTERNAL.480p.x264-mSD.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00029192,
+                    "path": "Avenue.5.S01E01.iNTERNAL.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000278475,
+                    "path": "Avenue.5.S01E01.iNTERNAL.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.00023036,
+                    "path": "Avenue.5.S01E01.iNTERNAL.480p.x264-mSD/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Avenue.5.S01E01.iNTERNAL.480p.x264-mSD[eztv].mkv",
+            "size_total": 0.232891166,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.232891166,
+                    "path": "Avenue.5.S01E01.iNTERNAL.480p.x264-mSD[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP [IPT]",
+            "size_total": 1.010517883,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.55e-7,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP/avenue.5.s01e01.internal.720p.web.h264-amrap.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP/avenue.5.s01e01.internal.720p.web.h264-amrap.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP/avenue.5.s01e01.internal.720p.web.h264-amrap.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP/avenue.5.s01e01.internal.720p.web.h264-amrap.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP/avenue.5.s01e01.internal.720p.web.h264-amrap.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP/avenue.5.s01e01.internal.720p.web.h264-amrap.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP/avenue.5.s01e01.internal.720p.web.h264-amrap.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP/avenue.5.s01e01.internal.720p.web.h264-amrap.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP/avenue.5.s01e01.internal.720p.web.h264-amrap.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP/avenue.5.s01e01.internal.720p.web.h264-amrap.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.010516879,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP/avenue.5.s01e01.internal.720p.web.h264-amrap.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.1,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP/avenue.5.s01e01.internal.720p.web.h264-amrap.rar"
+                },
+                {
+                    "number": 13,
+                    "size": 6.49e-7,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP/avenue.5.s01e01.internal.720p.web.h264-amrap.sfv"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP[rartv]-[rarbg.to]",
+            "size_total": 1.010515988,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.010515504,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP[rarbg]/Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 3.55e-7,
+                    "path": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP[rarbg]/avenue.5.s01e01.internal.720p.web.h264-amrap.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Avenue.5.S01E01.iNTERNAL.XviD-AFG [IPT]",
+            "size_total": 0.346867001,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.345914454,
+                    "path": "Avenue.5.S01E01.iNTERNAL.XviD-AFG/Avenue.5.S01E01.iNTERNAL.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001115,
+                    "path": "Avenue.5.S01E01.iNTERNAL.XviD-AFG/Avenue.5.S01E01.iNTERNAL.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000339708,
+                    "path": "Avenue.5.S01E01.iNTERNAL.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.00033392,
+                    "path": "Avenue.5.S01E01.iNTERNAL.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000277804,
+                    "path": "Avenue.5.S01E01.iNTERNAL.XviD-AFG/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Avenue.5.S01E01.WEBRip.x264-ION10-[rarbg.to]",
+            "size_total": 0.287259362,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.287206912,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-ION10/Avenue.5.S01E01.WEBRip.x264-ION10.mp4"
+                },
+                {
+                    "number": 2,
+                    "size": 3e-8,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-ION10/RARBG.txt"
+                },
+                {
+                    "number": 3,
+                    "size": 9.9e-8,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-ION10/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000052321,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-ION10/Subs/2_English.srt"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Avenue.5.S01E01.WEBRip.x264-TBS [IPT]",
+            "size_total": 0.198237889,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.05e-7,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS/avenue.5.s01e01.webrip.x264-tbs.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS/avenue.5.s01e01.webrip.x264-tbs.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS/avenue.5.s01e01.webrip.x264-tbs.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS/avenue.5.s01e01.webrip.x264-tbs.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS/avenue.5.s01e01.webrip.x264-tbs.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS/avenue.5.s01e01.webrip.x264-tbs.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS/avenue.5.s01e01.webrip.x264-tbs.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS/avenue.5.s01e01.webrip.x264-tbs.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS/avenue.5.s01e01.webrip.x264-tbs.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.018237324,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS/avenue.5.s01e01.webrip.x264-tbs.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS/avenue.5.s01e01.webrip.x264-tbs.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 4.6e-7,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS/avenue.5.s01e01.webrip.x264-tbs.sfv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Avenue.5.S01E01.WEBRip.x264-TBS[eztv].mkv",
+            "size_total": 0.198236234,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.198236234,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS[eztv].mkv"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Avenue.5.S01E01.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "size_total": 0.198236468,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.198236234,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS[rarbg]/avenue.5.s01e01.webrip.x264-tbs.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 1.05e-7,
+                    "path": "Avenue.5.S01E01.WEBRip.x264-TBS[rarbg]/avenue.5.s01e01.webrip.x264-tbs.nfo"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Avenue.5.S01E01.XviD-AFG [IPT]",
+            "size_total": 0.365962707,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.364960426,
+                    "path": "Avenue.5.S01E01.XviD-AFG/Avenue.5.S01E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001096,
+                    "path": "Avenue.5.S01E01.XviD-AFG/Avenue.5.S01E01.XviD-AFG.nfo"
+                },
+                {
+                    "number": 3,
+                    "size": 0.00027398,
+                    "path": "Avenue.5.S01E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000421259,
+                    "path": "Avenue.5.S01E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000305946,
+                    "path": "Avenue.5.S01E01.XviD-AFG/Screens/screen0003.png"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Авеню 5 Avenue 5 Сезон 1 Серии 1 из 8 (Натали Бэйли, Армандо Ианнуччи, Бекки Мартин) [2020, США, фантастика, комедия, WEB- [rutracker-5838404]",
+            "size_total": 0.427143715,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.42702848,
+                    "path": "Avenue 5 S01 Kravec/Avenue.5.S01E01.WEB-DLRip.Rus.Eng.Kravec.RGzsRutracker.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000001929,
+                    "path": "Avenue 5 S01 Kravec/Avenue.5.S01E01.WEB-DLRip.Rus.Eng.Kravec.RGzsRutracker.rus.forc.srt"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000055353,
+                    "path": "Avenue 5 S01 Kravec/Eng/Avenue.5.S01E01.WEB-DLRip.Rus.Eng.Kravec.RGzsRutracker.srt"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000057953,
+                    "path": "Avenue 5 S01 Kravec/Rus/Avenue.5.S01E01.WEB-DLRip.Rus.Eng.Kravec.RGzsRutracker.rus.srt"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 41,
+            "name": "multi-btih-3-2-x-Avenue-5-S01E01-I-Was-Flying-720p-AMZN-WEB-DL-DDP5-1-H-264-NTb[eztv]",
+            "btih": "8a9da80bdd0e6182074949b7078694c46a3e9fd4",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.013551169,
+            "creation": "2020-01-20T20:05:19.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 67446,
+            "uuploaders": 6623
+        },
+        {
+            "id": 29,
+            "name": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP [IPT]",
+            "btih": "8f541699a4124e7f406e5deac4a089e10cef8fc8",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.010517883,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 57980,
+            "uuploaders": 2537
+        },
+        {
+            "id": 38,
+            "name": "multi-btih-0-2-x-Avenue-5-S01-Kravec",
+            "btih": "d9ab8171813b29d1e26103cfb800f4f4ae16c05c",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.427143715,
+            "creation": "2020-01-21T06:21:01.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 53473,
+            "uuploaders": 3919
+        },
+        {
+            "id": 40,
+            "name": "multi-btih-2-2-x-Avenue-5-S01E01-I-Was-Flying-1080p-AMZN-WEBRip-DDP5-1-x264-NTb[rarbg]",
+            "btih": "a80b885dc644ad13ba0d4283e95cd08363346eb8",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.054221874,
+            "creation": "2020-01-20T19:22:05.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 49424,
+            "uuploaders": 15614
+        },
+        {
+            "id": 32,
+            "name": "Avenue.5.S01E01.WEBRip.x264-ION10-[rarbg.to]",
+            "btih": "b4b572281d3d5046c626161bd77a8e99f14bc58d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.287259362,
+            "creation": "2020-01-20T11:42:39.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48794,
+            "uuploaders": 925
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]Avenue_5",
+            "btih": "6679a327db49ebc97d856496ca384ff6d4e722f9",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.472582783,
+            "creation": "2020-01-20T06:58:36.000000000Z,uTorrent/2210,http://rutor.is/torrent/740199",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 48227,
+            "uuploaders": 5132
+        },
+        {
+            "id": 17,
+            "name": "Avenue.5.S01E01.AAC.MP4-Mobile [IPT]",
+            "btih": "78f742a32e3a7fe7663f89b288b01daeb06590c4",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.129991627,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 46214,
+            "uuploaders": 8732
+        },
+        {
+            "id": 39,
+            "name": "multi-btih-1-2-x-Avenue-5-S01E01-720p-WEBRip-x264-TBS-EZTV",
+            "btih": "6bf52630f87ebc7d2e0dbcf86ae7dd41fbd123fc",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.601544433,
+            "creation": "2020-01-20T04:15:20.000000000Z,go.torrent,dynamic metainfo from client",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41810,
+            "uuploaders": 5762
+        },
+        {
+            "id": 36,
+            "name": "Avenue.5.S01E01.XviD-AFG [IPT]",
+            "btih": "41ddf05ab74b89172a9e9a839c5b4ae5ef5e8d71",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.365962707,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 41434,
+            "uuploaders": 3518
+        },
+        {
+            "id": 1,
+            "name": "[rutor.is]Avenue 5_(s01)_1080p",
+            "btih": "adcf39e01619ec9dbcbd80fc29a29a973f62e1c4",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.136353454,
+            "creation": "2020-01-20T14:00:29.000000000Z,ruTorrent (PHP Class - Adrien Gibrat),http://rutor.is/torrent/740197",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 41267,
+            "uuploaders": 1852
+        },
+        {
+            "id": 25,
+            "name": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE [IPT]",
+            "btih": "d75576ddbd0dbe2d6ac57ed6edaacb90638dde24",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.117333814,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 37296,
+            "uuploaders": 9263
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]Avenue.5.S01.WEB-DLRip.720p.IdeaFilm",
+            "btih": "9f13e445100b18acb94696fe8add14a947fc3ead",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.065441894,
+            "creation": "2020-01-20T17:55:59.000000000Z,qBittorrent v4.2.1,http://rutor.is/torrent/740302",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 35499,
+            "uuploaders": 3117
+        },
+        {
+            "id": 13,
+            "name": "Avenue.5.S01E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "cbc3b45746bab1cdb599204c0a5850a1886fdd28",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.224942392,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 33932,
+            "uuploaders": 7963
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]Avenue.5.S01.WEB-DLRip.1080p.IdeaFilm",
+            "btih": "5901879f0a13be7d50a68ca6ea57372c145763ba",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 1.699262445,
+            "creation": "2020-01-20T17:55:47.000000000Z,qBittorrent v4.2.1,http://rutor.is/torrent/740301",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 33021,
+            "uuploaders": 9473
+        },
+        {
+            "id": 31,
+            "name": "Avenue.5.S01E01.iNTERNAL.XviD-AFG [IPT]",
+            "btih": "d78009048759a3ae0f0c163c5a8d873dcb711d05",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.346867001,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 33017,
+            "uuploaders": 3920
+        },
+        {
+            "id": 20,
+            "name": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "2cc1a31427d611a83c32c0d40a07605e574999ca",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.018301616,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 26456,
+            "uuploaders": 6526
+        },
+        {
+            "id": 23,
+            "name": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP [IPT]",
+            "btih": "2061d3e4db0199a8b49683c908964cd566d3c514",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.050098976,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 26307,
+            "uuploaders": 3112
+        },
+        {
+            "id": 16,
+            "name": "Avenue.5.S01E01.720p.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "f97d66c857fa26ff5e23ed41ec507fc14f83bf91",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.601544672,
+            "creation": "2020-01-20T03:15:15.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 25348,
+            "uuploaders": 3339
+        },
+        {
+            "id": 33,
+            "name": "Avenue.5.S01E01.WEBRip.x264-TBS [IPT]",
+            "btih": "01e612b691c057c7613d36a39ae9c0a3f79a2fbc",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.198237889,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 22329,
+            "uuploaders": 911
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]Avenue.5.S01.720p.Kerob",
+            "btih": "75197c2829f4ea98b47246c3a6406a31ee03f97f",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 0.934751387,
+            "creation": "2020-01-20T05:27:55.000000000Z,qBittorrent v4.2.1,http://rutor.is/torrent/740194",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 21393,
+            "uuploaders": 5503
+        },
+        {
+            "id": 27,
+            "name": "Avenue.5.S01E01.iNTERNAL.480p.x264-mSD [IPT]",
+            "btih": "cae69aacd79088ba8b86b86e1d186b8067ab229b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.23369289,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 17751,
+            "uuploaders": 2795
+        },
+        {
+            "id": 35,
+            "name": "Avenue.5.S01E01.WEBRip.x264-TBS[rartv]-[rarbg.to]",
+            "btih": "c1cad330ecff64df19c3ce0cf2e16dce912adac5",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.198236468,
+            "creation": "2020-01-20T03:17:28.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 14314,
+            "uuploaders": 1180
+        },
+        {
+            "id": 34,
+            "name": "Avenue.5.S01E01.WEBRip.x264-TBS[eztv].mkv",
+            "btih": "3bbfa64ef63f1d2c37d6a3b7ae2fcd54695200ac",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.198236234,
+            "creation": "2020-01-20T03:24:13.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9396,
+            "uuploaders": 815
+        },
+        {
+            "id": 24,
+            "name": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.H264-AMRAP[rartv]-[rarbg.to]",
+            "btih": "ef3e3786f15251d30828e703915eb4e83fdea294",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.050096501,
+            "creation": "2020-01-20T09:08:47.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2379,
+            "uuploaders": 1326
+        },
+        {
+            "id": 12,
+            "name": "Avenue.5.S01E01.480p.x264-mSD[eztv].mkv",
+            "btih": "9dcb57f8e0f4847980b75940a4116d1a38980ef9",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.158837583,
+            "creation": "2020-01-20T03:22:59.000000000Z,EZTV,Visit us: https://eztv.io/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2216,
+            "uuploaders": 1098
+        },
+        {
+            "id": 30,
+            "name": "Avenue.5.S01E01.iNTERNAL.720p.WEB.H264-AMRAP[rartv]-[rarbg.to]",
+            "btih": "e134fc33a00fe90e3211e2884a8232815b218534",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.010515988,
+            "creation": "2020-01-20T09:09:16.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 943,
+            "uuploaders": 468
+        },
+        {
+            "id": 22,
+            "name": "Avenue.5.S01E01.I.Was.Flying.720p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]-[rarbg.to]",
+            "btih": "de091f5968a5ad0570b42796bba76145b9c6f99a",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 1.013551298,
+            "creation": "2020-01-20T19:21:27.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 789,
+            "uuploaders": 412
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]Avenue.5.S01.WEB-DLRip.IdeaFilm",
+            "btih": "1d6d457d6e81160daf1e142b3f1c3bd71023c06a",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.465162084,
+            "creation": "2020-01-20T17:56:08.000000000Z,qBittorrent v4.2.1,http://rutor.is/torrent/740303",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 654,
+            "uuploaders": 417
+        },
+        {
+            "id": 11,
+            "name": "Avenue.5.S01E01.480p.x264-mSD [IPT]",
+            "btih": "3950ba56c3fe54a60b54cdbd6aec81800bf5109f",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.159694355,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 544,
+            "uuploaders": 376
+        },
+        {
+            "id": 14,
+            "name": "Avenue.5.S01E01.720p.WEBRip.x264-TBS [IPT]",
+            "btih": "26e10d51b47f35e2485e9c542ec97d9e53921fbb",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.601546662,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 469,
+            "uuploaders": 345
+        },
+        {
+            "id": 26,
+            "name": "Avenue.5.S01E01.iNTERNAL.1080p.WEB.h264-BAMBOOZLE[rartv]-[rarbg.to]",
+            "btih": "4bc9975d5765288a944759f07c29839b4fbe14f7",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.117331675,
+            "creation": "2020-01-20T03:17:06.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 372,
+            "uuploaders": 270
+        },
+        {
+            "id": 28,
+            "name": "Avenue.5.S01E01.iNTERNAL.480p.x264-mSD[eztv].mkv",
+            "btih": "2cd69a41aa6d17fd4a8c15c3f85a757f48151364",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.232891166,
+            "creation": "2020-01-20T09:25:17.000000000Z,EZTV,Visit us: https://eztv.io/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 338,
+            "uuploaders": 285
+        },
+        {
+            "id": 18,
+            "name": "Avenue.5.S01E01.I.Was.Flying.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb [IPT]",
+            "btih": "64b4e072f30d552d83e4baec96d9b1cb6f3b5142",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 2.063827616,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 328,
+            "uuploaders": 179
+        }
+    ]
+}
