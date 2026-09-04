@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9310328",
+    "imdb_id": "tt9310328",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q90302055",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Altered_Carbon:_Resleeved"
+  },
+  "coverage_sha256": "e11a81ec4a727fc9ab20e8792db72539006a299c154d7b2d35cae94b122f55db",
+  "generated_at": "2026-09-04T06:33:22.545560+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/altered-carbon-resleeved.cache/cache.20200527.tar.xz",
+      "sha256": "c1a0640bcc5b57a05c3e9cde7f05a6a7ad739f7d99b54d3ffaf74915bded1261",
+      "size": 195071772
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/altered-carbon-resleeved.md",
+      "sha256": "04860ba4e2da77103a3ec631e0ff008aec45f83d6751827dda25fd70de5501cd",
+      "size": 560
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/altered-carbon-resleeved.json",
+      "sha256": "071162a0c29cbf11b1ad850b477724c12bdfa3f0421b9aa7a711ad68afea1e82",
+      "size": 2471
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/altered-carbon-resleeved.json",
+      "sha256": "1bb4ef132cd5a63bbcb9feabf54f1989020cb7f7fe3bf8d12117b06be73df952",
+      "size": 376
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "f36c01f56e765f625dd9a73b0a1dc6b98eabd9a73af72749e456fec22b9cdb8c",
+      "size": 59173
+    }
+  },
+  "media_object": "altered-carbon-resleeved",
+  "published_files": {
+    "data/csv/bytes/altered-carbon-resleeved-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "ee096b263c568474006225dd149ea424a5aa8c155579c34977b273f5bd6e96c6",
+    "docs/itemized/altered-carbon-resleeved-sample-cache-audit.md": "7e683d3a7e8f35df7c226b3e19401893935b7891a099bbe79f987bc35e45496e",
+    "docs/itemized/figures/altered-carbon-resleeved-carto-4k.webp": "ad05129d857279a773e976a2d29d2a5754525de0064694209e5ad7ac2dd9aa2e",
+    "docs/itemized/figures/altered-carbon-resleeved-carto.png": "03d8ca22d97d5a0724135093d8e0728d79194d297221003b52f05d6b248ed1b3",
+    "docs/itemized/figures/altered-carbon-resleeved-cumulative-detail-btiha-itemized-by-bytes.svg": "45adaef12530cc72d137a1b4bb3ee18e02a357da32d50d834b14c8cc17837ec4",
+    "docs/itemized/figures/altered-carbon-resleeved-data-ge-1080p-4k.webp": "d28bbc56f181904ea9ffc1ad846e762b92763c23738a20c4d6ec5f326691e4fb",
+    "docs/itemized/figures/altered-carbon-resleeved-data-ge-1080p.webp": "9f78c91c362dba4b63a8f4a4434c742b246780212bb95feaefc3b299edf69ead",
+    "docs/itemized/figures/altered-carbon-resleeved-data-lt-1080p-4k.webp": "ea123577b3d36df783af31e64a45272fdd55e0684f88b1fd5c11bf4766ab521a",
+    "docs/itemized/figures/altered-carbon-resleeved-data-lt-1080p.webp": "e67d5dc0e57a1ee124f06314a66ddfeb8707f94d521697a44763d187189185cf",
+    "docs/itemized/figures/altered-carbon-resleeved-downloads-by-day-day.svg": "080a59a59bfc113c43d62b0f001fdd5a8a408f9d21deb53fd297cb218005e1b3",
+    "docs/itemized/figures/altered-carbon-resleeved-downloads-by-week-altered-carbon-resleeved-week.svg": "4ad5fd6d5055b146451f0990219a1be363c3982d99b6b77a505506a22f473907",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/altered-carbon-resleeved/tmp/altered-carbon-resleeved-cumulative-btiha.geojson",
+        "sha256": "c7ba60f0dc466f46f883ae91df153e9255d48e4e8ffca3bbb61d20738924ab40",
+        "size": 25711126
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/altered-carbon-resleeved/tmp/altered-carbon-resleeved-cumulative-btiha-media-objects.json",
+        "sha256": "2ee9e6bf3eb8a5ca0a07946de710642c8cc9c9dbccd6431e6f7ea72f15a84f58",
+        "size": 179906
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "altered-carbon-resleeved",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          47.0,
+          32.0,
+          30.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Saint Petersburg",
+          "Seoul",
+          "London",
+          "Paris",
+          "Shanghai",
+          "S\u00e3o Paulo",
+          "Mumbai",
+          "New York City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          43.0,
+          33.0,
+          32.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Moscow",
+          "Ashburn",
+          "Saint Petersburg",
+          "London",
+          "Seoul",
+          "Paris",
+          "Mumbai",
+          "New York City",
+          "Montr\u00e9al",
+          "S\u00e3o Paulo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 25,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
