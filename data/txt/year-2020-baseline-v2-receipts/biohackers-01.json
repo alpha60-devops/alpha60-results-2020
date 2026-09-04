@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt9849210",
+    "imdb_id": "tt9849210",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q97575915",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Biohackers"
+  },
+  "coverage_sha256": "04cbdf4ca90504c7dbe0043abf87d4e7e3941ccbcb6b09c9bbcfa18c34bdb693",
+  "generated_at": "2026-09-04T06:49:03.191368+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/biohackers-01.cache/cache.20201029.tar.xz",
+      "sha256": "b55909a4df22494e95f4a20854fb344f99ab4b07ed09a0d0c2b7f82633588924",
+      "size": 151295732
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/biohackers-01.md",
+      "sha256": "3b1daf92fdeec0792384412635c5596231b073e4f9da09b192e53656e21c6ed7",
+      "size": 549
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/biohackers-01.json",
+      "sha256": "774cecf869523ec2d21042ef0100bf2986119b16522f643cf0622e8c95a10604",
+      "size": 2446
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/biohackers-01.json",
+      "sha256": "9aa571eb185e65be7193d40eff89f20834ba41fa2f29eba4f46bb55a9b7d716f",
+      "size": 365
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "5d0b61cc4231b0cdd58668c76104a99388723e08e63c257d958a72bf01786df5",
+      "size": 56781
+    }
+  },
+  "media_object": "biohackers-01",
+  "published_files": {
+    "data/csv/bytes/biohackers-01-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "51ee9c631bf46e5d24f6aef3f560f81762ee7b5e9f70e4e506160369f7817746",
+    "docs/itemized/biohackers-01-sample-cache-audit.md": "c5ea6961ff1ae34d837fc63abc50af26edc47cc3b3bcc1f0f43e4d4683e2a4e1",
+    "docs/itemized/figures/biohackers-01-carto-4k.webp": "6ace88624e688c7f114166faa9866225593a1d3c6dff1f7354204cfd7ee9a0a7",
+    "docs/itemized/figures/biohackers-01-carto.png": "fb6d23483f210c347df00a3605d4dfc58015cd54531fb97a5d39602c24f63766",
+    "docs/itemized/figures/biohackers-01-cumulative-detail-btiha-itemized-by-bytes.svg": "797229a8ef5c9a0403954d0b26f95c3768d314626f2b65d61317f75cd2a01d99",
+    "docs/itemized/figures/biohackers-01-data-ge-1080p-4k.webp": "65fbd0192432be2f8b03982212499b913a7f6e30a88f9da1e647bb3fde1f3420",
+    "docs/itemized/figures/biohackers-01-data-ge-1080p.webp": "04fbc039930b49623e0abc924c19bcda4b0dafe4eecd5925bc8068c7cbfacec2",
+    "docs/itemized/figures/biohackers-01-data-lt-1080p-4k.webp": "d5f92efee91a79a9dfd62172dabc7c12d612441a4d409a78f73a6b27435d8271",
+    "docs/itemized/figures/biohackers-01-data-lt-1080p.webp": "be5e9e3ad0711cfdbefa336d8927692c4717d943c57790385ebd767e7bb6e919",
+    "docs/itemized/figures/biohackers-01-downloads-by-day-day.svg": "dfade1f94e25b075f20475936f841a6b42ee9ff2f23af7df0cf541caa10444dc",
+    "docs/itemized/figures/biohackers-01-downloads-by-week-biohackers-01-week.svg": "7e190806a9507a8320366d244465a1335a2fbebed56f73b825e7fe34a2b139cb",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/biohackers-01/tmp/biohackers-01-cumulative-btiha.geojson",
+        "sha256": "96000636fd1641cfd52a94a6f8a98619f904b17f34f14235e886b8a0a9f84944",
+        "size": 24308069
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/biohackers-01/tmp/biohackers-01-cumulative-btiha-media-objects.json",
+        "sha256": "8263af1377ea2943fd885837ba3c6c2907d4a721ff9d743286605cffb4f00b42",
+        "size": 258194
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "biohackers-01",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          75.0,
+          52.0,
+          50.0,
+          42.0,
+          41.0,
+          35.0,
+          34.0,
+          33.0,
+          31.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Moscow",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          73.0,
+          51.0,
+          50.0,
+          44.0,
+          40.0,
+          35.0,
+          33.0,
+          30.0,
+          30.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "New York City",
+          "London",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 17,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 11,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
