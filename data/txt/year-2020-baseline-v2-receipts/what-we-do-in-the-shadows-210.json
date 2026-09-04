@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7908628",
+    "imdb_id": "tt7908628",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q55637582",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows_(TV_series)"
+  },
+  "coverage_sha256": "f530a01cee14d50b7049643096b162276da1a3d201ef0eb2185e75b1f8b54ca6",
+  "generated_at": "2026-09-04T09:10:12.884124+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/what-we-do-in-the-shadows-210.cache/cache.20200820.tar.xz",
+      "sha256": "abd9f89fd15062246da20f8a296090bd138c54504ea2bde5cfcc8aa2918aa6d8",
+      "size": 352800732
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/what-we-do-in-the-shadows-210.md",
+      "sha256": "d8d294ed67565a2821239e49eb6b3096d8b06a98960bb94f1c632740f44fb9a7",
+      "size": 565
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/what-we-do-in-the-shadows-210.json",
+      "sha256": "04b34c8ee536d1fffb7ddee989595524c23ba7c854da07fa0dfdc749d22a6d63",
+      "size": 2496
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/what-we-do-in-the-shadows-210.json",
+      "sha256": "27f4c5333b797f468d42fd1cf60dc871cfc4a2146de85bee478d693325f2097f",
+      "size": 381
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "5d0b61cc4231b0cdd58668c76104a99388723e08e63c257d958a72bf01786df5",
+      "size": 56781
+    }
+  },
+  "media_object": "what-we-do-in-the-shadows-210",
+  "published_files": {
+    "data/csv/bytes/what-we-do-in-the-shadows-210-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "6627ab4fdcc906fb9bb87f0e7b8d1a8d86cecbacf2cd61ce9a08e54d18abc59b",
+    "docs/itemized/figures/what-we-do-in-the-shadows-210-carto-4k.webp": "d43a4a50a660a70e6d7fbaf721187bed2a9e29f8b0f7e25548587321a905eb37",
+    "docs/itemized/figures/what-we-do-in-the-shadows-210-carto.png": "624fb2450b7a7ae4d27716bb3edbfbb97c4b51a639d72bd89a57fff5b62d3a7c",
+    "docs/itemized/figures/what-we-do-in-the-shadows-210-cumulative-detail-btiha-itemized-by-bytes.svg": "052e049cd3a1b53a8990889a1b70bf02addec8a915b3a68d1c0bcb9078666930",
+    "docs/itemized/figures/what-we-do-in-the-shadows-210-data-ge-1080p-4k.webp": "c295ad3b67ab9026c1f4e0cb077879b9bf0e2a37c727671895dff65faf9335ee",
+    "docs/itemized/figures/what-we-do-in-the-shadows-210-data-ge-1080p.webp": "7f38ad83243eaee7a944ff478f13b4c1efe2af3bb918c410964c49d4f8d71499",
+    "docs/itemized/figures/what-we-do-in-the-shadows-210-data-lt-1080p-4k.webp": "5e40bc9557bf2db01a13a85c2d069fecea97718a83ea7394a2238b55d4bee13a",
+    "docs/itemized/figures/what-we-do-in-the-shadows-210-data-lt-1080p.webp": "9da7beafbecd853daa1719d7c13ac6df21809dfa2bb7b618461b3014c07777ce",
+    "docs/itemized/figures/what-we-do-in-the-shadows-210-downloads-by-day-day.svg": "f90e0f312b0b231211b8685f3f342c9627d2002c4b1a48fc5932cab421df826e",
+    "docs/itemized/figures/what-we-do-in-the-shadows-210-downloads-by-week-what-we-do-in-the-shadows-210-week.svg": "c195ece48e89803a6fb977366806011e837a659722a61d4eff32a32edc641ba5",
+    "docs/itemized/what-we-do-in-the-shadows-210-sample-cache-audit.md": "5ad2da8572f05a282b48edf5a61c61e9713340cdd775cb33f3b015080dced3d0",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/what-we-do-in-the-shadows-210/tmp/what-we-do-in-the-shadows-210-cumulative-btiha.geojson",
+        "sha256": "df0429ae8910638279c579d1bc3b7a92e40a553683f9b81fe1befd9721f7df35",
+        "size": 50353656
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/what-we-do-in-the-shadows-210/tmp/what-we-do-in-the-shadows-210-cumulative-btiha-media-objects.json",
+        "sha256": "51475aa65bea98a7d96c85a191595207140d736f9262f9adf40846ad57d1b752",
+        "size": 311896
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "what-we-do-in-the-shadows-210",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          52.0,
+          46.0,
+          40.0,
+          29.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Columbus",
+          "New York City",
+          "Seattle",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Tokyo",
+          "Boardman"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          48.0,
+          42.0,
+          34.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "New York City",
+          "Seattle",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Boardman",
+          "Tokyo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 24,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 24,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 11,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
