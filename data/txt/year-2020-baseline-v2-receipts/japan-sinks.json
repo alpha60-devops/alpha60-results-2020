@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt12031040",
+    "imdb_id": "tt12031040",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q97360834",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Japan_Sinks:_2020"
+  },
+  "coverage_sha256": "9b4c9fe9c6595f64ff14fd213731e5007a44a681af542b877f6312c6a2ee8c6b",
+  "generated_at": "2026-09-04T07:35:19.427561+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/japan-sinks.cache/cache.20200923.tar.xz",
+      "sha256": "26a72afa9f2dc5da202e09dde9ed05f2186c87a40271187b152b432daf6a1edd",
+      "size": 119679992
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/japan-sinks.md",
+      "sha256": "ec371a4c87c25fe7d6ff71ef03355f67f3a4dd08a86181a09e9ed4b7c3988ba5",
+      "size": 547
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/japan-sinks.json",
+      "sha256": "5a633c841d5a4d8f021feb9fd4e88f1e1a560ac715a1da3d5cf965f48207fbb2",
+      "size": 2493
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/japan-sinks.json",
+      "sha256": "7e68dcfc46a96569f4ef61cb582716c88d0f613cc8a9213772585af6782f7d74",
+      "size": 363
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "5d0b61cc4231b0cdd58668c76104a99388723e08e63c257d958a72bf01786df5",
+      "size": 56781
+    }
+  },
+  "media_object": "japan-sinks",
+  "published_files": {
+    "data/csv/bytes/japan-sinks-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "8b6cc1482adc4a9d51fc26bf91a722ae1c6ce39f02d6a8e60b01ffe949d7c113",
+    "docs/itemized/figures/japan-sinks-carto-4k.webp": "6fba8a4e325531921c0bfaef6b992bdae96a627b5decefcfce875495663598fe",
+    "docs/itemized/figures/japan-sinks-carto.png": "9c71705712d54b35e8967075ea060adcd2beebf7b4a84496807c550b200e064e",
+    "docs/itemized/figures/japan-sinks-cumulative-detail-btiha-itemized-by-bytes.svg": "6d2f805bd14f35c2a992764e953b87f3703b63f9772a116ebe3333bd31dc9212",
+    "docs/itemized/figures/japan-sinks-data-ge-1080p-4k.webp": "5a4c813eca9a2e4330f0372b9d38f3682b12437d137c4f95b90cd453cd1b19cd",
+    "docs/itemized/figures/japan-sinks-data-ge-1080p.webp": "ec303cf6211c2a3fa71c7d8b9d38138a2bb8f45dfa290cb866aeaa29597761e8",
+    "docs/itemized/figures/japan-sinks-data-lt-1080p-4k.webp": "dbb9301e58f89271acdf86425af3f4ce9f5b569a0044c381f2b7cb196e096871",
+    "docs/itemized/figures/japan-sinks-data-lt-1080p.webp": "ef4bc64e5ebadcedcefa6630c9f1adf11932db1d7b77b143ee0bc810eedfe81e",
+    "docs/itemized/figures/japan-sinks-downloads-by-day-day.svg": "c1870773734aaefc7e21fc3c596a7e05c7b7b97bb86d64e6d794b0c8a1ce18aa",
+    "docs/itemized/figures/japan-sinks-downloads-by-week-japan-sinks-week.svg": "7d27f3b34cca1768e2b21f493ac8178ac9a656f238928341fbe0b43e3bb0dc06",
+    "docs/itemized/japan-sinks-sample-cache-audit.md": "d34d657718162a5fa3c3a6ebb0ff0ccb1d3169b5e45d7a962d6947c4626d162c",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/japan-sinks/tmp/japan-sinks-cumulative-btiha.geojson",
+        "sha256": "ef5fdbd6c04efdca1b6a0e1f1972b2185f9db15ce5902ef5328f8767fa46e149",
+        "size": 26300797
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/japan-sinks/tmp/japan-sinks-cumulative-btiha-media-objects.json",
+        "sha256": "88042b5a12bb09035521a09c40a5dee79509d453a30d028a0c821143a9f5c578",
+        "size": 415013
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "japan-sinks",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Moscow",
+          "Shanghai",
+          "New York City",
+          "Montr\u00e9al",
+          "Paris",
+          "Saint Petersburg",
+          "Hong Kong",
+          "Quezon City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Moscow",
+          "Shanghai",
+          "Hong Kong",
+          "New York City",
+          "Montr\u00e9al",
+          "Paris",
+          "Shenzhen",
+          "Tokyo"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 22,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 11,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}

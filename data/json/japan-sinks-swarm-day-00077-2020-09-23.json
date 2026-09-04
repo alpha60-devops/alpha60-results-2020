@@ -1,0 +1,17 @@
+{
+    "datestamp": "2020-09-23",
+    "collection_name": "Japan Sinks",
+    "collection_id": "1",
+    "collection_key": "japan-sinks",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "summary_type": "day",
+    "summary_index": 77,
+    "btiha_size": 137,
+    "upeers_total": 15519,
+    "useeds_total": 2111,
+    "upeers_new": 0,
+    "useeds_new": 0
+}
