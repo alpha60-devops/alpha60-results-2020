@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt2261227",
+    "imdb_id": "tt2261227",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q22906308",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Altered_Carbon_(TV_series)"
+  },
+  "coverage_sha256": "7997e2b54b5de65ad3ae31b89faa1b6f4207472d95862db29e1ac2586f9b5422",
+  "generated_at": "2026-09-04T06:44:27.297298+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/altered-carbon-02.cache/cache.20200827.tar.xz",
+      "sha256": "43f74ed531435bb29e435b06c190104f1c76e40b7b6ba7035d8185a3196e0612",
+      "size": 2052522324
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/altered-carbon-02.md",
+      "sha256": "c30c0054dfaf86e50f0b2780193a4d80e2879295d592d21d2aff24be08287ed5",
+      "size": 555
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/altered-carbon-02.json",
+      "sha256": "ef9d7696f86a0477c3e7a4bd55d1e2bb139da4af9315821bffbf0146dbee89da",
+      "size": 3439
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/altered-carbon-02.json",
+      "sha256": "4e9e2bbee11353b368b2d478dfe649c922f4fac205c4461da3734d9c7636a856",
+      "size": 371
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "5d0b61cc4231b0cdd58668c76104a99388723e08e63c257d958a72bf01786df5",
+      "size": 56781
+    }
+  },
+  "media_object": "altered-carbon-02",
+  "published_files": {
+    "data/csv/bytes/altered-carbon-02-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "0e906ed91ae7320dc6a4251f1b3df16242a1fcd1fea981b34f960b752e54100e",
+    "docs/itemized/altered-carbon-02-sample-cache-audit.md": "6c8d63c76d6330bf47cfae966b0c42ec08e453525ba97efdd524ea1e9874cb69",
+    "docs/itemized/figures/altered-carbon-02-carto-4k.webp": "c5997b8fd670e32c111ac57abbd4ff4350a8891f6ea687cce326ec4073b48877",
+    "docs/itemized/figures/altered-carbon-02-carto.png": "ac0d055435cd4510bc129f29f652460ce5e505cee6a42c165029abf861c2a97e",
+    "docs/itemized/figures/altered-carbon-02-cumulative-detail-btiha-itemized-by-bytes.svg": "b6aed58c67deb81adb749af0aacda3d5b8bf50c64751b627cbbfc643bd9deff9",
+    "docs/itemized/figures/altered-carbon-02-data-ge-1080p-4k.webp": "977d5ff3509021fa529f6bf10b483dabd8fd55c8115c9e4f393663cdf8775814",
+    "docs/itemized/figures/altered-carbon-02-data-ge-1080p.webp": "81b69448767000e69b9ecfeb5cfb1cb980c2051cfd2d1b712abc2c21afb91646",
+    "docs/itemized/figures/altered-carbon-02-data-lt-1080p-4k.webp": "97dc51570c43cbfc33b870519cbf3c63feaa504488e9050eb77cff425b9dc6cf",
+    "docs/itemized/figures/altered-carbon-02-data-lt-1080p.webp": "0b151b054eae57520d3cbdc2735e1acf56627f05161009817457e9ba9f28a5fe",
+    "docs/itemized/figures/altered-carbon-02-downloads-by-day-day.svg": "4b3a52847b1d3aa8992c68f1fa844fccc0677ac92d2e4063d458c0f93f6783da",
+    "docs/itemized/figures/altered-carbon-02-downloads-by-week-altered-carbon-02-week.svg": "51bc9251195abb06c0b85543b22336db7fa95268bffe191a60ed639ba83c8c83",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/altered-carbon-02/tmp/altered-carbon-02-cumulative-btiha.geojson",
+        "sha256": "d7d0bed7fe1ede0a56ad5eb293484dc7678017d9210f8be61e54f3f9c9826fd3",
+        "size": 192530256
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/altered-carbon-02/tmp/altered-carbon-02-cumulative-btiha-media-objects.json",
+        "sha256": "9c049bb9c5aab192755d22d58306c0dab358e897eb1c8db709f26a7eceb95c74",
+        "size": 702208
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "altered-carbon-02",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          53.0,
+          50.0,
+          46.0,
+          42.0,
+          33.0,
+          32.0,
+          31.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "Moscow",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Independence",
+          "Mumbai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          55.0,
+          46.0,
+          42.0,
+          40.0,
+          32.0,
+          32.0,
+          30.0,
+          27.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "Columbus",
+          "London",
+          "Moscow",
+          "New York City",
+          "Seoul",
+          "Seattle",
+          "Tokyo",
+          "Shanghai",
+          "Independence"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 37,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 26,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
