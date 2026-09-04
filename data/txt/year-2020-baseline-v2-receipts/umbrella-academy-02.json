@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt1312171",
+    "imdb_id": "tt1312171",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q44535025",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Umbrella_Academy_(TV_series)"
+  },
+  "coverage_sha256": "a7d7f7bea92365ea8c9bcaa7e11d93c792ba676fd9dc1b2fd81fcbbc46a0ab7a",
+  "generated_at": "2026-09-04T08:51:46.256057+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/umbrella-academy-02.cache/cache.20201008.tar.xz",
+      "sha256": "03ddae99cd5d08cff0df483e3d4b63c6d9096f6539fd27359c5970f423e257d6",
+      "size": 859130884
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/umbrella-academy-02.md",
+      "sha256": "65e5cfed03072a39cc64a31b66eda5bbb1451c5daf4f16e6b081109627edcbce",
+      "size": 577
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/umbrella-academy-02.json",
+      "sha256": "5521edd2c39192bbdd1d3453982a794ed57061d557e339a4a2d2adbc5bd611d4",
+      "size": 2462
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/umbrella-academy-02.json",
+      "sha256": "d0c076fcdfc0d7274feba35692fb8507c9c8f5b9c028d6abd477a9da1c4bcbdb",
+      "size": 370
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "5d0b61cc4231b0cdd58668c76104a99388723e08e63c257d958a72bf01786df5",
+      "size": 56781
+    }
+  },
+  "media_object": "umbrella-academy-02",
+  "published_files": {
+    "data/csv/bytes/umbrella-academy-02-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "622b26556a068b0a2758dd513f2bc51a28ce26f857b885ac853fe35f7bd8b53c",
+    "docs/itemized/figures/umbrella-academy-02-carto-4k.webp": "aae46708d2ec3eabb09da12b852c5e72e8da611798410c781858a8993d7ee9c9",
+    "docs/itemized/figures/umbrella-academy-02-carto.png": "47217f44587c1d928858ca04a1c60d03a985ce4302050ce47dc6f1fe7db9f6be",
+    "docs/itemized/figures/umbrella-academy-02-cumulative-detail-btiha-itemized-by-bytes.svg": "6eb85e234052b0a23a8a1d889c424005124856d5198aa83db019e7f884a12dc8",
+    "docs/itemized/figures/umbrella-academy-02-data-ge-1080p-4k.webp": "9cfd22273338387324391e2d4631ef2d1fe85103b5dfadff739744bfb33fba4d",
+    "docs/itemized/figures/umbrella-academy-02-data-ge-1080p.webp": "7fe9555efcee06c6e02cbf99a355aa95ef0d49b938a048b1bb99209e1cc2e574",
+    "docs/itemized/figures/umbrella-academy-02-data-lt-1080p-4k.webp": "ff64e64339442e17c21494b2269dabf25d1285285cc9e8b9f96c9d02fb4fb450",
+    "docs/itemized/figures/umbrella-academy-02-data-lt-1080p.webp": "5d96078a32a25084fbc5f154b9cae20804d6e500fc29e3cfbc8100d576fe6885",
+    "docs/itemized/figures/umbrella-academy-02-downloads-by-day-day.svg": "b1b8782f6d9923bd2049618e41269cf45557a0759b82d1b6c85ca827abba2c43",
+    "docs/itemized/figures/umbrella-academy-02-downloads-by-week-umbrella-academy-02-week.svg": "57dd338b9b14b1052fb1594724ddf9833dfbad68e8d3b7b5685194b760ca79af",
+    "docs/itemized/umbrella-academy-02-sample-cache-audit.md": "49de15100e38027e32ef3d8c92f99b4eba75a2e647f9270d58834d052d9afea4",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/umbrella-academy-02/tmp/umbrella-academy-02-cumulative-btiha.geojson",
+        "sha256": "fab712ef52069b78faa3519cc81ff3023308cebb09719d54e0f6769b5802832d",
+        "size": 71877576
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/umbrella-academy-02/tmp/umbrella-academy-02-cumulative-btiha-media-objects.json",
+        "sha256": "afda0d1863950a4f4fd0391a99659e7814d80b84a854e1b54156541849f5431d",
+        "size": 629387
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "umbrella-academy-02",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          72.0,
+          63.0,
+          53.0,
+          45.0,
+          41.0,
+          35.0,
+          35.0,
+          30.0,
+          29.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Columbus",
+          "New York City",
+          "Mumbai",
+          "Seattle",
+          "Tokyo",
+          "Seoul",
+          "Shanghai",
+          "Independence"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          71.0,
+          56.0,
+          53.0,
+          52.0,
+          37.0,
+          36.0,
+          36.0,
+          30.0,
+          27.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Ashburn",
+          "London",
+          "Moscow",
+          "Columbus",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Mumbai",
+          "Seoul",
+          "Shanghai"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 23,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 24,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 10,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
