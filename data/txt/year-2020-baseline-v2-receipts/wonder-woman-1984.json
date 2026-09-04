@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt7126948",
+    "imdb_id": "tt7126948",
+    "revision": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
+    "wikidata_id": "Q33408623",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wonder_Woman_1984"
+  },
+  "coverage_sha256": "923836fbda64087883847574f62a7d823a76baed8fe8f950a28c132f73183d66",
+  "generated_at": "2026-09-04T09:00:12.365012+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/wonder-woman-1984.cache/cache.20210408.tar.xz",
+      "sha256": "b1460750d2a920f464f02b9407fc4cf077ca15b7b36b35ea3fbfce8413b67c8d",
+      "size": 7785906452
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/wonder-woman-1984.md",
+      "sha256": "8ab21f60cdb376ccd04fe39e0d8798d79cfe6a7335fda12a6a00d67f8af9720f",
+      "size": 555
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/wonder-woman-1984.json",
+      "sha256": "aa17cbf2e011231e47e4ac2d61484ab038ccabf15ebbe5bfc23d4d6b76f14bb1",
+      "size": 2746
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/wonder-woman-1984.json",
+      "sha256": "6eb7bc8d4870b0814d84ded3645aa3db148d0e57ec36585736c6c2041060823e",
+      "size": 371
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "f36c01f56e765f625dd9a73b0a1dc6b98eabd9a73af72749e456fec22b9cdb8c",
+      "size": 59173
+    }
+  },
+  "media_object": "wonder-woman-1984",
+  "published_files": {
+    "data/csv/bytes/wonder-woman-1984-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "fcd29c765258b2cbe359cbc75ab1941734e6074e37758ad900c168fc9ae4b67b",
+    "docs/itemized/figures/wonder-woman-1984-carto-4k.webp": "3628aa02ece28446fcfd286abd6dfd6fe5d02b45179555b31d6d21ab27c1937a",
+    "docs/itemized/figures/wonder-woman-1984-carto.png": "6acc221c3fa6ec1762593e68a8891e7c9334255d35407b78cd420c27a5b5625e",
+    "docs/itemized/figures/wonder-woman-1984-cumulative-detail-btiha-itemized-by-bytes.svg": "a906ecc713fc2ab6ba0cbcaf407db20675d8d7ea9b5a76ff458db6cf6f06ef2a",
+    "docs/itemized/figures/wonder-woman-1984-data-ge-1080p-4k.webp": "1a3501821848726940437d654035b046fe14d17931bfd4466ac7a4d61aa4be12",
+    "docs/itemized/figures/wonder-woman-1984-data-ge-1080p.webp": "bb6cc635431e1519a6b8825a90a19fab7ff1fdba9a6cd905190aa23949c14264",
+    "docs/itemized/figures/wonder-woman-1984-data-lt-1080p-4k.webp": "b8c1d26aa68c6fb1a4e06f055871d92cc374f394720248115665244296e55fde",
+    "docs/itemized/figures/wonder-woman-1984-data-lt-1080p.webp": "8d7f336457669ca283f597e78a349b11b5cfbf651e634c29d11da0071505fd78",
+    "docs/itemized/figures/wonder-woman-1984-downloads-by-day-day.svg": "d6d89349a071e3e882cabde5603c28d1e3bd9a84130d16321b47e7271cd3f667",
+    "docs/itemized/figures/wonder-woman-1984-downloads-by-week-wonder-woman-1984-week.svg": "c4a9343685fcf3113eb6258fe0120c89f42b823f0b634d17a27ad6b3f75b18b7",
+    "docs/itemized/wonder-woman-1984-sample-cache-audit.md": "2a72b80c1afa1fab2e6b17d9ac2e85b0ba95ed6b3d5532e106908ed8232abb32",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "13f86b111286e7823eda0dfcc7f2bf5f12a0111082a0fb6a9ec76b2be11d5928",
+      "size": 37083184
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/wonder-woman-1984/tmp/wonder-woman-1984-cumulative-btiha.geojson",
+        "sha256": "de3058a9efe5920aaa7f3cbee1084e10a9dbbfad85f3df5b9035e1ab743a901e",
+        "size": 175115784
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/wonder-woman-1984/tmp/wonder-woman-1984-cumulative-btiha-media-objects.json",
+        "sha256": "cc3e0a82c9e5a82de20d1aed4a11d48942aa944f5be56bd556341e933ed48a05",
+        "size": 325035
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+      "untracked": false
+    },
+    "media_object": "wonder-woman-1984",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "9bdc35e9d2f32694b7aa44d3ca848e8363478d9ce4c5982c548ff08a0e7e0b65",
+      "size": 8756848
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "9abe583a2b7a15aed853bf5ba1d39e921ea6574cb703ba50154c3aad7db766d4",
+      "size": 3694000
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          69.0,
+          39.0,
+          34.0,
+          29.0,
+          28.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Mumbai",
+          "London",
+          "S\u00e3o Paulo",
+          "Moscow",
+          "Kolkata",
+          "New York City",
+          "Nairobi",
+          "Seoul",
+          "Johannesburg",
+          "Delhi"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          58.0,
+          47.0,
+          46.0,
+          36.0,
+          33.0,
+          32.0,
+          31.0,
+          29.0,
+          29.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Mumbai",
+          "London",
+          "Quezon City",
+          "Manila",
+          "Delhi",
+          "Johannesburg",
+          "Seoul",
+          "Colombo",
+          "Bengaluru",
+          "Moscow"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 42,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 4,
+        "x_tick_marks": 4,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 15,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "8ce0ceaf5bf61dfb75be3bc9451e003886daa486",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
+    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
+    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
