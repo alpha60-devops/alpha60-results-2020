@@ -1,0 +1,17 @@
+{
+    "datestamp": "2020-05-13",
+    "collection_name": "Upload",
+    "collection_id": "1",
+    "collection_key": "upload-01",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "summary_type": "day",
+    "summary_index": 13,
+    "btiha_size": 156,
+    "upeers_total": 101504,
+    "useeds_total": 36247,
+    "upeers_new": 0,
+    "useeds_new": 0
+}
