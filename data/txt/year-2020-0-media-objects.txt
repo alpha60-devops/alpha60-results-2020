@@ -1,3 +1,4 @@
+alienist-201
 altered-carbon-02
 altered-carbon-resleeved
 avenue-5-101
@@ -23,6 +24,7 @@ happiest-season
 high-fidelity-01
 jamtara-sabka-number-ayega
 japan-sinks
+lego-star-wars-holiday-special-2020
 lovebirds
 lovecraft-country-101
 lovecraft-country-110
@@ -35,6 +37,7 @@ raised-by-wolves-110
 solar-opposites-01
 songbird
 space-force-01
+star-trek-discovery-305
 star-trek-lower-decks-101
 star-trek-picard-110
 tales-from-the-loop-01

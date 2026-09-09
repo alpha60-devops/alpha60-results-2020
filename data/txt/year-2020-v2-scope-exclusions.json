@@ -1,0 +1,10 @@
+{
+  "excluded_collection_keys": [],
+  "exclusions": [],
+  "inventory_sha256": "daea811649b7ac8b21945533a078783bee52cb5cd21c3dbc8e614d418f471a77",
+  "policy": "frozen raw cohort; shared exclusions already applied",
+  "reviewed_at": "2026-09-09T14:29:50.047648+00:00",
+  "schema": "alpha60-year-media-object-campaign-scope/1",
+  "status": "pass",
+  "year": "2020"
+}
