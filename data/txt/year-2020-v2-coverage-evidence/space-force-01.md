@@ -1,0 +1,20 @@
+# Cache coverage report — space-force-01
+
+- Generated: 2026-09-09T14:48:23Z
+- Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/space-force-01.xz`
+- Hour directories: 798
+- Zero-length sample files: 0
+- Other unparsable sample files: 0
+- Hourly discontinuities: 1 (24 missing hours)
+- Missing days: 1
+
+## Sample archive discontinuities
+
+- hourly gap: last `2020-06-04 23:03`, resumed `2020-06-06 00:03` — missing 24 hour(s)
+- missing day: `2020-06-05`
+
+## Review
+
+Confirm the sampler state and disk capacity on the sampling
+hosts for every zero-length file and discontinuity above
+before treating the aggregate outputs as complete.
