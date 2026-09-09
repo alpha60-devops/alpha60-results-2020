@@ -1,0 +1,33 @@
+{
+  "overrides": {
+    "dark-03": {
+      "archive_date": "20200904",
+      "reason": "The closed v1 campaign verified this immutable archive and its canonical 2020-06-27 through 2020-08-28 Day window; preserve that reviewed legacy selection and exclude the later raw capture tail."
+    },
+    "expanse-501": {
+      "archive_date": "20210223",
+      "reason": "The closed v1 campaign verified this immutable archive and its canonical 2020-12-16 through 2021-02-14 Day window; preserve that reviewed legacy selection and exclude the later raw capture tail."
+    },
+    "good-fight-407": {
+      "archive_date": "20200722",
+      "reason": "The closed v1 campaign verified this immutable archive and its canonical 2020-05-28 through 2020-07-08 Day window; preserve that reviewed legacy selection and exclude the later raw capture tail."
+    },
+    "jamtara-sabka-number-ayega": {
+      "archive_date": "20200319",
+      "reason": "The closed v1 campaign verified this immutable archive and its canonical 2020-01-10 through 2020-03-12 Day window; preserve that reviewed legacy selection and exclude the later raw capture tail."
+    },
+    "lovecraft-country-110": {
+      "archive_date": "20201227",
+      "reason": "The closed v1 campaign verified this immutable archive and its canonical 2020-10-19 through 2020-11-29 Day window; preserve that reviewed legacy selection and exclude the later raw capture tail."
+    },
+    "songbird": {
+      "archive_date": "20210218",
+      "reason": "The closed v1 campaign verified this immutable archive and its canonical 2020-12-11 through 2021-02-04 Day window; preserve that reviewed legacy selection and exclude the later raw capture tail."
+    }
+  },
+  "reviewed_by": "bdekoz",
+  "reviewed_datestamp": "2026-09-09",
+  "schema": "alpha60-year-cache-archive-overrides/1",
+  "status": "reviewed-pending-map-validation",
+  "year": "2020"
+}
