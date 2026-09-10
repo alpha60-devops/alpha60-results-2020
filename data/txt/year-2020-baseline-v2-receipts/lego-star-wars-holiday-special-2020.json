@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt12885438",
+    "imdb_id": "tt12885438",
+    "revision": "338b625f440332c19362b3bb87166b88a78ab446",
+    "wikidata_id": "Q102050021",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lego_Star_Wars_Holiday_Special"
+  },
+  "coverage_sha256": "b5e2da99a61cdfa72658bb321e58bc62aed72886fe4014cf40842765c0ad39db",
+  "generated_at": "2026-09-10T16:12:34.660274+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/lego-star-wars-holiday-special-2020.cache/cache.20201228.tar.xz",
+      "sha256": "b1abbc8060338038ef99400e9a6926634aa184c854dd5ee02ce856ce509542cd",
+      "size": 107052200
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/lego-star-wars-holiday-special-2020.md",
+      "sha256": "506750b6e18db00970ffb3e1ab5bf5924fa9055c4ee673e1823afa96fb18c09e",
+      "size": 842
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/lego-star-wars-holiday-special-2020.json",
+      "sha256": "f9f5f0f70ff29c36f7c26931ebc1a04579aea553e84e221a1cbc0bfb9dc0b9ae",
+      "size": 2393
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/lego-star-wars-holiday-special-2020.json",
+      "sha256": "19f2f7487fe82daf108af4a4191380c7e32231c8b53d02b9c42897d21bf2fc12",
+      "size": 387
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "9ac5b08ae818b6fa742e3563d2fd2b6530f8b67c422c71738874ec824a96f1de",
+      "size": 2940
+    }
+  },
+  "media_object": "lego-star-wars-holiday-special-2020",
+  "published_files": {
+    "data/csv/bytes/lego-star-wars-holiday-special-2020-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "534c955490cd672fa27ce89dc2261c3cfe4ed7b699c33b603bae6228d23ee5c7",
+    "docs/itemized/figures/lego-star-wars-holiday-special-2020-carto-4k.webp": "176cabfeb8d86fabb350598aed5e814b3068fb1da0bf55b257adf5c58d073bb8",
+    "docs/itemized/figures/lego-star-wars-holiday-special-2020-carto.png": "573fca96ab4b95afb9ba6f540ccfd70e36559f7bd8d977a34d573aa5530686ba",
+    "docs/itemized/figures/lego-star-wars-holiday-special-2020-cumulative-detail-btiha-itemized-by-bytes.svg": "7f6c0a863228aad3b276dac81d55b294d149fb4593a27a49d6df2154e56e6177",
+    "docs/itemized/figures/lego-star-wars-holiday-special-2020-data-ge-1080p-4k.webp": "bc3c51545c6ed9348e73903c4c0304326bb052c826736c5486d6e5d41f9a3e2b",
+    "docs/itemized/figures/lego-star-wars-holiday-special-2020-data-ge-1080p.webp": "6a1831b0b24de18f2335f87a754dcfb4b8d97c8c0689007b2f7bbc1d7b5aacf0",
+    "docs/itemized/figures/lego-star-wars-holiday-special-2020-data-lt-1080p-4k.webp": "c706c7272fcd5fb72e612489a9f38a7d4e29c9a2f3f7b9ba0106ea6a3812d5a4",
+    "docs/itemized/figures/lego-star-wars-holiday-special-2020-data-lt-1080p.webp": "3a6a87d48ce124489576b0ad661ff7bd9cf08fafe1743bf2d59eb3c4a5de6c16",
+    "docs/itemized/figures/lego-star-wars-holiday-special-2020-downloads-by-day-day.svg": "c28b4f72972647096670579b60054ef34e804e3c9326c6d3d7489a612af82284",
+    "docs/itemized/figures/lego-star-wars-holiday-special-2020-downloads-by-week-lego-star-wars-holiday-special-2020-week.svg": "aef0f32e82fef623d4bd1dfb6082feaf7ede6571e82fb258df755d36f2e1c3b7",
+    "docs/itemized/lego-star-wars-holiday-special-2020-sample-cache-audit.md": "2bb2eef766e93e11c48aa13d96e317d37b2e065d7a712de87b0c99b78f6c5788",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "4cb9e41757f7172c9eba7c3b3aab1155bb566ccb",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/lego-star-wars-holiday-special-2020/tmp/lego-star-wars-holiday-special-2020-cumulative-btiha.geojson",
+        "sha256": "05eedc783b179c5e18bd2a1fdb3f3d1dfa6e2afa5ba3958e1520413748337f84",
+        "size": 25294479
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/lego-star-wars-holiday-special-2020/tmp/lego-star-wars-holiday-special-2020-cumulative-btiha-media-objects.json",
+        "sha256": "a190350daebb6a1f464d1b355e62bef3d036fa6e078cfea0379d7655ca63f6d3",
+        "size": 94140
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "lego-star-wars-holiday-special-2020",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          76.0,
+          71.0,
+          56.0,
+          47.0,
+          41.0,
+          41.0,
+          36.0,
+          34.0,
+          33.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "London",
+          "New York City",
+          "Seattle",
+          "Ashburn",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Tokyo",
+          "Quezon City"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          77.0,
+          60.0,
+          55.0,
+          46.0,
+          45.0,
+          41.0,
+          40.0,
+          35.0,
+          32.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "Columbus",
+          "London",
+          "New York City",
+          "Seattle",
+          "Tokyo",
+          "Ashburn",
+          "Seoul",
+          "Independence",
+          "Shanghai",
+          "Paris"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 21,
+        "y_tick_labels": 22
+      },
+      "histogram": {
+        "bars": 22,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 6,
+        "y_tick_labels": 20
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "4cb9e41757f7172c9eba7c3b3aab1155bb566ccb",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "96f413ef69521fbc99d4a2dd0aa761990335dc85",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "338b625f440332c19362b3bb87166b88a78ab446"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}
