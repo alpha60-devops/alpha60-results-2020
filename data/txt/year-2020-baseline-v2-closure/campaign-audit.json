@@ -1,0 +1,616 @@
+{
+  "counts": {
+    "archive_records": 52,
+    "baseline_v2_pages": 3,
+    "day_complete": 3,
+    "day_product_pairs": 48,
+    "excluded_records": 0,
+    "index_links": 52,
+    "inventory": 52,
+    "reused_predecessor": 49,
+    "validated_current": 3,
+    "worker_failed": 0,
+    "worker_passed": 3
+  },
+  "day_records": [
+    {
+      "baseline_sha256": "1f2b9a0d25c1191ced6e5f306f81a9f813926be17a6c2aaad9e047fe432e2fa4",
+      "collection_key": "alienist-201",
+      "coverage_sha256": "365f6ff3b7c3c9b7510bed2711146a4e4b51c31032ca3dc4346b4008175dde09",
+      "day_products": 2,
+      "product_sha256": "fb544f3860476f678788b8b08661d7297b4b8ebcda24e7100244e198f02e681a",
+      "status": "pass",
+      "stream_sha256": "811bb30cdfacbc39b5c520ed0a4966afbdd6ffeb67472230c94a293621117a60"
+    },
+    {
+      "baseline_sha256": "e3606f7e7ab9df76fe2283ddec1327f7ae6642da2ecb85d10b91910f4957b4e5",
+      "collection_key": "lego-star-wars-holiday-special-2020",
+      "coverage_sha256": "506750b6e18db00970ffb3e1ab5bf5924fa9055c4ee673e1823afa96fb18c09e",
+      "day_products": 42,
+      "product_sha256": "19f2f7487fe82daf108af4a4191380c7e32231c8b53d02b9c42897d21bf2fc12",
+      "status": "pass",
+      "stream_sha256": "f9f5f0f70ff29c36f7c26931ebc1a04579aea553e84e221a1cbc0bfb9dc0b9ae"
+    },
+    {
+      "baseline_sha256": "f3c085198e4621e5ff32e5240371068cb33ab5ec26e0a367682cb39984f73552",
+      "collection_key": "star-trek-discovery-305",
+      "coverage_sha256": "a9829c1739e4224e73624e3228ceb05cfe38df27d8c28d2459980f50dd90a144",
+      "day_products": 4,
+      "product_sha256": "868b1b26a96a586c9317495acffeb3965ba02a34cf27de2a8e59d5d6e1887724",
+      "status": "pass",
+      "stream_sha256": "ed28b4be164685bfbecd6f861e53190c1fa3b088d3e03d923f07f8f1260a8e10"
+    }
+  ],
+  "excluded_outputs": {},
+  "gates": {
+    "exclusions": true,
+    "index": true,
+    "inventory_map": true,
+    "metadata": true,
+    "predecessors": true,
+    "products": true,
+    "repositories": true,
+    "site": true,
+    "workers": true
+  },
+  "generated_at": "2026-09-10T16:17:00.792922+00:00",
+  "index": {
+    "links": 52,
+    "missing_targets": [],
+    "path": "/home/bkoz/src/alpha60-results-2020/_includes/year-2020-0-media-objects.txt"
+  },
+  "inputs": {
+    "archive_map": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-v2-cache-archive-map.json",
+      "sha256": "6b9e081f1896e274f9af349a8d9eeaa1d426b1356f27a4fe29ed8872269a8e17",
+      "size": 131815
+    },
+    "config": {
+      "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/year-2020-v2.json",
+      "sha256": "b8b85d14b27f5f17dae9e1d117eba113d9b6e736be4f0e19b24063339b110b68",
+      "size": 4252
+    },
+    "inventory": {
+      "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/raw-discovery/year-2020-cohort.txt",
+      "sha256": "daea811649b7ac8b21945533a078783bee52cb5cd21c3dbc8e614d418f471a77",
+      "size": 856
+    },
+    "metadata_audit": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-closure/metadata-audit.json",
+      "sha256": "26c27a55635d0de7cd1514385f158552539cbadbe3fd4b0c2ec3ecfb4d480d2a",
+      "size": 15498
+    },
+    "scope_exclusions": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-v2-scope-exclusions.json",
+      "sha256": "413b27231ad7aa25d680282fd766bd08a7f7fc22f058f968f9990b0840e0275a",
+      "size": 364
+    },
+    "site_audit": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-closure/site-audit.json",
+      "sha256": "7f4255d939b49bb68ea79a0f0a58cb461ba97d5c724ef300e048cb99dce1bdde",
+      "size": 583
+    },
+    "worker_receipts": [
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 1,
+          "records": 1
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-closure/worker-original-01.json",
+          "sha256": "b982fd022209ed323892535fa40d12546a6c585753dcc6147fd765bedcbe1aa2",
+          "size": 1316
+        },
+        "kind": "original",
+        "owner": "eureka",
+        "status": "pass"
+      },
+      {
+        "counts": {
+          "errors": 0,
+          "passed": 2,
+          "records": 2
+        },
+        "identity": {
+          "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-closure/worker-original-02.json",
+          "sha256": "aa087e3867fdaddfce1b528681404f3ef5a796bbbe26e6249bd7688139a77ffb",
+          "size": 1762
+        },
+        "kind": "original",
+        "owner": "ord",
+        "status": "pass"
+      }
+    ]
+  },
+  "issues": [],
+  "metadata_repository": {
+    "path": "/home/bkoz/src/alpha60-swarm-metadata",
+    "revision": "338b625f440332c19362b3bb87166b88a78ab446",
+    "tracked_clean": true,
+    "untracked_files": [],
+    "worktree_clean": true
+  },
+  "predecessor_records": [
+    {
+      "collection_key": "altered-carbon-02",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/altered-carbon-02.json",
+        "sha256": "54c4c59451635ee3a07833986a6e99b821fda669d7e17707ed4b7a9aa7121ae4",
+        "size": 8221
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "altered-carbon-resleeved",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/altered-carbon-resleeved.json",
+        "sha256": "112fafe80122f2d7b6319631352bc0fdb09ea8026f775371ff44f05df7d1887d",
+        "size": 8397
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "avenue-5-101",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/avenue-5-101.json",
+        "sha256": "9959b26c93c3e1e8213aa98986882cea168950c1b20a05b937198c51fd675cf0",
+        "size": 8086
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "away-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/away-01.json",
+        "sha256": "0285b44420abc7595a7054ba86095c5dad0751f6360e9b0afddabc36193eca6a",
+        "size": 8017
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "biohackers-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/biohackers-01.json",
+        "sha256": "e2d65cc2ada8ff50e7e4f83edc3f832764d749fa4c76b8a4b0f15aeabef5fc99",
+        "size": 8117
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "black-is-king",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/black-is-king.json",
+        "sha256": "d9c54cf63510363be93480c6a8a1e4946367887e2d4c69730dff6acbb1c301f7",
+        "size": 8143
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "blackaf-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/blackaf-01.json",
+        "sha256": "77dc35358b106c2650a30041c18888ff18881f3d7aedf8cb62baf05dadb00cc4",
+        "size": 8050
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "bojack-horseman-06",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/bojack-horseman-06.json",
+        "sha256": "2dfd6368ab6e7668542df80cbbb5a76a3ab4253ef93039b619c611371e4a8aa0",
+        "size": 8232
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "boys-201",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/boys-201.json",
+        "sha256": "51b7bf44e38ac2f7be7660b8cb9202d08963ea005e81d1180fa33db6ede8b1e3",
+        "size": 8024
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "boys-208",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/boys-208.json",
+        "sha256": "a3046f3268e0ee0ef5ecf0c46af5acda332ef13716ca3c6c5488ec71edfc4003",
+        "size": 8021
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "control-z-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/control-z-01.json",
+        "sha256": "09606db7317def4cb3528de5ec943384e1bd6f64dd4ebc7a0aa514dc2220fd03",
+        "size": 8112
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "da-5-bloods",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/da-5-bloods.json",
+        "sha256": "c7820ecf0b4e291b40aeb787d6c993825c558da948ff0d1ad0e6f0346c797e72",
+        "size": 8075
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "dark-03",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/dark-03.json",
+        "sha256": "8d9a4717f664bc5308b6d615e290f2e9480fd47eeb6d6b37b6643d4c54a2130b",
+        "size": 7988
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.json",
+        "sha256": "b61273b830f64afb3ec0c47d484500e0ccc114968a555e83141e244f362b6b6b",
+        "size": 9010
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "devs-108",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/devs-108.json",
+        "sha256": "95a64f14294d73bc3340ff62ec5f64ca1328f08be76aaed40a118d523abd825a",
+        "size": 8015
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "doom-patrol-201",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/doom-patrol-201.json",
+        "sha256": "b15a437e444b41e23a310c7cc5a0749b5bcac2704a374988d5205e8aab0e971f",
+        "size": 8182
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "euphoria-special",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/euphoria-special.json",
+        "sha256": "a1d6bb03b47b539cc5114e77740fd2674e09ced49d8286466f24a93910971b12",
+        "size": 8235
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "expanse-501",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/expanse-501.json",
+        "sha256": "f33b127132b05e15a735d7b4f634c6d73e7a1c813a1eddda22d78fb9873258d3",
+        "size": 8131
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "folklore",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/folklore.json",
+        "sha256": "4755864864b56c5ecb54ec323e9d72483c8a9a943b81a017ebe5131b4e17c0c1",
+        "size": 8065
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "good-fight-407",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/good-fight-407.json",
+        "sha256": "e09066e650b3f5379016406476557f4c514b2f5f1723f5a7a338560fe5800c1a",
+        "size": 8149
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "hamilton",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/hamilton.json",
+        "sha256": "5ac8f4f622225e6ef93c8e47953f00e7c73653b3012733e809660313287b13cb",
+        "size": 8028
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "happiest-season",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/happiest-season.json",
+        "sha256": "6bc37f0ba9eca73fa53eb2a84359392cbb88cd3a5066dda04729ae8d41d86e11",
+        "size": 8185
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "high-fidelity-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/high-fidelity-01.json",
+        "sha256": "c0e169c96bcc33b20561ed17f825dc9fed3bb27dc872bb13731a9c924379e8cd",
+        "size": 8200
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "jamtara-sabka-number-ayega",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/jamtara-sabka-number-ayega.json",
+        "sha256": "b7949d978e7f693611ba44b093cf69b9d50ae85fc6081348798d1823810ef618",
+        "size": 8418
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "japan-sinks",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/japan-sinks.json",
+        "sha256": "1a04366f55fa496dffb0c9e424a5e457a1c6165756d9c6614f5187d2f8802588",
+        "size": 8102
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "lovebirds",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/lovebirds.json",
+        "sha256": "d11c135e99d4f9c3fb2f0acec43ec7a2ec082153ccb31406198a5e29f1044a33",
+        "size": 8068
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "lovecraft-country-101",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/lovecraft-country-101.json",
+        "sha256": "ca5c8ba2c9a63e02713b0d251c0590e5fd480c0fbf4e6aee69caf1bee9827b94",
+        "size": 8325
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "lovecraft-country-110",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/lovecraft-country-110.json",
+        "sha256": "61443b342720e67356314459ba37749bd15b8c8b800c193a2a26813f52247bac",
+        "size": 8334
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "mandalorian-201",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/mandalorian-201.json",
+        "sha256": "45bb9c1922bffeec8ab5be6e63489b485cb8d2972a959ac8d559b5e8eb004646",
+        "size": 8216
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "mandalorian-208",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/mandalorian-208.json",
+        "sha256": "5b85a9920a464966f2a9c965047b73abb799c60f4655fa80dce6d3cccb7cca08",
+        "size": 8172
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "mulan",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/mulan.json",
+        "sha256": "4b123caa1de6c93ae1b4b11154b63dd0184c34d889a29f9e907207972a0ade7d",
+        "size": 7944
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "narcos-mexico-02",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/narcos-mexico-02.json",
+        "sha256": "4aa64ddbc84dbd0791ccf3b73e0d6669473c08b1d367b9edd98df5f9e96bc841",
+        "size": 8179
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "queer-eye-2018-05",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/queer-eye-2018-05.json",
+        "sha256": "df801a3145d473123a7c7a2242b4f6bbf503c8a99f1611fda89ccf9d33915cbc",
+        "size": 8221
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "raised-by-wolves-110",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/raised-by-wolves-110.json",
+        "sha256": "3ccee6874bd6f48ba6b2dec5fee3e0f8e30ab0e9fb84c261645e3bc2b4b41b99",
+        "size": 8305
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "solar-opposites-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/solar-opposites-01.json",
+        "sha256": "a9dc1b54c3fe7ef4a4dad7a2e5b33bacc6f5686d9d0cbc21c8aee2f52f7b074f",
+        "size": 8262
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "songbird",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/songbird.json",
+        "sha256": "a36de8b843ae6eef565527c0d058e19860fc8b053fa95259be85fc83ab3c1695",
+        "size": 8030
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "space-force-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/space-force-01.json",
+        "sha256": "589d80b886569d9a1f2510c5f8747fcf93f3d9bdfd7a643ee8a29a8ecbb06b50",
+        "size": 8155
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "star-trek-lower-decks-101",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/star-trek-lower-decks-101.json",
+        "sha256": "035b527d8cd23c5d33057b004f69391a86a81fd7233f02dfee6a0418bc3d0875",
+        "size": 8418
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "star-trek-picard-110",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/star-trek-picard-110.json",
+        "sha256": "18e9f26f381f99ca327a4d9c09f4be463e6697183be9d1051e8bac1d6bc1c917",
+        "size": 8274
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "tales-from-the-loop-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/tales-from-the-loop-01.json",
+        "sha256": "97f0db907d4c0ea3cd09ac399773d6c66f80c5e3952c7818c4254b173b6cc33a",
+        "size": 8319
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "tenet",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/tenet.json",
+        "sha256": "6b502cca376eda69ce749d3699335881734a17f11b5e868ffd3c3a6529180c7f",
+        "size": 7958
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "tiger-king-and-i",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/tiger-king-and-i.json",
+        "sha256": "6fa80f18bf2c0b0a16a0011e683afd97058f9f81b0e45277813090d71d06ab78",
+        "size": 8205
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "umbrella-academy-02",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/umbrella-academy-02.json",
+        "sha256": "c21b92a5a962555bb4d1464d333c94dc349c7eff308b8ac944ecc70eaa20e7b6",
+        "size": 8265
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "upload-01",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/upload-01.json",
+        "sha256": "64c2f56b1097fee98f14cc1747ef8b8bfcdf1946276536cb12a163ffc64dd961",
+        "size": 8045
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "vanguard",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/vanguard.json",
+        "sha256": "74f40978c8033d048f74a615d40efdf8596fc9115dc5b463aaac24ac7ca06a71",
+        "size": 8014
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "westworld-301",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/westworld-301.json",
+        "sha256": "4eff98654687c9f781026107055b71b9737174febb7badb996c5ce3a686499d1",
+        "size": 8138
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "westworld-308",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/westworld-308.json",
+        "sha256": "b9456dc5cedffbe721c54db88bbc05eee215f9917981906fcc592ffb498ffb51",
+        "size": 8145
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "what-we-do-in-the-shadows-210",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/what-we-do-in-the-shadows-210.json",
+        "sha256": "9b19680b1dd97d3f29e8e8748882b32e816bdc0220c9e92f5567b213d9004925",
+        "size": 8500
+      },
+      "status": "reused-closed-predecessor"
+    },
+    {
+      "collection_key": "wonder-woman-1984",
+      "receipt": {
+        "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/wonder-woman-1984.json",
+        "sha256": "062d6590ac9620bceb51ea42fb234efe1b48d48bc4c62bdb201b01cfd52e1097",
+        "size": 8214
+      },
+      "status": "reused-closed-predecessor"
+    }
+  ],
+  "results_repository": {
+    "path": "/home/bkoz/src/alpha60-results-2020",
+    "revision": "0678d2b5c16770e4a479427bbc5a34aec3115d67",
+    "tracked_clean": true,
+    "untracked_files": [],
+    "worktree_clean": true
+  },
+  "schema": "alpha60-year-baseline-v2-campaign-audit/1",
+  "status": "pass",
+  "terminal_records": [
+    {
+      "collection_key": "alienist-201",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "6eb7c3f087b45408dba6189520a1a1a4364d965e"
+    },
+    {
+      "collection_key": "lego-star-wars-holiday-special-2020",
+      "executor": "eureka",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "eureka",
+      "repair_status": null,
+      "results_revision": "a040b5442f7e085d9231aa36725c984f1c88b01d"
+    },
+    {
+      "collection_key": "star-trek-discovery-305",
+      "executor": "ord",
+      "final_status": "pass",
+      "original_status": "pass",
+      "owner": "ord",
+      "repair_status": null,
+      "results_revision": "6582137f403770c27982dce6a6bea2e51d4239a1"
+    }
+  ],
+  "year": "2020"
+}

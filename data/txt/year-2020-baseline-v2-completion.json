@@ -1,39 +1,46 @@
 {
+  "campaign": {
+    "inventory_count": 52,
+    "inventory_sha256": "daea811649b7ac8b21945533a078783bee52cb5cd21c3dbc8e614d418f471a77",
+    "version": 2
+  },
   "campaign_counts": {
-    "archive_records": 49,
-    "baseline_v2_pages": 49,
-    "day_complete": 49,
-    "day_product_pairs": 4518,
+    "archive_records": 52,
+    "baseline_v2_pages": 3,
+    "day_complete": 3,
+    "day_product_pairs": 48,
     "excluded_records": 0,
-    "index_links": 49,
-    "inventory": 49,
+    "index_links": 52,
+    "inventory": 52,
+    "reused_predecessor": 49,
+    "validated_current": 3,
     "worker_failed": 0,
-    "worker_passed": 49
+    "worker_passed": 3
   },
   "counts": {
     "absent": 0,
     "failed": 0,
-    "inventory": 49,
+    "inventory": 3,
     "old": 0,
-    "passed": 49,
-    "unique": 49
+    "passed": 3,
+    "unique": 3
   },
   "evidence_sha256": {
-    "campaign_audit": "0c15315565e63718636c9fdd4d9cb0053e42ffa97d36be3ce8ff7a9dd9fd24a8",
-    "metadata-audit.json": "d4c74a12df9804411da625657863542398b536a956d71b386fb704841191b981",
-    "site-audit.json": "57cf538a6aed9afb1ed2bbefb7072dc5e0e66705db563e462b50973e1506726d",
-    "worker-original-01.json": "99fbe9c6ae9e1e53fa097b38397ea977eca0b8cbed7329438bdc3c48e49b780f",
-    "worker-original-02.json": "1167104ac47c303e3f8df681c7533e9f42eaddb986101b31159de867aad39afd"
+    "campaign_audit": "322cb2a3afb7dc104f7f63beca1cc55b00a296ee762b69011f559af82a3855e4",
+    "metadata-audit.json": "26c27a55635d0de7cd1514385f158552539cbadbe3fd4b0c2ec3ecfb4d480d2a",
+    "site-audit.json": "7f4255d939b49bb68ea79a0f0a58cb461ba97d5c724ef300e048cb99dce1bdde",
+    "worker-original-01.json": "b982fd022209ed323892535fa40d12546a6c585753dcc6147fd765bedcbe1aa2",
+    "worker-original-02.json": "aa087e3867fdaddfce1b528681404f3ef5a796bbbe26e6249bd7688139a77ffb"
   },
-  "generated_at": "2026-09-04T14:14:26.449746+00:00",
+  "generated_at": "2026-09-10T16:17:00.840762+00:00",
   "schema": "alpha60-year-baseline-v2-completion/1",
   "source_revisions": {
-    "alpha60": "8e049fa5d5c76b161af38b5d74adb9028b67c197",
+    "alpha60": "19d64a9130882fdf95e4315f8fb7b4af14f46c2f",
     "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
-    "data": "cd5fff53d25c0e9b769c047c0642f41964283558",
-    "izzi": "337a030370e111b3db5a2698ec29dd7e6eea5a25",
-    "metadata": "cd0d3ba1d77deba1c06828ebd4537b2220625c7d",
-    "results": "0bc63e8284fb521ecc3ea4cd0e8945ad54aa47ce"
+    "data": "96f413ef69521fbc99d4a2dd0aa761990335dc85",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "338b625f440332c19362b3bb87166b88a78ab446",
+    "results": "0678d2b5c16770e4a479427bbc5a34aec3115d67"
   },
   "status": "passed",
   "year": "2020"
