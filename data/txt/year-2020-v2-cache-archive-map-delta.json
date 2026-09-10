@@ -1,0 +1,242 @@
+{
+  "assignment_policy": "largest-archive-first-minimum-assigned-bytes",
+  "cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
+  "counts": {
+    "approved_filename_date_mismatches": 0,
+    "approved_observed_endpoint_mismatches": 0,
+    "checkpoint_records_reused": 0,
+    "day_member_streams_validated": 3,
+    "eligible_archives": 3,
+    "post_release_archive_records": 0,
+    "records": 3,
+    "sample_end_matches": 3,
+    "selected_archive_bytes": 126622388,
+    "selected_archive_hashes": 3,
+    "sparse_sample_records": 0,
+    "unique_records": 3
+  },
+  "identity_source": {
+    "campaign_contract_records": 3,
+    "campaign_contract_sha256": "cfbdcbb84064a11e3164a5cb37e1135a33a40e2ebb79bfa020960494b3ce154f",
+    "kind": "canonical-swarm-metadata",
+    "root": "/home/bkoz/src/alpha60-swarm-metadata/metadata"
+  },
+  "inventory": {
+    "path": "/home/bkoz/src/alpha60/config/year-cache-campaigns/raw-discovery/year-2020-additions.txt",
+    "sha256": "c2043a0db81c2d1d38d7f90020c62a9440cbdd70ce6b135e6afd12fdcd9282d0"
+  },
+  "overrides": {
+    "count": 0
+  },
+  "owners": {
+    "eureka": {
+      "archive_bytes": 107052200,
+      "records": 1
+    },
+    "ord": {
+      "archive_bytes": 19570188,
+      "records": 2
+    }
+  },
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20200721.tar.xz",
+        "filename_date": "20200721",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/alienist-201.cache/cache.20200721.tar.xz",
+        "sha256": "88ccdf2c71e0376db2aa6da2c5503ed50ae259d4cee9356bc373de0365c87129",
+        "size": 3396612
+      },
+      "collection_key": "alienist-201",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 2,
+          "cache_members": 79,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2020-07-21",
+          "sample_span_days": 2,
+          "sample_start": "2020-07-20",
+          "torrent_indices": 43
+        },
+        "required_collection_key": "alienist-201",
+        "required_day_products": 2,
+        "required_sample_days": 2,
+        "required_sample_end": "2020-07-21",
+        "required_sample_start": "2020-07-20",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "The Alienist: Angel of Darkness",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "cfbdcbb84064a11e3164a5cb37e1135a33a40e2ebb79bfa020960494b3ce154f",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 2,
+        "sample_end": "2020-07-21",
+        "sample_start": "2020-07-20",
+        "sha256": "1b99dbf31550a35cd663012d4b4db4c2eeea37b7bcda93327becd3fae1308d66",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/alienist-201.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20200721.tar.xz",
+            "size": 3396612
+          }
+        ],
+        "expected_filename_date": "20200721"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20201228.tar.xz",
+        "filename_date": "20201228",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/lego-star-wars-holiday-special-2020.cache/cache.20201228.tar.xz",
+        "sha256": "b1abbc8060338038ef99400e9a6926634aa184c854dd5ee02ce856ce509542cd",
+        "size": 107052200
+      },
+      "collection_key": "lego-star-wars-holiday-special-2020",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 42,
+          "cache_members": 1921,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2020-12-28",
+          "sample_span_days": 42,
+          "sample_start": "2020-11-17",
+          "torrent_indices": 54
+        },
+        "required_collection_key": "lego-star-wars-holiday-special-2020",
+        "required_day_products": 42,
+        "required_sample_days": 42,
+        "required_sample_end": "2020-12-28",
+        "required_sample_start": "2020-11-17",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "The Lego Star Wars Holiday Special",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "cfbdcbb84064a11e3164a5cb37e1135a33a40e2ebb79bfa020960494b3ce154f",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 42,
+        "sample_end": "2020-12-28",
+        "sample_start": "2020-11-17",
+        "sha256": "f22a718096688931f1aed62c3df3e0a9b95a7c7562383f7f5a4d1a3f0200106a",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/lego-star-wars-holiday-special-2020.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20201228.tar.xz",
+            "size": 107052200
+          }
+        ],
+        "expected_filename_date": "20201228"
+      }
+    },
+    {
+      "archive": {
+        "filename": "cache.20201115.tar.xz",
+        "filename_date": "20201115",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-305.cache/cache.20201115.tar.xz",
+        "sha256": "f2d1c843b09fa6e1a7858b26caccdd452e1ee774781923365849416b3829518a",
+        "size": 16173576
+      },
+      "collection_key": "star-trek-discovery-305",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 4,
+          "cache_members": 195,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2020-11-15",
+          "sample_span_days": 4,
+          "sample_start": "2020-11-12",
+          "torrent_indices": 55
+        },
+        "required_collection_key": "star-trek-discovery-305",
+        "required_day_products": 4,
+        "required_sample_days": 4,
+        "required_sample_end": "2020-11-15",
+        "required_sample_start": "2020-11-12",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "3",
+        "collection_name": "Star Trek: Discovery",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "cfbdcbb84064a11e3164a5cb37e1135a33a40e2ebb79bfa020960494b3ce154f",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 4,
+        "sample_end": "2020-11-15",
+        "sample_start": "2020-11-12",
+        "sha256": "71d42e1ae5d7cb0882ae77ccd2d870e16ce87cc2e310d5ec23b21ff617eaa621",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/star-trek-discovery-305.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20201115.tar.xz",
+            "size": 16173576
+          }
+        ],
+        "expected_filename_date": "20201115"
+      }
+    }
+  ],
+  "schema": "alpha60-year-cache-archive-map/1",
+  "selection_policy": "canonical-metadata-or-frozen-campaign-sample-end-or-explicit-override",
+  "status": "pass",
+  "year": "2020"
+}

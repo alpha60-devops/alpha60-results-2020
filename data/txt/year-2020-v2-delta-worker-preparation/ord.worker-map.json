@@ -1,0 +1,142 @@
+{
+  "cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
+  "owner": "ord",
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20200721.tar.xz",
+        "filename_date": "20200721",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/alienist-201.cache/cache.20200721.tar.xz",
+        "sha256": "88ccdf2c71e0376db2aa6da2c5503ed50ae259d4cee9356bc373de0365c87129",
+        "size": 3396612
+      },
+      "collection_key": "alienist-201",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 2,
+          "cache_members": 79,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2020-07-21",
+          "sample_span_days": 2,
+          "sample_start": "2020-07-20",
+          "torrent_indices": 43
+        },
+        "required_collection_key": "alienist-201",
+        "required_day_products": 2,
+        "required_sample_days": 2,
+        "required_sample_end": "2020-07-21",
+        "required_sample_start": "2020-07-20",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "2",
+        "collection_name": "The Alienist: Angel of Darkness",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "cfbdcbb84064a11e3164a5cb37e1135a33a40e2ebb79bfa020960494b3ce154f",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 2,
+        "sample_end": "2020-07-21",
+        "sample_start": "2020-07-20",
+        "sha256": "1b99dbf31550a35cd663012d4b4db4c2eeea37b7bcda93327becd3fae1308d66",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/alienist-201.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20200721.tar.xz",
+            "size": 3396612
+          }
+        ],
+        "expected_filename_date": "20200721"
+      },
+      "worker_archive_relative_path": "alienist-201.cache/cache.20200721.tar.xz"
+    },
+    {
+      "archive": {
+        "filename": "cache.20201115.tar.xz",
+        "filename_date": "20201115",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/star-trek-discovery-305.cache/cache.20201115.tar.xz",
+        "sha256": "f2d1c843b09fa6e1a7858b26caccdd452e1ee774781923365849416b3829518a",
+        "size": 16173576
+      },
+      "collection_key": "star-trek-discovery-305",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 4,
+          "cache_members": 195,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2020-11-15",
+          "sample_span_days": 4,
+          "sample_start": "2020-11-12",
+          "torrent_indices": 55
+        },
+        "required_collection_key": "star-trek-discovery-305",
+        "required_day_products": 4,
+        "required_sample_days": 4,
+        "required_sample_end": "2020-11-15",
+        "required_sample_start": "2020-11-12",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "ord",
+      "release": {
+        "collection_id": "3",
+        "collection_name": "Star Trek: Discovery",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "cfbdcbb84064a11e3164a5cb37e1135a33a40e2ebb79bfa020960494b3ce154f",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 4,
+        "sample_end": "2020-11-15",
+        "sample_start": "2020-11-12",
+        "sha256": "71d42e1ae5d7cb0882ae77ccd2d870e16ce87cc2e310d5ec23b21ff617eaa621",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/star-trek-discovery-305.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20201115.tar.xz",
+            "size": 16173576
+          }
+        ],
+        "expected_filename_date": "20201115"
+      },
+      "worker_archive_relative_path": "star-trek-discovery-305.cache/cache.20201115.tar.xz"
+    }
+  ],
+  "schema": "alpha60-year-day-worker-map/1",
+  "source_map_sha256": "ada8106e7ea4e0d5937dc74b988465d563e461ef0e15bd9126676ff4221595bc",
+  "status": "pass",
+  "year": "2020"
+}

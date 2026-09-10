@@ -1,0 +1,76 @@
+{
+  "cache_root": "/mnt/gold/src/alpha60-samples-cache.gold",
+  "owner": "eureka",
+  "records": [
+    {
+      "archive": {
+        "filename": "cache.20201228.tar.xz",
+        "filename_date": "20201228",
+        "path": "/mnt/gold/src/alpha60-samples-cache.gold/lego-star-wars-holiday-special-2020.cache/cache.20201228.tar.xz",
+        "sha256": "b1abbc8060338038ef99400e9a6926634aa184c854dd5ee02ce856ce509542cd",
+        "size": 107052200
+      },
+      "collection_key": "lego-star-wars-holiday-special-2020",
+      "day_cache_validation": {
+        "allow_leading_sparse": false,
+        "authorization": {
+          "archive_mutated": false,
+          "member_contents_opened": false,
+          "raw_samples_opened": false,
+          "scope": "read-only archive member-name stream"
+        },
+        "observed": {
+          "approved_observed_day_end": null,
+          "archive_filename_matches_observed_end": true,
+          "available_day_products": 42,
+          "cache_members": 1921,
+          "first_observed_day_index": 1,
+          "missing_indices": [],
+          "post_release_day_products": 0,
+          "sample_end": "2020-12-28",
+          "sample_span_days": 42,
+          "sample_start": "2020-11-17",
+          "torrent_indices": 54
+        },
+        "required_collection_key": "lego-star-wars-holiday-special-2020",
+        "required_day_products": 42,
+        "required_sample_days": 42,
+        "required_sample_end": "2020-12-28",
+        "required_sample_start": "2020-11-17",
+        "required_sparse_intervals": [],
+        "status": "pass-read-only-member-stream"
+      },
+      "owner": "eureka",
+      "release": {
+        "collection_id": "",
+        "collection_name": "The Lego Star Wars Holiday Special",
+        "metadata_version": "2025-11-22",
+        "sample_contract_sha256": "cfbdcbb84064a11e3164a5cb37e1135a33a40e2ebb79bfa020960494b3ce154f",
+        "sample_contract_source": "frozen-campaign-reconciliation",
+        "sample_days": 42,
+        "sample_end": "2020-12-28",
+        "sample_start": "2020-11-17",
+        "sha256": "f22a718096688931f1aed62c3df3e0a9b95a7c7562383f7f5a4d1a3f0200106a",
+        "source": "/home/bkoz/src/alpha60-swarm-metadata/metadata/lego-star-wars-holiday-special-2020.json",
+        "source_kind": "canonical-swarm-metadata"
+      },
+      "selection": {
+        "approved_observed_day_end": null,
+        "approved_override": null,
+        "date_matches_sample_end": true,
+        "eligible_candidates": [
+          {
+            "filename": "cache.20201228.tar.xz",
+            "size": 107052200
+          }
+        ],
+        "expected_filename_date": "20201228"
+      },
+      "worker_archive_relative_path": "lego-star-wars-holiday-special-2020.cache/cache.20201228.tar.xz"
+    }
+  ],
+  "schema": "alpha60-year-day-worker-map/1",
+  "source_map_sha256": "ada8106e7ea4e0d5937dc74b988465d563e461ef0e15bd9126676ff4221595bc",
+  "status": "pass",
+  "year": "2020"
+}
