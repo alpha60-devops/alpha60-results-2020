@@ -1,7 +1,7 @@
 {
   "schema": "alpha60-year-media-object-metadata-readiness/1",
   "year": "2020",
-  "inventory": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-0-media-objects.txt",
+  "inventory": "/home/bkoz/src/alpha60/config/year-cache-campaigns/raw-discovery/year-2020-cohort.txt",
   "metadata_directory": "/home/bkoz/src/alpha60-swarm-metadata/metadata",
   "approved_empty_collection_ids": [
     "black-is-king",
@@ -10,6 +10,7 @@
     "folklore",
     "hamilton",
     "happiest-season",
+    "lego-star-wars-holiday-special-2020",
     "lovebirds",
     "mulan",
     "songbird",
@@ -18,11 +19,13 @@
     "wonder-woman-1984"
   ],
   "approved_not_applicable_identity_ids": [],
+  "campaign_sample_contracts": 52,
+  "prevalidated_predecessor_records": 49,
   "status": "pass",
   "counts": {
-    "inventory_entries": 49,
-    "unique_keys": 49,
-    "ready_records": 49,
+    "inventory_entries": 52,
+    "unique_keys": 52,
+    "ready_records": 52,
     "error_records": 0,
     "errors": 0
   },
@@ -30,249 +33,365 @@
   "duplicate_keys": [],
   "records": [
     {
+      "collection_key": "alienist-201",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
+    },
+    {
       "collection_key": "altered-carbon-02",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/altered-carbon-02.json"
     },
     {
       "collection_key": "altered-carbon-resleeved",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/altered-carbon-resleeved.json"
     },
     {
       "collection_key": "avenue-5-101",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/avenue-5-101.json"
     },
     {
       "collection_key": "away-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/away-01.json"
     },
     {
       "collection_key": "biohackers-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/biohackers-01.json"
     },
     {
       "collection_key": "black-is-king",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/black-is-king.json"
     },
     {
       "collection_key": "blackaf-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/blackaf-01.json"
     },
     {
       "collection_key": "bojack-horseman-06",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/bojack-horseman-06.json"
     },
     {
       "collection_key": "boys-201",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/boys-201.json"
     },
     {
       "collection_key": "boys-208",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/boys-208.json"
     },
     {
       "collection_key": "control-z-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/control-z-01.json"
     },
     {
       "collection_key": "da-5-bloods",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/da-5-bloods.json"
     },
     {
       "collection_key": "dark-03",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/dark-03.json"
     },
     {
       "collection_key": "demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.json"
     },
     {
       "collection_key": "devs-108",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/devs-108.json"
     },
     {
       "collection_key": "doom-patrol-201",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/doom-patrol-201.json"
     },
     {
       "collection_key": "euphoria-special",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/euphoria-special.json"
     },
     {
       "collection_key": "expanse-501",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/expanse-501.json"
     },
     {
       "collection_key": "folklore",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/folklore.json"
     },
     {
       "collection_key": "good-fight-407",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/good-fight-407.json"
     },
     {
       "collection_key": "hamilton",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/hamilton.json"
     },
     {
       "collection_key": "happiest-season",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/happiest-season.json"
     },
     {
       "collection_key": "high-fidelity-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/high-fidelity-01.json"
     },
     {
       "collection_key": "jamtara-sabka-number-ayega",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/jamtara-sabka-number-ayega.json"
     },
     {
       "collection_key": "japan-sinks",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/japan-sinks.json"
+    },
+    {
+      "collection_key": "lego-star-wars-holiday-special-2020",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
     },
     {
       "collection_key": "lovebirds",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/lovebirds.json"
     },
     {
       "collection_key": "lovecraft-country-101",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/lovecraft-country-101.json"
     },
     {
       "collection_key": "lovecraft-country-110",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/lovecraft-country-110.json"
     },
     {
       "collection_key": "mandalorian-201",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/mandalorian-201.json"
     },
     {
       "collection_key": "mandalorian-208",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/mandalorian-208.json"
     },
     {
       "collection_key": "mulan",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/mulan.json"
     },
     {
       "collection_key": "narcos-mexico-02",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/narcos-mexico-02.json"
     },
     {
       "collection_key": "queer-eye-2018-05",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/queer-eye-2018-05.json"
     },
     {
       "collection_key": "raised-by-wolves-110",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/raised-by-wolves-110.json"
     },
     {
       "collection_key": "solar-opposites-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/solar-opposites-01.json"
     },
     {
       "collection_key": "songbird",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/songbird.json"
     },
     {
       "collection_key": "space-force-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/space-force-01.json"
+    },
+    {
+      "collection_key": "star-trek-discovery-305",
+      "status": "ready",
+      "issues": [],
+      "evidence_source": "current-canonical-metadata"
     },
     {
       "collection_key": "star-trek-lower-decks-101",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/star-trek-lower-decks-101.json"
     },
     {
       "collection_key": "star-trek-picard-110",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/star-trek-picard-110.json"
     },
     {
       "collection_key": "tales-from-the-loop-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/tales-from-the-loop-01.json"
     },
     {
       "collection_key": "tenet",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/tenet.json"
     },
     {
       "collection_key": "tiger-king-and-i",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/tiger-king-and-i.json"
     },
     {
       "collection_key": "umbrella-academy-02",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/umbrella-academy-02.json"
     },
     {
       "collection_key": "upload-01",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/upload-01.json"
     },
     {
       "collection_key": "vanguard",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/vanguard.json"
     },
     {
       "collection_key": "westworld-301",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/westworld-301.json"
     },
     {
       "collection_key": "westworld-308",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/westworld-308.json"
     },
     {
       "collection_key": "what-we-do-in-the-shadows-210",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/what-we-do-in-the-shadows-210.json"
     },
     {
       "collection_key": "wonder-woman-1984",
       "status": "ready",
-      "issues": []
+      "issues": [],
+      "evidence_source": "closed-baseline-publication-receipt",
+      "evidence_path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-baseline-v2-receipts/wonder-woman-1984.json"
     }
   ]
 }
