@@ -1,0 +1,208 @@
+{
+  "canonical_metadata": {
+    "external_imdb": "tt4604612",
+    "imdb_id": "tt4604612",
+    "revision": "338b625f440332c19362b3bb87166b88a78ab446",
+    "wikidata_id": "Q27988195",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Alienist_(TV_series)"
+  },
+  "coverage_sha256": "318dddfd48ddaa237e330d463c75a1c1d88e219ca6d1e8f5a5370fc2d0c2ba61",
+  "generated_at": "2026-09-10T16:11:26.633186+00:00",
+  "human_review": null,
+  "immutable_inputs": {
+    "cache-archive": {
+      "path": "/home/bkoz/src/alpha60-samples-cache/year-2020-archives/alienist-201.cache/cache.20200721.tar.xz",
+      "sha256": "88ccdf2c71e0376db2aa6da2c5503ed50ae259d4cee9356bc373de0365c87129",
+      "size": 3396612
+    },
+    "coverage-evidence": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-coverage-evidence/alienist-201.md",
+      "sha256": "365f6ff3b7c3c9b7510bed2711146a4e4b51c31032ca3dc4346b4008175dde09",
+      "size": 544
+    },
+    "day-cache-stream-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-cache-stream-receipts/alienist-201.json",
+      "sha256": "811bb30cdfacbc39b5c520ed0a4966afbdd6ffeb67472230c94a293621117a60",
+      "size": 1976
+    },
+    "day-product-receipt": {
+      "path": "/home/bkoz/src/alpha60-results-2020/data/txt/year-2020-day-product-receipts/alienist-201.json",
+      "sha256": "fb544f3860476f678788b8b08661d7297b4b8ebcda24e7100244e198f02e681a",
+      "size": 362
+    },
+    "worker-map": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-control/worker-map.json",
+      "sha256": "63c708f2ea09ee6223aad10036ce9a5325e7cee2aaed6dfe57c52f6bd00eafba",
+      "size": 5385
+    }
+  },
+  "media_object": "alienist-201",
+  "published_files": {
+    "data/csv/bytes/alienist-201-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "08ce29c7eebdee97fa6af491d4965332757a9abdf8c7ca3bd92133a0b604a3fd",
+    "docs/itemized/alienist-201-sample-cache-audit.md": "503cabf099b1fc15f2358953ad6902e7adc36d6fadd76b8da7b9df8a3957f2fc",
+    "docs/itemized/figures/alienist-201-carto-4k.webp": "351a303aae0f68ae4173ecdaedd385a1ffe33b91ae60ba13a6ca24c281dacbc6",
+    "docs/itemized/figures/alienist-201-carto.png": "cbec35289b8804285867c3b832e6051f98c29f00160a86685661db8771563b1e",
+    "docs/itemized/figures/alienist-201-cumulative-detail-btiha-itemized-by-bytes.svg": "9306199c5611df421b2eea1aa611979fb06b07c8798c38e3a22eec776555e714",
+    "docs/itemized/figures/alienist-201-data-ge-1080p-4k.webp": "2c1fc8490d358f4f3775bd4f528a56330e62eafb9564a7a580fbe9f4a70aeec0",
+    "docs/itemized/figures/alienist-201-data-ge-1080p.webp": "9c961d9b95dd960b28a566f5e77ec354b03b4ba6a965a0686ecdc624ce629164",
+    "docs/itemized/figures/alienist-201-data-lt-1080p-4k.webp": "2afdf3382d4a9b44d272524bcccc326695f3b8acb9b91e144a8bb4db7d0a9c99",
+    "docs/itemized/figures/alienist-201-data-lt-1080p.webp": "ccd6941ca00ddb42f9dea130c46981500e36c933e8d7de1cb13537809fc4b6eb",
+    "docs/itemized/figures/alienist-201-downloads-by-day-day.svg": "d7ddb09b2a925611a290d315bfc9af8853cc1180dc13cd579c8e74d539ba66a0",
+    "docs/itemized/figures/alienist-201-downloads-by-week-alienist-201-week.svg": "962628c59807f3cf77dd78f7b024be333f20a1d61f676cb761848dd60bdc3347",
+    "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
+  },
+  "render_receipt": {
+    "alpha60": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60",
+      "revision": "4cb9e41757f7172c9eba7c3b3aab1155bb566ccb",
+      "untracked": false
+    },
+    "carto_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-carto-geo.exe",
+      "sha256": "ed3dbca0eab97b6a0e329c7d3f2ff202418ab8dba7729ae6c3cd4852ee06ac2a",
+      "size": 37337560
+    },
+    "cartography_plate": "earth-ck-44-22.gray-water242-landwhite",
+    "inputs": {
+      "cumulative-btiha-geojson": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/alienist-201/tmp/alienist-201-cumulative-btiha.geojson",
+        "sha256": "4ebb5e16bb74293ad26d03e9881300cd089eab230e31c6974240e3670ddbb5bd",
+        "size": 1711330
+      },
+      "cumulative-btiha-metadata": {
+        "path": "/home/bkoz/src/alpha60-xperiments/year-2020/alienist-201/tmp/alienist-201-cumulative-btiha-media-objects.json",
+        "sha256": "603e623ff79cefdad78f821bf53b006295ad91fd07909ef26c0189ec362ddf60",
+        "size": 68766
+      }
+    },
+    "izzi": {
+      "dirty": false,
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi",
+      "revision": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+      "untracked": false
+    },
+    "media_object": "alienist-201",
+    "meta_collection_renderer": {
+      "path": "/home/bkoz/src/alpha60/build/campaign/a60-meta-collection.exe",
+      "sha256": "2b6e089b0f2b859c11dbdec11c354f187fc875a2d3d6ff68ccd6d692e0342126",
+      "size": 8761328
+    },
+    "renderer": {
+      "path": "/home/bkoz/src/alpha60-xperiments/year-2020-toolchain/izzi/build/cmake/tests/izzi_visualization_render",
+      "sha256": "ac0b8fe4ecd11aa639a37a9b3df83dba08cf103723eb6004aea76989f1a5b09e",
+      "size": 3694176
+    },
+    "schema": "alpha60-media-object-render-receipt/1",
+    "status": "passed",
+    "validations": {
+      "data-map-ge-1080p": {
+        "font_sizes": [
+          90.0,
+          39.0,
+          32.0,
+          32.0,
+          31.0,
+          30.0,
+          30.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Lelystad",
+          "Toronto",
+          "Dallas",
+          "Sydney",
+          "Amsterdam",
+          "New York City",
+          "Los Angeles",
+          "Melbourne",
+          "Frankfurt am Main"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "data-map-lt-1080p": {
+        "font_sizes": [
+          90.0,
+          35.0,
+          29.0,
+          29.0,
+          27.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0,
+          26.0
+        ],
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "label_count": 10,
+        "labels": [
+          "London",
+          "Toronto",
+          "Lelystad",
+          "Sydney",
+          "Amsterdam",
+          "New York City",
+          "Cape Town",
+          "Dallas",
+          "Melbourne",
+          "Los Angeles"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "role": "cumulative-data-map",
+        "status": "passed"
+      },
+      "day-graph": {
+        "polylines": 2,
+        "role": "day-graph",
+        "status": "passed",
+        "x_tick_labels": 2,
+        "y_tick_labels": 20
+      },
+      "histogram": {
+        "bars": 16,
+        "role": "histogram",
+        "status": "passed",
+        "x_label": "SIZE IN GB",
+        "x_tick_labels": 5,
+        "x_tick_marks": 5,
+        "y_label": "MEDIA OBJECTS"
+      },
+      "network-map": {
+        "image_references": [
+          "/home/bkoz/src/cartofreako/assets.generated/cahill-keyes/png/earth-ck-44-22.gray-water242-landwhite.png"
+        ],
+        "plate": "earth-ck-44-22.gray-water242-landwhite",
+        "status": "passed"
+      },
+      "week-graph": {
+        "polylines": 2,
+        "role": "week-graph",
+        "status": "passed",
+        "x_tick_labels": 1,
+        "y_tick_labels": 22
+      }
+    }
+  },
+  "schema": "alpha60-baseline-v2-publication-receipt/1",
+  "source_revisions": {
+    "alpha60": "4cb9e41757f7172c9eba7c3b3aab1155bb566ccb",
+    "cartofreako": "de22bb7409ba03bd0aecf958fd3aead2d60365c3",
+    "data": "96f413ef69521fbc99d4a2dd0aa761990335dc85",
+    "izzi": "2741ed8b5bf2bfcabc0a383744d8449cd71c834f",
+    "metadata": "338b625f440332c19362b3bb87166b88a78ab446"
+  },
+  "status": "passed",
+  "validation_source": "render-receipt",
+  "year": "2020"
+}

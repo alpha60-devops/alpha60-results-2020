@@ -1,0 +1,1810 @@
+{
+    "collection_name": "The Alienist: Angel of Darkness",
+    "collection_id": "2",
+    "collection_key": "alienist-201",
+    "collection_notes": "",
+    "data_version": "2026-08-05",
+    "data_btiha_sort": 1,
+    "ip_geolocation_version": "6:1777968300",
+    "collection_btiha_duplicates": [],
+    "collection_btiha_metadata": [
+        {
+            "id": 1,
+            "name": "[rutor.is]The.Alienist.S02.1080p.LakeFIlms",
+            "size_total": 2.953343659,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.511543012,
+                    "path": "The.Alienist.S02.1080p.LakeFIlms/The.Alienist.S02E01.1080p.LakeFIlms.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.441800647,
+                    "path": "The.Alienist.S02.1080p.LakeFIlms/The.Alienist.S02E02.1080p.LakeFIlms.mkv"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]The.Alienist.S02.720p.LakeFIlms",
+            "size_total": 2.144168524,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.076052333,
+                    "path": "The.Alienist.S02.720p.LakeFIlms/The.Alienist.S02E01.720p.LakeFIlms.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.068116191,
+                    "path": "The.Alienist.S02.720p.LakeFIlms/The.Alienist.S02E02.720p.LakeFIlms.mkv"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]The.Alienist.S02.SD.LakeFIlms",
+            "size_total": 1.03658648,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.511945898,
+                    "path": "The.Alienist.S02.SD.LakeFIlms/The.Alienist.S02E01.SD.LakeFIlms.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.524640582,
+                    "path": "The.Alienist.S02.SD.LakeFIlms/The.Alienist.S02E02.SD.LakeFIlms.avi"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]The.Alienist.S02.WEB-DLRip.400p.IdeaFilm",
+            "size_total": 1.387180032,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.713181184,
+                    "path": "The.Alienist.S02.WEB-DLRip.400p.IdeaFilm/The.Alienist.S02E02.WEB-DLRip.400p.IdeaFilm.avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.673998848,
+                    "path": "The.Alienist.S02.WEB-DLRip.400p.IdeaFilm/The.Alienist.S02E01.WEB-DLRip.400p.IdeaFilm.avi"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]The_Alienist_S02_2020_1080p_WEBRip_Gears_Media",
+            "size_total": 6.717435761,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3.368477627,
+                    "path": "The Alienist S02 (2020) 1080p WEBRip [Gears Media]/The Alienist S02E01 (2020) 1080p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 3.348958134,
+                    "path": "The Alienist S02 (2020) 1080p WEBRip [Gears Media]/The Alienist S02E02 (2020) 1080p WEBRip [Gears Media].mkv"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]The_Alienist_S02_2020_720p_WEBRip_Gears_Media",
+            "size_total": 2.503063277,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.266878543,
+                    "path": "The Alienist S02 (2020) 720p WEBRip [Gears Media]/The Alienist S02E02 (2020) 720p WEBRip [Gears Media].mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 1.236184734,
+                    "path": "The Alienist S02 (2020) 720p WEBRip [Gears Media]/The Alienist S02E01 (2020) 720p WEBRip [Gears Media].mkv"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]The_Alienist_S02_2020_WEBRip_Gears_Media",
+            "size_total": 1.21030694,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.611955072,
+                    "path": "The Alienist S02 (2020) WEBRip [Gears Media]/The Alienist S02E02 (2020) WEBRip [Gears Media].avi"
+                },
+                {
+                    "number": 2,
+                    "size": 0.598351868,
+                    "path": "The Alienist S02 (2020) WEBRip [Gears Media]/The Alienist S02E01 (2020) WEBRip [Gears Media].avi"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "The.Alienist.S02E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.326381924,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.005739711,
+                    "path": "The.Alienist.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.003102722,
+                    "path": "The.Alienist.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.003511022,
+                    "path": "The.Alienist.S02E01.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.314027335,
+                    "path": "The.Alienist.S02E01.1080p.HEVC.x265-MeGusta/The.Alienist.S02E01.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001134,
+                    "path": "The.Alienist.S02E01.1080p.HEVC.x265-MeGusta/The.Alienist.S02E01.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH [IPT]",
+            "size_total": 1.54816986,
+            "files_total": 13,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.97e-7,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH/the.alienist.s02e01.1080p.webrip.x264-oath.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH/the.alienist.s02e01.1080p.webrip.x264-oath.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH/the.alienist.s02e01.1080p.webrip.x264-oath.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH/the.alienist.s02e01.1080p.webrip.x264-oath.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH/the.alienist.s02e01.1080p.webrip.x264-oath.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH/the.alienist.s02e01.1080p.webrip.x264-oath.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH/the.alienist.s02e01.1080p.webrip.x264-oath.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH/the.alienist.s02e01.1080p.webrip.x264-oath.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH/the.alienist.s02e01.1080p.webrip.x264-oath.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH/the.alienist.s02e01.1080p.webrip.x264-oath.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.048168536,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH/the.alienist.s02e01.1080p.webrip.x264-oath.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH/the.alienist.s02e01.1080p.webrip.x264-oath.rar"
+                },
+                {
+                    "number": 13,
+                    "size": 6.27e-7,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH/the.alienist.s02e01.1080p.webrip.x264-oath.sfv"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH[eztv.io].mkv",
+            "size_total": 1.548167183,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.548167183,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH[eztv.io].mkv"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH[rartv]-[rarbg.to]",
+            "size_total": 1.548168009,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.548167183,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH[rarbg]/the.alienist.s02e01.1080p.webrip.x264-oath.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.97e-7,
+                    "path": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH[rarbg]/the.alienist.s02e01.1080p.webrip.x264-oath.nfo"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "The.Alienist.S02E01.480p.x264-mSD [IPT]",
+            "size_total": 0.168842031,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.00016954,
+                    "path": "The.Alienist.S02E01.480p.x264-mSD/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000093697,
+                    "path": "The.Alienist.S02E01.480p.x264-mSD/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000106037,
+                    "path": "The.Alienist.S02E01.480p.x264-mSD/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.168471793,
+                    "path": "The.Alienist.S02E01.480p.x264-mSD/The.Alienist.S02E01.480p.x264-mSD.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 9.64e-7,
+                    "path": "The.Alienist.S02E01.480p.x264-mSD/The.Alienist.S02E01.480p.x264-mSD.nfo"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "The.Alienist.S02E01.480p.x264-mSD[eztv.io].mkv",
+            "size_total": 0.168471793,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.168471793,
+                    "path": "The.Alienist.S02E01.480p.x264-mSD[eztv.io].mkv"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "The.Alienist.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.232250656,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003031915,
+                    "path": "The.Alienist.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.001901016,
+                    "path": "The.Alienist.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.001873948,
+                    "path": "The.Alienist.S02E01.720p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.225442646,
+                    "path": "The.Alienist.S02E01.720p.HEVC.x265-MeGusta/The.Alienist.S02E01.720p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001131,
+                    "path": "The.Alienist.S02E01.720p.HEVC.x265-MeGusta/The.Alienist.S02E01.720p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "The.Alienist.S02E01.720p.HEVC.x265-MeGusta[eztv.io].mkv",
+            "size_total": 0.225442646,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.225442646,
+                    "path": "The.Alienist.S02E01.720p.HEVC.x265-MeGusta[eztv.io].mkv"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "The.Alienist.S02E01.720p.WEBRip.x264-BTX [IPT]",
+            "size_total": 0.954517476,
+            "files_total": 22,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000005808,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r14"
+                },
+                {
+                    "number": 17,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r15"
+                },
+                {
+                    "number": 18,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r16"
+                },
+                {
+                    "number": 19,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r17"
+                },
+                {
+                    "number": 20,
+                    "size": 0.004510568,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.r18"
+                },
+                {
+                    "number": 21,
+                    "size": 0.05,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.rar"
+                },
+                {
+                    "number": 22,
+                    "size": 0.0000011,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX/the.alienist.s02e01.720p.webrip.x264-btx.sfv"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "The.Alienist.S02E01.720p.WEBRip.x264-BTX[eztv.io].mkv",
+            "size_total": 0.954508488,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.954508488,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX[eztv.io].mkv"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "The.Alienist.S02E01.720p.WEBRip.x264-BTX[rartv]-[rarbg.to]",
+            "size_total": 0.954514425,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.954508488,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX[rarbg]/the.alienist.s02e01.720p.webrip.x264-btx.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000005808,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.x264-BTX[rarbg]/the.alienist.s02e01.720p.webrip.x264-btx.nfo"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "The.Alienist.S02E01.720p.WEBRip.X264-EVO [IPT]",
+            "size_total": 0.837415065,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.83741443,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.X264-EVO/The.Alienist.S02E01.720p.WEBRip.X264-EVO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.35e-7,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.X264-EVO/The.Alienist.S02E01.720p.WEBRip.X264-EVO.NFO"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "The.Alienist.S02E01.720p.WEBRip.X264-EVO[eztv.io].mkv",
+            "size_total": 0.83741443,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.83741443,
+                    "path": "The.Alienist.S02E01.720p.WEBRip.X264-EVO[eztv.io].mkv"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "The.Alienist.S02E01.AAC.MP4-Mobile [IPT]",
+            "size_total": 0.180733313,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000200521,
+                    "path": "The.Alienist.S02E01.AAC.MP4-Mobile/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.000111475,
+                    "path": "The.Alienist.S02E01.AAC.MP4-Mobile/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000122634,
+                    "path": "The.Alienist.S02E01.AAC.MP4-Mobile/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.180297459,
+                    "path": "The.Alienist.S02E01.AAC.MP4-Mobile/The.Alienist.S02E01.AAC.MP4-Mobile.mp4"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001224,
+                    "path": "The.Alienist.S02E01.AAC.MP4-Mobile/The.Alienist.S02E01.AAC.MP4-Mobile.nfo"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "The.Alienist.S02E01.WEB.x264-PHOENiX[eztv.io].mkv",
+            "size_total": 0.300211988,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.300211988,
+                    "path": "The.Alienist.S02E01.WEB.x264-PHOENiX[eztv.io].mkv"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "The.Alienist.S02E01.WEBRip.x264-BTX [IPT]",
+            "size_total": 0.280509743,
+            "files_total": 17,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000005805,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.r12"
+                },
+                {
+                    "number": 15,
+                    "size": 0.000503188,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.r13"
+                },
+                {
+                    "number": 16,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.rar"
+                },
+                {
+                    "number": 17,
+                    "size": 7.5e-7,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX/the.alienist.s02e01.webrip.x264-btx.sfv"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "The.Alienist.S02E01.WEBRip.x264-BTX[eztv.io].mkv",
+            "size_total": 0.280501703,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.280501703,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX[eztv.io].mkv"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "The.Alienist.S02E01.WEBRip.x264-BTX[rartv]-[rarbg.to]",
+            "size_total": 0.280507637,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.280501703,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX[rarbg]/the.alienist.s02e01.webrip.x264-btx.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000005805,
+                    "path": "The.Alienist.S02E01.WEBRip.x264-BTX[rarbg]/the.alienist.s02e01.webrip.x264-btx.nfo"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "The.Alienist.S02E01.WEBRip.X264-EVO [IPT]",
+            "size_total": 0.278833163,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.278832543,
+                    "path": "The.Alienist.S02E01.WEBRip.X264-EVO/The.Alienist.S02E01.WEBRip.X264-EVO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.2e-7,
+                    "path": "The.Alienist.S02E01.WEBRip.X264-EVO/The.Alienist.S02E01.WEBRip.X264-EVO.NFO"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "The.Alienist.S02E01.WEBRip.X264-EVO[eztv.io].mkv",
+            "size_total": 0.278832543,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.278832543,
+                    "path": "The.Alienist.S02E01.WEBRip.X264-EVO[eztv.io].mkv"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "The.Alienist.S02E01.XviD-AFG [IPT]",
+            "size_total": 0.388357981,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000249606,
+                    "path": "The.Alienist.S02E01.XviD-AFG/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.00009524,
+                    "path": "The.Alienist.S02E01.XviD-AFG/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.000103646,
+                    "path": "The.Alienist.S02E01.XviD-AFG/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.387908386,
+                    "path": "The.Alienist.S02E01.XviD-AFG/The.Alienist.S02E01.XviD-AFG.avi"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001103,
+                    "path": "The.Alienist.S02E01.XviD-AFG/The.Alienist.S02E01.XviD-AFG.nfo"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "The.Alienist.S02E01.XviD-AFG[eztv.io].avi",
+            "size_total": 0.387908386,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.387908386,
+                    "path": "The.Alienist.S02E01.XviD-AFG[eztv.io].avi"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "The.Alienist.S02E02.1080p.HEVC.x265-MeGusta [IPT]",
+            "size_total": 0.288595503,
+            "files_total": 5,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.003081253,
+                    "path": "The.Alienist.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0001.png"
+                },
+                {
+                    "number": 2,
+                    "size": 0.005320389,
+                    "path": "The.Alienist.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0002.png"
+                },
+                {
+                    "number": 3,
+                    "size": 0.005984282,
+                    "path": "The.Alienist.S02E02.1080p.HEVC.x265-MeGusta/Screens/screen0003.png"
+                },
+                {
+                    "number": 4,
+                    "size": 0.274208444,
+                    "path": "The.Alienist.S02E02.1080p.HEVC.x265-MeGusta/The.Alienist.S02E02.1080p.HEVC.x265-MeGusta.mkv"
+                },
+                {
+                    "number": 5,
+                    "size": 0.000001135,
+                    "path": "The.Alienist.S02E02.1080p.HEVC.x265-MeGusta/The.Alienist.S02E02.1080p.HEVC.x265-MeGusta.nfo"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "The.Alienist.S02E02.1080p.HEVC.x265-MeGusta[eztv.io].mkv",
+            "size_total": 0.274208444,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.274208444,
+                    "path": "The.Alienist.S02E02.1080p.HEVC.x265-MeGusta[eztv.io].mkv"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH [IPT]",
+            "size_total": 1.494420828,
+            "files_total": 12,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 6.96e-7,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH/the.alienist.s02e02.1080p.webrip.x264-oath.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH/the.alienist.s02e02.1080p.webrip.x264-oath.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH/the.alienist.s02e02.1080p.webrip.x264-oath.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH/the.alienist.s02e02.1080p.webrip.x264-oath.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH/the.alienist.s02e02.1080p.webrip.x264-oath.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH/the.alienist.s02e02.1080p.webrip.x264-oath.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH/the.alienist.s02e02.1080p.webrip.x264-oath.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH/the.alienist.s02e02.1080p.webrip.x264-oath.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH/the.alienist.s02e02.1080p.webrip.x264-oath.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.144419562,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH/the.alienist.s02e02.1080p.webrip.x264-oath.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.15,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH/the.alienist.s02e02.1080p.webrip.x264-oath.rar"
+                },
+                {
+                    "number": 12,
+                    "size": 5.7e-7,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH/the.alienist.s02e02.1080p.webrip.x264-oath.sfv"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "the.alienist.s02e02.1080p.webrip.x264-oath[eztv.io].mkv",
+            "size_total": 1.494418332,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 1.494418332,
+                    "path": "the.alienist.s02e02.1080p.webrip.x264-oath[eztv.io].mkv"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH[rartv]-[rarbg.to]",
+            "size_total": 1.494419157,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 1.494418332,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH[rarbg]/the.alienist.s02e02.1080p.webrip.x264-oath.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 6.96e-7,
+                    "path": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH[rarbg]/the.alienist.s02e02.1080p.webrip.x264-oath.nfo"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "The.Alienist.S02E02.720p.WEBRip.x264-BTX[eztv.io].mkv",
+            "size_total": 0.877310005,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.877310005,
+                    "path": "The.Alienist.S02E02.720p.WEBRip.x264-BTX[eztv.io].mkv"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "The.Alienist.S02E02.720p.WEBRip.x264-BTX[rartv]-[rarbg.to]",
+            "size_total": 0.877315942,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Alienist.S02E02.720p.WEBRip.x264-BTX[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Alienist.S02E02.720p.WEBRip.x264-BTX[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.877310005,
+                    "path": "The.Alienist.S02E02.720p.WEBRip.x264-BTX[rarbg]/the.alienist.s02e02.720p.webrip.x264-btx.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000005808,
+                    "path": "The.Alienist.S02E02.720p.WEBRip.x264-BTX[rarbg]/the.alienist.s02e02.720p.webrip.x264-btx.nfo"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "The.Alienist.S02E02.720p.WEBRip.X264-EVO [IPT]",
+            "size_total": 0.781664726,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.781664098,
+                    "path": "The.Alienist.S02E02.720p.WEBRip.X264-EVO/The.Alienist.S02E02.720p.WEBRip.X264-EVO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.28e-7,
+                    "path": "The.Alienist.S02E02.720p.WEBRip.X264-EVO/The.Alienist.S02E02.720p.WEBRip.X264-EVO.NFO"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "The.Alienist.S02E02.720p.WEBRip.X264-EVO[eztv.io].mkv",
+            "size_total": 0.781664098,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.781664098,
+                    "path": "The.Alienist.S02E02.720p.WEBRip.X264-EVO[eztv.io].mkv"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "The.Alienist.S02E02.WEBRip.x264-BTX [IPT]",
+            "size_total": 0.258284079,
+            "files_total": 15,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.000005805,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.nfo"
+                },
+                {
+                    "number": 2,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.r00"
+                },
+                {
+                    "number": 3,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.r01"
+                },
+                {
+                    "number": 4,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.r02"
+                },
+                {
+                    "number": 5,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.r03"
+                },
+                {
+                    "number": 6,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.r04"
+                },
+                {
+                    "number": 7,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.r05"
+                },
+                {
+                    "number": 8,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.r06"
+                },
+                {
+                    "number": 9,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.r07"
+                },
+                {
+                    "number": 10,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.r08"
+                },
+                {
+                    "number": 11,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.r09"
+                },
+                {
+                    "number": 12,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.r10"
+                },
+                {
+                    "number": 13,
+                    "size": 0.018277624,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.r11"
+                },
+                {
+                    "number": 14,
+                    "size": 0.02,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.rar"
+                },
+                {
+                    "number": 15,
+                    "size": 6.5e-7,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX/the.alienist.s02e02.webrip.x264-btx.sfv"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "The.Alienist.S02E02.WEBRip.x264-BTX[eztv.io].mkv",
+            "size_total": 0.258276337,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.258276337,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX[eztv.io].mkv"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "The.Alienist.S02E02.WEBRip.x264-BTX[rartv]-[rarbg.to]",
+            "size_total": 0.258282271,
+            "files_total": 4,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 3e-8,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX[rarbg]/RARBG.txt"
+                },
+                {
+                    "number": 2,
+                    "size": 9.9e-8,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX[rarbg]/RARBG_DO_NOT_MIRROR.exe"
+                },
+                {
+                    "number": 3,
+                    "size": 0.258276337,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX[rarbg]/the.alienist.s02e02.webrip.x264-btx.mkv"
+                },
+                {
+                    "number": 4,
+                    "size": 0.000005805,
+                    "path": "The.Alienist.S02E02.WEBRip.x264-BTX[rarbg]/the.alienist.s02e02.webrip.x264-btx.nfo"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "The.Alienist.S02E02.WEBRip.X264-EVO [IPT]",
+            "size_total": 0.260292185,
+            "files_total": 2,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.260291565,
+                    "path": "The.Alienist.S02E02.WEBRip.X264-EVO/The.Alienist.S02E02.WEBRip.X264-EVO.mkv"
+                },
+                {
+                    "number": 2,
+                    "size": 6.2e-7,
+                    "path": "The.Alienist.S02E02.WEBRip.X264-EVO/The.Alienist.S02E02.WEBRip.X264-EVO.NFO"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "The.Alienist.S02E02.WEBRip.X264-EVO[eztv.io].mkv",
+            "size_total": 0.260291565,
+            "files_total": 1,
+            "files": [
+                {
+                    "number": 1,
+                    "size": 0.260291565,
+                    "path": "The.Alienist.S02E02.WEBRip.X264-EVO[eztv.io].mkv"
+                }
+            ]
+        }
+    ],
+    "collection_cumulative_by_btiha": [
+        {
+            "id": 11,
+            "name": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH[rartv]-[rarbg.to]",
+            "btih": "4efea6df1663eafaaa7307c767938da7a5aefc49",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.548168009,
+            "creation": "2020-07-20T03:46:22.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 9001,
+            "uuploaders": 4409
+        },
+        {
+            "id": 34,
+            "name": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH[rartv]-[rarbg.to]",
+            "btih": "eb0806dc36037e088ffcb88aa2331345a9ab4d22",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.494419157,
+            "creation": "2020-07-20T03:47:13.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 7821,
+            "uuploaders": 3761
+        },
+        {
+            "id": 38,
+            "name": "The.Alienist.S02E02.720p.WEBRip.X264-EVO[eztv.io].mkv",
+            "btih": "6883c18b95bd023eb2f58534bb01f24300d00f14",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.781664098,
+            "creation": "2020-07-20T03:39:04.000000000Z,EZTV,Visit us: https://eztv.io/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3908,
+            "uuploaders": 2004
+        },
+        {
+            "id": 22,
+            "name": "The.Alienist.S02E01.WEB.x264-PHOENiX[eztv.io].mkv",
+            "btih": "124de63aa7cdbe8d319c8473ab215fe0360439ff",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.300211988,
+            "creation": "2020-07-20T04:31:39.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3578,
+            "uuploaders": 1825
+        },
+        {
+            "id": 25,
+            "name": "The.Alienist.S02E01.WEBRip.x264-BTX[rartv]-[rarbg.to]",
+            "btih": "89ff75520f4148a3c14b86ae30178c20e71315a9",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.280507637,
+            "creation": "2020-07-20T07:29:32.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3355,
+            "uuploaders": 1436
+        },
+        {
+            "id": 41,
+            "name": "The.Alienist.S02E02.WEBRip.x264-BTX[rartv]-[rarbg.to]",
+            "btih": "4ecc207cb946efa0937a9ab731e7400173d2c1d4",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.258282271,
+            "creation": "2020-07-20T07:29:50.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 3311,
+            "uuploaders": 1439
+        },
+        {
+            "id": 10,
+            "name": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH[eztv.io].mkv",
+            "btih": "13f5043016130b7469dc7cb8f0a64ee418a1aabd",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.548167183,
+            "creation": "2020-07-20T04:15:56.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2965,
+            "uuploaders": 1605
+        },
+        {
+            "id": 40,
+            "name": "The.Alienist.S02E02.WEBRip.x264-BTX[eztv.io].mkv",
+            "btih": "4512c1213f50294ddc8aad3ada2738fcae676fd7",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.258276337,
+            "creation": "2020-07-20T07:49:14.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2791,
+            "uuploaders": 1006
+        },
+        {
+            "id": 36,
+            "name": "The.Alienist.S02E02.720p.WEBRip.x264-BTX[rartv]-[rarbg.to]",
+            "btih": "838724654a9b392843d16a9a463983277ce706c0",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.877315942,
+            "creation": "2020-07-20T07:30:19.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2624,
+            "uuploaders": 1197
+        },
+        {
+            "id": 18,
+            "name": "The.Alienist.S02E01.720p.WEBRip.x264-BTX[rartv]-[rarbg.to]",
+            "btih": "eba1cd1baf9460a394939c8e431096f050d1a704",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.954514425,
+            "creation": "2020-07-20T07:30:27.000000000Z,RARBG,Torrent downloaded from https://rarbg.to",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2561,
+            "uuploaders": 1285
+        },
+        {
+            "id": 33,
+            "name": "the.alienist.s02e02.1080p.webrip.x264-oath[eztv.io].mkv",
+            "btih": "7091ef95ef46571589ae35fe9e0852cf293bee28",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.494418332,
+            "creation": "2020-07-20T03:49:42.000000000Z,EZTV,Visit us: https://eztv.io/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2126,
+            "uuploaders": 954
+        },
+        {
+            "id": 15,
+            "name": "The.Alienist.S02E01.720p.HEVC.x265-MeGusta[eztv.io].mkv",
+            "btih": "d8c6f9f68014f02ad8340d609285ec20dd6b42a9",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.225442646,
+            "creation": "2020-07-20T07:51:08.000000000Z,EZTV,Visit us: https://eztv.io/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2114,
+            "uuploaders": 1257
+        },
+        {
+            "id": 43,
+            "name": "The.Alienist.S02E02.WEBRip.X264-EVO[eztv.io].mkv",
+            "btih": "25a2869149d13cd77fa50463108c27e630023265",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.260291565,
+            "creation": "2020-07-20T05:10:21.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 2054,
+            "uuploaders": 908
+        },
+        {
+            "id": 35,
+            "name": "The.Alienist.S02E02.720p.WEBRip.x264-BTX[eztv.io].mkv",
+            "btih": "d1f9006e313f5749e5cb950f9e7a3b79544b6e5e",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.877310005,
+            "creation": "2020-07-20T08:04:26.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1488,
+            "uuploaders": 573
+        },
+        {
+            "id": 24,
+            "name": "The.Alienist.S02E01.WEBRip.x264-BTX[eztv.io].mkv",
+            "btih": "626b71349e3808aafa503c2621fa92abb1adc213",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.280501703,
+            "creation": "2020-07-20T07:47:58.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1161,
+            "uuploaders": 397
+        },
+        {
+            "id": 29,
+            "name": "The.Alienist.S02E01.XviD-AFG[eztv.io].avi",
+            "btih": "bc1bf23f9c729f78450e165e0ba87f0d5022bbe3",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.387908386,
+            "creation": "2020-07-20T07:48:19.000000000Z,EZTV,Visit us: https://eztv.io/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1149,
+            "uuploaders": 434
+        },
+        {
+            "id": 27,
+            "name": "The.Alienist.S02E01.WEBRip.X264-EVO[eztv.io].mkv",
+            "btih": "7f266152b2e200481a19d4c44f11a3d4f3a84e0b",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.278832543,
+            "creation": "2020-07-20T05:09:53.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1121,
+            "uuploaders": 437
+        },
+        {
+            "id": 17,
+            "name": "The.Alienist.S02E01.720p.WEBRip.x264-BTX[eztv.io].mkv",
+            "btih": "7cf4adb58ef273baceab2063fef73e0ac3c55cb9",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.954508488,
+            "creation": "2020-07-20T08:06:12.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1051,
+            "uuploaders": 474
+        },
+        {
+            "id": 20,
+            "name": "The.Alienist.S02E01.720p.WEBRip.X264-EVO[eztv.io].mkv",
+            "btih": "02a6a0cd8f212b9fa57feeac1483f8b76001712d",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.83741443,
+            "creation": "2020-07-20T05:17:37.000000000Z,EZTV,Visit us: https://eztv.io/ - Bitcoin: 1EZTVtpeNttqdDayh3D98nfQYybeZhu5YV",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 1051,
+            "uuploaders": 496
+        },
+        {
+            "id": 13,
+            "name": "The.Alienist.S02E01.480p.x264-mSD[eztv.io].mkv",
+            "btih": "a3db18037d828fa91bf15f064e3af5299b7f4f07",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.168471793,
+            "creation": "2020-07-20T07:46:50.000000000Z,EZTV,Visit us: https://eztv.io/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 949,
+            "uuploaders": 456
+        },
+        {
+            "id": 31,
+            "name": "The.Alienist.S02E02.1080p.HEVC.x265-MeGusta[eztv.io].mkv",
+            "btih": "3e07b4070a3ea4876a3ce0a6e7068368ec9fc57c",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.274208444,
+            "creation": "2020-07-20T06:13:42.000000000Z,EZTV,Visit us: https://eztv.io/",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 940,
+            "uuploaders": 359
+        },
+        {
+            "id": 4,
+            "name": "[rutor.is]The.Alienist.S02.WEB-DLRip.400p.IdeaFilm",
+            "btih": "905c7b4418322fda0f9c65b39e2515cf2557745c",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.387180032,
+            "creation": "2020-07-20T16:50:37.000000000Z,qBittorrent v4.2.1,http://rutor.is/torrent/767225",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 452,
+            "uuploaders": 246
+        },
+        {
+            "id": 9,
+            "name": "The.Alienist.S02E01.1080p.WEBRip.x264-OATH [IPT]",
+            "btih": "7e42bce6688d5680ad4db35b451fed73c44fd014",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.54816986,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 391,
+            "uuploaders": 263
+        },
+        {
+            "id": 32,
+            "name": "The.Alienist.S02E02.1080p.WEBRip.x264-OATH [IPT]",
+            "btih": "4fd65810938fb936ef3d30572b1e0789c2c6adc4",
+            "resolution": "1080",
+            "encoding": "264",
+            "gigabytes": 1.494420828,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 366,
+            "uuploaders": 233
+        },
+        {
+            "id": 37,
+            "name": "The.Alienist.S02E02.720p.WEBRip.X264-EVO [IPT]",
+            "btih": "d72777ad0a20d933462b4d2ec6e24bcb0f7c9870",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.781664726,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 337,
+            "uuploaders": 241
+        },
+        {
+            "id": 19,
+            "name": "The.Alienist.S02E01.720p.WEBRip.X264-EVO [IPT]",
+            "btih": "133e4856a152e795872162c7c45b279702c81ae1",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.837415065,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 328,
+            "uuploaders": 242
+        },
+        {
+            "id": 1,
+            "name": "[rutor.is]The.Alienist.S02.1080p.LakeFIlms",
+            "btih": "a06c9f5b0e80266288595353cb8652f36e59423f",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 2.953343659,
+            "creation": "2020-07-20T10:48:36.000000000Z,BitTorrent/7.10.5,http://rutor.is/torrent/767163",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 215,
+            "uuploaders": 78
+        },
+        {
+            "id": 7,
+            "name": "[rutor.is]The_Alienist_S02_2020_WEBRip_Gears_Media",
+            "btih": "b50a3e976d8f97a1304aa67473f6ae4d3d8fd4a0",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 1.21030694,
+            "creation": "2020-07-20T16:15:31.000000000Z,uTorrent/2210,http://rutor.is/torrent/767213",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 181,
+            "uuploaders": 103
+        },
+        {
+            "id": 6,
+            "name": "[rutor.is]The_Alienist_S02_2020_720p_WEBRip_Gears_Media",
+            "btih": "1806afaa529863331952f1ab82436e8522a8d740",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.503063277,
+            "creation": "2020-07-20T16:02:21.000000000Z,uTorrent/2210,http://rutor.is/torrent/767211",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 140,
+            "uuploaders": 86
+        },
+        {
+            "id": 5,
+            "name": "[rutor.is]The_Alienist_S02_2020_1080p_WEBRip_Gears_Media",
+            "btih": "9f1f0dedcc2d37a067405d210c93342e896f5d10",
+            "resolution": "1080",
+            "encoding": "none",
+            "gigabytes": 6.717435761,
+            "creation": "2020-07-20T16:03:13.000000000Z,uTorrent/2210,http://rutor.is/torrent/767210",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 133,
+            "uuploaders": 76
+        },
+        {
+            "id": 30,
+            "name": "The.Alienist.S02E02.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "2a152012bebe78cef66f00a4ecdf0a1198f384a1",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.288595503,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 131,
+            "uuploaders": 104
+        },
+        {
+            "id": 3,
+            "name": "[rutor.is]The.Alienist.S02.SD.LakeFIlms",
+            "btih": "51c8ff3e6aec75475db4fb90ccdf9728836351c9",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 1.03658648,
+            "creation": "2020-07-20T10:52:38.000000000Z,BitTorrent/7.10.5,http://rutor.is/torrent/767165",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 125,
+            "uuploaders": 56
+        },
+        {
+            "id": 8,
+            "name": "The.Alienist.S02E01.1080p.HEVC.x265-MeGusta [IPT]",
+            "btih": "7e416392ab1aff2b8c98086a16ed92cfc3da4196",
+            "resolution": "1080",
+            "encoding": "265",
+            "gigabytes": 0.326381924,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 117,
+            "uuploaders": 96
+        },
+        {
+            "id": 14,
+            "name": "The.Alienist.S02E01.720p.HEVC.x265-MeGusta [IPT]",
+            "btih": "e1c15d9d7819336e291e2e2b2bb249c5aa503b51",
+            "resolution": "720",
+            "encoding": "265",
+            "gigabytes": 0.232250656,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 85,
+            "uuploaders": 63
+        },
+        {
+            "id": 2,
+            "name": "[rutor.is]The.Alienist.S02.720p.LakeFIlms",
+            "btih": "97d98e24b45a7ef011e1b6744a437236725e6ce9",
+            "resolution": "720",
+            "encoding": "none",
+            "gigabytes": 2.144168524,
+            "creation": "2020-07-20T10:51:21.000000000Z,BitTorrent/7.10.5,http://rutor.is/torrent/767164",
+            "ssl": false,
+            "private": false,
+            "i2p": false,
+            "udownloaders": 82,
+            "uuploaders": 32
+        },
+        {
+            "id": 42,
+            "name": "The.Alienist.S02E02.WEBRip.X264-EVO [IPT]",
+            "btih": "58dc432b8c81a3025e596a3c0bd88e949da9c136",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.260292185,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 71,
+            "uuploaders": 57
+        },
+        {
+            "id": 26,
+            "name": "The.Alienist.S02E01.WEBRip.X264-EVO [IPT]",
+            "btih": "fc014c6f1f265e47fccbd2aeddecf7a216035e77",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.278833163,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 67,
+            "uuploaders": 48
+        },
+        {
+            "id": 28,
+            "name": "The.Alienist.S02E01.XviD-AFG [IPT]",
+            "btih": "a363c26e38b285398140dbee09071b8fa6340800",
+            "resolution": "sd",
+            "encoding": "xvid",
+            "gigabytes": 0.388357981,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 62,
+            "uuploaders": 54
+        },
+        {
+            "id": 16,
+            "name": "The.Alienist.S02E01.720p.WEBRip.x264-BTX [IPT]",
+            "btih": "2bf23423d20734c853f2fc1b355f6b923c8ab448",
+            "resolution": "720",
+            "encoding": "264",
+            "gigabytes": 0.954517476,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 40,
+            "uuploaders": 35
+        },
+        {
+            "id": 12,
+            "name": "The.Alienist.S02E01.480p.x264-mSD [IPT]",
+            "btih": "aa9c79ffaaa17d69ad9515d3916144de15fdb2d0",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.168842031,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 31,
+            "uuploaders": 26
+        },
+        {
+            "id": 21,
+            "name": "The.Alienist.S02E01.AAC.MP4-Mobile [IPT]",
+            "btih": "a385ee070b701572eaeac458388b8ccdf891138a",
+            "resolution": "sd",
+            "encoding": "none",
+            "gigabytes": 0.180733313,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 27,
+            "uuploaders": 22
+        },
+        {
+            "id": 39,
+            "name": "The.Alienist.S02E02.WEBRip.x264-BTX [IPT]",
+            "btih": "4d0b46ae5f0b83867678cb479ea88de319fce207",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.258284079,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 26,
+            "uuploaders": 19
+        },
+        {
+            "id": 23,
+            "name": "The.Alienist.S02E01.WEBRip.x264-BTX [IPT]",
+            "btih": "17d1ba636ccb0e186de4bbb506a5b9cb53079619",
+            "resolution": "sd",
+            "encoding": "264",
+            "gigabytes": 0.280509743,
+            "creation": "1970-01-01T00:00:00.000000000Z",
+            "ssl": false,
+            "private": true,
+            "i2p": false,
+            "udownloaders": 15,
+            "uuploaders": 14
+        }
+    ]
+}
