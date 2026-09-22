@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-10T15:44:02Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/lego-star-wars-holiday-special-2020.xz`
@@ -40,11 +40,11 @@ description: "Cache coverage and visualization audit for one media object."
 - hourly gap: last `2020-12-08 21:00`, resumed `2020-12-08 23:00` — missing 1 hour(s)
 - hourly gap: last `2020-12-14 00:00`, resumed `2020-12-14 02:00` — missing 1 hour(s)
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![Lego Star Wars Holiday Special 2020 collection size histogram](figures/lego-star-wars-holiday-special-2020-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -67,24 +67,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![lego-star-wars-holiday-special-2020 downloads by day](figures/lego-star-wars-holiday-special-2020-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2020/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2020/refs/heads/main/data/geojson.cumulative/lego-star-wars-holiday-special-2020-cumulative-aggregate.geojson.gz" data-map-title="Lego Star Wars Holiday Special 2020 — lego-star-wars-holiday-special-2020" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open Lego Star Wars Holiday Special 2020 (lego-star-wars-holiday-special-2020) cumulative data map in new window" title="Opens interactive map for Lego Star Wars Holiday Special 2020 (lego-star-wars-holiday-special-2020) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 5.72 | 35.20 | 19.55 | 19.10 | 2.23 | 9.45 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![Lego Star Wars Holiday Special 2020 cumulative map](figures/lego-star-wars-holiday-special-2020-carto.png)](figures/lego-star-wars-holiday-special-2020-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/lego-star-wars-holiday-special-2020-data-ge-1080p.webp)](figures/lego-star-wars-holiday-special-2020-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/lego-star-wars-holiday-special-2020-data-lt-1080p.webp)](figures/lego-star-wars-holiday-special-2020-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}

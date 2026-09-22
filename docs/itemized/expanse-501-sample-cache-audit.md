@@ -24,7 +24,7 @@ description: "Cache coverage and visualization audit for one media object."
 | Data version | `2026-08-05` |
 | IP geolocation version | `6:1777968300` |
 
-## 2. Sample coverage report
+## 2. Coverage report
 
 - Generated: 2026-09-04T03:20:38Z
 - Evidence: read-only Day-member stream of the selected cache archive; no raw sample contents were opened
@@ -38,11 +38,11 @@ description: "Cache coverage and visualization audit for one media object."
 - missing Day index 62: `2021-02-15`
 - missing Day index 63: `2021-02-16`
 
-## 3. Media objects file size histogram
+## 3. File sizes histogram *median[lowest, highest]*
 
 ![The Expanse collection size histogram](figures/expanse-501-cumulative-detail-btiha-itemized-by-bytes.svg)
 
-## 4. Visualization pass — graphs
+## 4. Graphs
 
 ### Downloads by week cumulative (normalized start)
 
@@ -65,24 +65,29 @@ description: "Cache coverage and visualization audit for one media object."
 
 ![expanse-501 downloads by day](figures/expanse-501-downloads-by-day-day.svg)
 
-## 5. Visualization pass — maps
+## 5. Cumulative Maps
 
-### Cumulative geographic slices
+<script defer type="text/javascript" crossorigin="anonymous" id="geojson-map"
+        src="../../resources/izzi-map-leaflet-geojson-v7.8.js"></script>
+
+<!-- https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2020/refs/heads/main/data/ -->
+
+### <a href="https://raw.githubusercontent.com/alpha60-devops/alpha60-results-2020/refs/heads/main/data/geojson.cumulative/expanse-501-cumulative-aggregate.geojson.gz" data-map-title="The Expanse — expanse-501" onclick="leaflet_map_open_window(this.href, this.dataset.mapTitle); return false;" class="table-link" aria-label="Open The Expanse (expanse-501) cumulative data map in new window" title="Opens interactive map for The Expanse (expanse-501) data">Swarm Detail</a>
+
+### Geographic Regions
 
 | Africa | Americas | Asia | Europe | Oceania | Unknown |
 | --- | --- | --- | --- | --- | --- |
 | 5.15 | 27.69 | 14.32 | 41.80 | 5.21 | 1.17 |
 
-### Cumulative network infrastructure
+### Network infrastructure
 
 [![The Expanse cumulative map](figures/expanse-501-carto.png)](figures/expanse-501-carto-4k.webp){:target="_blank" rel="noopener"}
 
-### Cumulative data maps
-
-**Cumulative >= 1080p**
+### Resolution >= 1080p
 
 [![Cumulative >= 1080p](figures/expanse-501-data-ge-1080p.webp)](figures/expanse-501-data-ge-1080p-4k.webp){:target="_blank" rel="noopener"}
 
-**Cumulative < 1080p**
+### Resolution < 1080p
 
 [![Cumulative < 1080p](figures/expanse-501-data-lt-1080p.webp)](figures/expanse-501-data-lt-1080p-4k.webp){:target="_blank" rel="noopener"}
