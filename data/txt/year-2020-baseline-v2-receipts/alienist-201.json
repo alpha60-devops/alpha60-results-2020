@@ -6,7 +6,7 @@
     "wikidata_id": "Q27988195",
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Alienist_(TV_series)"
   },
-  "coverage_sha256": "318dddfd48ddaa237e330d463c75a1c1d88e219ca6d1e8f5a5370fc2d0c2ba61",
+  "coverage_sha256": "90107cb161ee2ec7bb9952b429a645dbeb0becca3776bb14c9fec588e3622e5a",
   "generated_at": "2026-09-10T16:11:26.633186+00:00",
   "human_review": null,
   "immutable_inputs": {
@@ -39,7 +39,7 @@
   "media_object": "alienist-201",
   "published_files": {
     "data/csv/bytes/alienist-201-cumulative-detail.2020-btiha-itemized-by-bytes.csv": "08ce29c7eebdee97fa6af491d4965332757a9abdf8c7ca3bd92133a0b604a3fd",
-    "docs/itemized/alienist-201-sample-cache-audit.md": "503cabf099b1fc15f2358953ad6902e7adc36d6fadd76b8da7b9df8a3957f2fc",
+    "docs/itemized/alienist-201-sample-cache-audit.md": "5724012d8d2b2958d8817f05a669d7f38f920937ed07f1ae693578174cf2db8c",
     "docs/itemized/figures/alienist-201-carto-4k.webp": "351a303aae0f68ae4173ecdaedd385a1ffe33b91ae60ba13a6ca24c281dacbc6",
     "docs/itemized/figures/alienist-201-carto.png": "cbec35289b8804285867c3b832e6051f98c29f00160a86685661db8771563b1e",
     "docs/itemized/figures/alienist-201-cumulative-detail-btiha-itemized-by-bytes.svg": "9306199c5611df421b2eea1aa611979fb06b07c8798c38e3a22eec776555e714",

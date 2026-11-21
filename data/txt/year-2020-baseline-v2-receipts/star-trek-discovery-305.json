@@ -6,7 +6,7 @@
     "wikidata_id": "Q21296543",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Star_Trek:_Discovery"
   },
-  "coverage_sha256": "fe24f6b87e50ff18231e44ee64da35854da0ff8c0f6f98cae973087277fc87bb",
+  "coverage_sha256": "88923ba4cb0fbfd5756cf5e49bdd3347b6d7a973f07427bc03003c71c8531d7c",
   "generated_at": "2026-09-10T16:11:59.159959+00:00",
   "human_review": null,
   "immutable_inputs": {
@@ -48,7 +48,7 @@
     "docs/itemized/figures/star-trek-discovery-305-data-lt-1080p.webp": "72d2a3e98db755b6030e4c2acade269be4b5bb4f98bffc62cb3372fa95b87e6c",
     "docs/itemized/figures/star-trek-discovery-305-downloads-by-day-day.svg": "55c13a9bc7e6abac70ee31ba69d24128587bc62b5aa1360b07550e0bf627579f",
     "docs/itemized/figures/star-trek-discovery-305-downloads-by-week-star-trek-discovery-305-week.svg": "5e15cab4225ccf523ccf761df381766b4528bfb02769818857b9b132e454b804",
-    "docs/itemized/star-trek-discovery-305-sample-cache-audit.md": "f4e16232229963d924b0f8f7d86ec13930b549c8960886d6ce5b189629b1f534",
+    "docs/itemized/star-trek-discovery-305-sample-cache-audit.md": "31d92f472dd61f93fe87bb87d9f87d80341356f01fbe05695609f7d4524c2be6",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {

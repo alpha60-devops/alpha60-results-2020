@@ -29,7 +29,6 @@ description: "Cache coverage and visualization audit for one media object."
 - Generated: 2026-09-10T15:44:01Z
 - Sample archive directory: `/mnt/gold/src/alpha60-samples-raw.gold/alienist-201.xz`
 - Hour directories: 42
-- Zero-length sample files: 0
 - Other unparsable sample files: 0
 - Hourly discontinuities: 0 (0 missing hours)
 - Missing days: 0

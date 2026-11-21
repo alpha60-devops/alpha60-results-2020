@@ -6,7 +6,7 @@
     "wikidata_id": "Q102050021",
     "wikipedia_url": "https://en.wikipedia.org/wiki/The_Lego_Star_Wars_Holiday_Special"
   },
-  "coverage_sha256": "b5e2da99a61cdfa72658bb321e58bc62aed72886fe4014cf40842765c0ad39db",
+  "coverage_sha256": "11dbd6ce7ddfd2ca8f7cb463a24f865d69932d4641d8100dd48b03b74e14c0ff",
   "generated_at": "2026-09-10T16:12:34.660274+00:00",
   "human_review": null,
   "immutable_inputs": {
@@ -48,7 +48,7 @@
     "docs/itemized/figures/lego-star-wars-holiday-special-2020-data-lt-1080p.webp": "3a6a87d48ce124489576b0ad661ff7bd9cf08fafe1743bf2d59eb3c4a5de6c16",
     "docs/itemized/figures/lego-star-wars-holiday-special-2020-downloads-by-day-day.svg": "c28b4f72972647096670579b60054ef34e804e3c9326c6d3d7489a612af82284",
     "docs/itemized/figures/lego-star-wars-holiday-special-2020-downloads-by-week-lego-star-wars-holiday-special-2020-week.svg": "aef0f32e82fef623d4bd1dfb6082feaf7ede6571e82fb258df755d36f2e1c3b7",
-    "docs/itemized/lego-star-wars-holiday-special-2020-sample-cache-audit.md": "2bb2eef766e93e11c48aa13d96e317d37b2e065d7a712de87b0c99b78f6c5788",
+    "docs/itemized/lego-star-wars-holiday-special-2020-sample-cache-audit.md": "0d206b44a30f058b06fdcec67e2d46dc144b602b66fab35889e589e43f83eebe",
     "resources/izzi-graph-hover-txt-polyline-red.js": "e1ea59f2bf76eea4f2d8a9380c478e6236d5680656d46fdee0b013af7482c827"
   },
   "render_receipt": {
